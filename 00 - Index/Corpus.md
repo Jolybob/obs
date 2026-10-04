@@ -8,28 +8,31 @@ tags:
 
 # Corpus PF2e FR
 
-Le dépôt source français est structuré en collections Foundry distinctes : ascendances, héritages, historiques, classes, capacités de classe, dons, sorts, équipement, divinités, actions, états, effets, dangers, véhicules et de nombreux bestiaires. citeturn0search0
+Le wiki est construit à partir des collections structurées du corpus français PF2e.
 
-## Collections à importer
+## Contenu importé
 
-- [[Ascendances]]
-- [[Classes]]
-- [[Dons]]
-- [[Sorts]]
-- [[Créatures]]
-- [[Actions]]
-- [[Conditions]]
+- Personnage : ascendances, héritages, historiques, classes, capacités, dons et familiers
+- Règles : actions, conditions et états
+- Magie : sorts
 - Équipement
-- Historiques
-- Héritages
-- Capacités de classe
 - Divinités
 - Dangers
 - Véhicules
-- Effets
-- Capacités des monstres
-- Bestiaires de suppléments et d'aventures
+- Effets et capacités
+- Créatures et bestiaires
 
-## Stratégie
+## Principe
 
-Les données sont importées comme notes Markdown indépendantes afin qu'Obsidian puisse les indexer et les relier par wikilinks. Les entrées dont la traduction française est absente doivent rester identifiables comme non traduites plutôt que d'être présentées comme du contenu français officiel.
+Chaque entrée devient une note Markdown indépendante avec :
+
+- son titre français ;
+- son titre anglais lorsqu'il existe ;
+- son identifiant source ;
+- sa collection d'origine ;
+- son type PF2e ;
+- son texte ;
+- ses références converties en wikilinks lorsque possible.
+
+> [!warning] Traduction
+> La présence d'une fiche dans le corpus ne constitue pas à elle seule une garantie que son contenu est traduit. Le statut de traduction de la source française reste la référence.
