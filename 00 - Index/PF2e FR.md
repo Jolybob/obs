@@ -8,8 +8,8 @@ tags:
 
 # Pathfinder 2e — Wiki français
 
-> [!abstract] À propos
-> Wiki Obsidian du corpus **PF2e FR**. Les entrées sont importées automatiquement et conservent leur collection et leur identifiant source.
+> [!abstract] Bienvenue
+> Une base Obsidian searchable du corpus **PF2e FR**, organisée pour retrouver rapidement règles, options de personnage, magie, équipement et créatures.
 
 ## Personnage
 
@@ -28,31 +28,24 @@ tags:
 - [[Actions]]
 - [[Conditions]]
 - [[États]]
-- [[Traits]]
 
-## Magie
+## Magie & équipement
 
 - [[Sorts]]
-
-## Équipement
-
 - [[Équipement]]
-
-## Créatures & dangers
-
-- [[Créatures]]
-- [[Dangers]]
 
 ## Monde
 
+- [[Créatures]]
+- [[Dangers]]
 - [[Divinités]]
 - [[Véhicules]]
+- [[Traits]]
 
-## Corpus & maintenance
+## Corpus
 
 - [[Corpus]]
 - [[État de l'import]]
-- [[Import v2]]
 
-> [!note] Recherche
-> Toutes les entrées importées sont des notes Markdown indépendantes et peuvent être retrouvées avec la recherche globale d'Obsidian.
+> [!tip] Recherche
+> La recherche globale d'Obsidian permet de retrouver directement n'importe quelle fiche importée.
