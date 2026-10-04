@@ -8,51 +8,34 @@ tags:
 
 # État de l'import PF2e FR
 
-## Source
+## Statut
 
-Le corpus de référence suivi est le projet **PF2e - Français - fan made - unofficial**. Sa release la plus récente visible est **8.5.1**, publiée le 26 septembre 2026. citeturn0search0
+> [!success] Import automatique opérationnel
+> Le workflow GitHub génère le corpus Obsidian à partir du dépôt source PF2e FR.
 
-La configuration actuelle du projet recense notamment :
+Le dernier import vérifié a produit **26 737 fichiers Markdown**, dont les fiches du corpus et les pages de navigation, templates et outils.
 
-- ascendances et capacités d'ascendance
-- héritages
-- historiques
-- classes et capacités de classe
-- dons
-- pouvoirs de familiers
-- sorts
-- équipement
-- divinités
-- actions
-- états
-- bénédictions et malédictions
-- effets
-- capacités des monstres
-- dangers
-- véhicules
-- bestiaires de base, Monster Core, PNJ, PFS, suppléments et campagnes citeturn0search1
+## Collections principales
 
-## Déjà importé manuellement
+- Ascendances et capacités d'ascendance
+- Héritages
+- Historiques
+- Classes et capacités de classe
+- Dons
+- Pouvoirs de familiers
+- Sorts
+- Équipement
+- Divinités
+- Actions
+- États
+- Effets
+- Dangers
+- Véhicules
+- Bestiaires et collections de créatures
 
-- [[Artiste virtuose]]
-- [[Anonymat]]
-- [[Chirurgie risquée]]
+## Règle de maintenance
 
-## Import automatisé
+Les fiches générées ne doivent pas être modifiées manuellement. Pour modifier le contenu ou la présentation des fiches importées, il faut modifier l'importateur puis relancer le workflow.
 
-Le script [[../tools/import_pf2e_fr.py]] est maintenant prévu pour ces familles de données et conserve la provenance par collection.
-
-> [!WARNING]
-> Le dépôt Obsidian ne doit pas présenter une entrée comme « traduite » simplement parce qu'elle existe dans le corpus source. Les états de traduction du projet français doivent rester la référence pour distinguer contenu traduit, non traduit et à vérifier.
-
-## Objectif
-
-Obtenir une note Markdown indépendante pour chaque entrée exploitable, avec :
-
-1. titre français ;
-2. titre anglais lorsqu'il existe ;
-3. identifiant source ;
-4. collection source ;
-5. type PF2e ;
-6. texte français ;
-7. liens Obsidian vers les références connues.
+> [!warning] Statut de traduction
+> Une fiche présente dans le corpus n'est pas nécessairement une traduction française complète. Le statut de traduction de la source PF2e FR reste la référence.
