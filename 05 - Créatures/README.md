@@ -1,5 +1,11 @@
 # Créatures
 
-Le corpus source distingue les bestiaires classiques, les Monster Core, les PNJ, les bestiaires de saisons PFS et de nombreux suppléments et campagnes. citeturn0search0
+Le corpus conserve les créatures séparées par collection afin de préserver leur provenance.
 
-Les créatures seront importées comme notes individuelles avec leurs statistiques et leur description française, sans mélanger les entrées de sources différentes.
+## Navigation
+
+- [[00 - Index/Créatures|Index des créatures]]
+- Parcourez les sous-dossiers de ce dossier pour accéder aux différentes collections.
+
+> [!tip] Recherche
+> Utilisez `#creature` ou la recherche globale d'Obsidian pour retrouver une créature.
