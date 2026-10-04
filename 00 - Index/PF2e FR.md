@@ -9,7 +9,7 @@ tags:
 # Pathfinder 2e — Wiki français
 
 > [!abstract] Bienvenue
-> Une base Obsidian searchable du corpus **PF2e FR**, organisée pour retrouver rapidement règles, options de personnage, magie, équipement et créatures.
+> Une base Obsidian du corpus **PF2e FR**, organisée pour retrouver rapidement règles, options de personnage, magie, équipement et créatures.
 
 ## Personnage
 
