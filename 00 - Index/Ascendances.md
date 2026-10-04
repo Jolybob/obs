@@ -1,12 +1,17 @@
+---
+title: "Ascendances"
+type: index
+tags:
+  - pf2e
+  - index
+  - ancestry
+---
+
 # Ascendances
 
-Index des ascendances PF2e.
+Les ascendances du corpus sont importées automatiquement.
 
-- [[Nains]]
-- [[Elfes]]
-- [[Humains]]
-- [[Gnomes]]
-- [[Halfelins]]
-- [[Orcs]]
+Explorez les fiches dans `02 - Personnage/Ascendances/` ou utilisez la recherche d'Obsidian.
 
-> Cette note sert de point d'entrée pour les futures données importées.
+> [!info] Navigation
+> Les capacités d'ascendance sont disponibles séparément dans [[02 - Personnage/Capacités d'ascendance|Capacités d'ascendance]].
