@@ -1,5 +1,16 @@
+---
+title: "Dons"
+type: index
+tags:
+  - pf2e
+  - index
+---
+
 # Dons
 
-Index des dons PF2e.
+**6 275 dons** sont actuellement présents dans le corpus importé.
 
-> Les dons seront ajoutés lors de l'import du corpus.
+Utilisez la recherche d'Obsidian ou le tag `#feat` pour explorer les entrées.
+
+> [!info] Source
+> Les fiches sont générées automatiquement à partir de la collection française des dons.
