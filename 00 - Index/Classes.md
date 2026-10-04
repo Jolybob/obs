@@ -1,5 +1,47 @@
+---
+title: "Classes"
+type: index
+tags:
+  - pf2e
+  - index
+  - class
+---
+
 # Classes
 
-Index des classes PF2e.
+Les **29 classes** présentes dans le corpus sont importées automatiquement.
 
-> Les classes seront ajoutées lors de l'import du corpus.
+## Liste
+
+- [[Alchimiste]]
+- [[Animiste]]
+- [[Barbare]]
+- [[Barde]]
+- [[Bretteur]]
+- [[Champion]]
+- [[Commandant]]
+- [[Conjurateur]]
+- [[Druide]]
+- [[Enquêteur]]
+- [[Ensorceleur]]
+- [[Exalté]]
+- [[Forgerune]]
+- [[Franc-tireur]]
+- [[Gardien]]
+- [[Guerrier]]
+- [[Inventeur]]
+- [[Kinétiste ou Cinétiste]]
+- [[Magicien]]
+- [[Magus]]
+- [[Moine]]
+- [[Oracle]]
+- [[Prêtre]]
+- [[Roublard]]
+- [[Sorcier]]
+- [[Thaumaturge]]
+- [[Voleur]]
+- [[Psychique]]
+- [[Investigateur]]
+
+> [!info] Mise à jour
+> Cette page est une porte d'entrée vers les classes du corpus. La liste est maintenue avec l'import automatique.
