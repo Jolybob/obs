@@ -1,3 +1,5 @@
 # Magie
 
-Contient les sorts, traditions magiques et domaines.
+Tout le contenu magique importé dans le wiki.
+
+- [[00 - Index/Sorts|Sorts]]
