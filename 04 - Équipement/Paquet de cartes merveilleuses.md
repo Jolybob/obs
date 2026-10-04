@@ -1,0 +1,27 @@
+---
+title: "Paquet de cartes merveilleuses"
+title_en: "Deck of Many Things"
+type: item
+source_id: "equipment-22-Gyi4IVrAVJRPJF2s"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Paquet de cartes merveilleuses
+Ces 22 cartes de vélin lourd, généralement rangées dans une boîte ou une pochette, portent des images ou des glyphes représentant des symboles de pouvoir magique. Regarder une carte sans l'activer montre la face de la carte mais n'a aucun effet magique. Une fois que le jeu est face cachée, les cartes se répartissent de manière aléatoire - si vous regardez la carte du dessus plusieurs fois, vous pouvez constater qu'elle change. Toute carte retirée du jeu disparaît après quelques secondes, pour réapparaître dans le jeu.
+
+
+**Activation** 1 (concentration, manipulation)
+
+
+
+
+
+**Effet** Vous déclarez combien de cartes vous allez piocher face cachée dans la pioche, puis tirez votre première carte. Cette carte prend effet immédiatement. Toute autre carte doit être tirée dans l'heure qui suit et toute carte annoncée que vous ne tirez pas volontairement s'envole du paquet et vous affecte quand même. Vous ne pouvez plus jamais activer le même paquet de cartes merveilleuses.
+
+
+Une fois qu'une carte est tirée, elle produit son effet immédiatement et disparaît ensuite pour retourner dans le paquet, qui se mélange immédiatement (Le Fou et le Bouffon sont des exceptions, comme décrit dans leurs entrées ci-dessous). Les effets de chaque carte sont les suivants.

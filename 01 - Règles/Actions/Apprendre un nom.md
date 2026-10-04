@@ -1,0 +1,30 @@
+---
+title: "Apprendre un nom"
+title_en: "Learn Name"
+type: action
+source_id: "yOtu5X3qWfjuX8Vy"
+collection: "actions"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - action
+  - source/actions
+---
+
+# Apprendre un nom
+Vous passez une semaine à essayer de découvrir et à apprendre le nom d'une créature. La forme exacte de votre effort varie en fonction de la compétence que vous utilisez, des ressources dont vous disposez et d'autres circonstances. Décidez si vous recherchez le nom d'un individu spécifique ou des noms en général. Si vous recherchez le nom d'un individu, vous devez être en mesure de l'identifier clairement ; par exemple, "le général qui a dirigé l'invasion" est suffisant mais "la personne qui a tué la duchesse" ne l'est pas, si vous ne savez pas qui a tué la duchesse. Si vous recherchez des noms de manière plus générale, nommez un type de créature.
+
+
+Le MJ choisit un DD, généralement basé sur le niveau de la créature en question. Si vous cherchez des noms de manière plus générale, le DD est généralement basé sur le niveau de la créature dont le MJ décide de fournir le nom, généralement une créature du type choisi de votre niveau ou inférieur. Le MJ peut modifier le DD de la tâche en fonction des ressources dont vous disposez, de l'utilisation d'une compétence inhabituellement appropriée ou inappropriée ou d'autres circonstances. Tentez un test avec une compétence qui pourrait être utilisée pour rappeler des connaissances sur le type de la créature. Après avoir tenté d'Apprendre un nom, vous ne pouvez généralement pas réessayer d'apprendre le nom du même individu, à moins d'avoir accès à une nouvelle source d'information substantielle, à l'appréciation du MJ.
+
+
+
+
+
+**Succès critique** Vous trouvez un ou plusieurs noms privés de l'individu spécifique que vous avez choisi ou le nom privé d'une créature avec le type que vous avez choisi et un niveau égal au niveau de la tâche. Vous trouvez également des fragments cachés de leur nom véritable et, à la discrétion du MJ, vous pouvez trouver un indice menant à une aventure où vous pourrez apprendre le reste du vrai nom.
+
+
+**Succès** Comme en cas de succès critique, sauf que vous ne trouvez qu'un seul nom privé et ne trouvez pas de fragments cachés de leur nom véritable.
+
+
+**Échec critique** Si vous cherchiez le nom d'un individu spécifique, vous ne trouvez aucune nouvelle information et cet individu prend conscience de vos efforts. Si vous cherchiez un nom général d'un type spécifique, vous trouvez le nom d'une créature ou des noms susceptibles de vous attirer des ennuis, voire le nom d'un tout autre type de créature.

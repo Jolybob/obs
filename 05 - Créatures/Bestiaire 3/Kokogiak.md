@@ -1,0 +1,17 @@
+---
+title: "Kokogiak"
+type: creature
+source_id: "cmzlnTgWcJjnISAK"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Kokogiak
+Aussi mortels sur terre que dans l'eau, les kokogiaks sont l'un des prédateurs les plus redoutés de la toundra. De loin, on pourrait les confondre avec un ours polaire de taille effrayante mais quiconque a le malheur d'en voir un de près remarquera les six pattes supplémentaires de la créature et l'allongement inquiétant de son cou avant de connaître une fin prématurée. Ces monstruosités traquent inlassablement leurs proies sur la glace et la neige ; ce sont également de puissants nageurs qui se tapissent sous la glace pour surgir et tendre une embuscade aux créatures sans méfiance à la surface ou qui plongent pour un repas marin.
+
+
+Comme si de nombreuses griffes et une morsure brutale n'étaient pas assez inquiétantes, ces créatures de cauchemar peuvent être méchamment trompeuses, attirant leurs proies dans les tempêtes hivernales. Le rusé kokogiak imite les sons d'une créature en détresse, trompant sa cible pour qu'elle abandonne la sécurité de son abri et se lance dans une tentative de sauvetage malheureuse. Ceux qui vivent dans les royaumes arctiques ont appris à réagir avec prudence en entendant des appels à l'aide au cours d'une longue nuit d'hiver.

@@ -1,0 +1,24 @@
+---
+title: "Soldat nagaji"
+title_en: "Nagaji Soldier"
+type: creature
+source_id: "OLGvwUyA441SwgQn"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Soldat nagaji
+Les nagajis sont des bipèdes costauds à la silhouette humanoïde et à la tête serpentine. Leur corps est recouvert d'écailles en couches serrées dont la couleur varie du vert au brun et presque tous les nagajis ont une crête colorée le long de leur tête et de leur dos. Les yeux ophidiens prêtent aux nagajis un visage impérieux, avec des iris qui recouvrent toutes les couleurs de l'arc-en-ciel.
+
+
+La physiologie des nagajis est très variée. Certains possèdent des queues vestigiales, d'autres des griffes acérées, et certains arborent même d'impressionnants crocs capables d'injecter un simple venin. Comme les serpents, les nagajis ont le sang froid et se reproduisent en pondant des œufs ; en conséquence, les territoires des nagajis chevauchent rarement ceux des humanoïdes mammifères, tant leurs besoins environnementaux divergent. C'est un peuple rustique et fort mais leurs liens étroits avec les nagas signifient que beaucoup d'entre eux ont également le potentiel d'une puissante magie.
+
+
+Il y a longtemps, la déesse naga Nalinivati a créé les premiers nagajis comme colonne vertébrale d'une société qui respectait les nagas. Mais les nagajis n'ont jamais été des vassaux sans volonté et la déesse les a dotés du libre arbitre. De nombreux nagajis servent volontiers les nagas jusqu'à ce jour, honorant certains d'entre eux comme de véritables divinités. Si les étrangers peuvent considérer les nagajis comme des serviteurs ayant subi un lavage de cerveau, les nagajis contestent cette affirmation. Bien sûr, il y a des maîtres nagas maléfiques et injustes, mais il y a tout autant de souverains nagas justes et équitables et l'histoire des nagajis se souvient de diverses rébellions et révolutions lorsqu'une matriarche a dépassé les limites pour soutenir les prétentions à la royauté d'un nouveau naga. Les nagajis notent avec précision que leur longue histoire avec les nagas n'est pas simple et affirment que le partenariat va dans les deux sens : les nagas s'appuient autant sur les nagajis pour la gestion de leurs empires que les nagajis s'appuient sur les nagas pour mener leur peuple à la prospérité.
+
+
+Bien que les nagajis puissent se rencontrer dans diverses villes et centres urbains, leurs communautés se concentrent dans des environnements adaptés à leur biologie, à savoir les jungles et les forêts tropicales. Là où de nombreuses espèces se morfondraient dans la chaleur et l'humidité, les nagajis se prélassent dans la chaleur et y prospèrent.

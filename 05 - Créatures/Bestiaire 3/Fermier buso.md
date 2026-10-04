@@ -1,0 +1,21 @@
+---
+title: "Fermier buso"
+title_en: "Buso Farmer"
+type: creature
+source_id: "hNW3X8MbQQ9pUMiR"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Fermier buso
+Les busos sont des créatures arboricoles vivant dans les arbres, avec un désir ardent de consommer la chair des autres. Ils tendent à compléter leur nourriture avec des feuilles et des racines, possèdent des connaissances importantes en agriculture et se vantent de pouvoirs innés sur les plantes et leur croissance. En ce qui concerne la viande, cependant, les busos rejettent la chair des bêtes ; ils consomment plutôt d'autres humanoïdes. Non seulement ils trouvent le goût des autres créatures répugnant, mais leur corps rejette la viande non-humanoïde car elle ne leur apporte aucune valeur nutritive et sa consommation les rend malades et faibles.
+
+
+Les besoins alimentaires inhabituels des busos font qu'ils sont presque toujours en désaccord avec les cultures voisines. Ils n'entretiennent généralement des relations décentes qu'avec les gobelins qui sont, en tant que peuple, moins enclins à juger les autres en fonction de leur régime alimentaire. D'autres communautés craignent les busos - avec une certaine raison - bien qu'à part les incursions occasionnelles pour récolter quelqu'un pour leur prochain repas, les busos ont tendance à rester entre eux. Dans certains endroits désespérés, les communautés confrontées à la famine ou à d'autres catastrophes naturelles pourraient même solliciter l'aide des busos, offrant des victimes en échange de connaissances ou d'une assistance magique qui pourrait sauver leurs communautés d'une mort lente et terrible par la famine.
+
+
+L'œil unique d'un buso les conduit parfois à être comparés à des cyclopes. Cependant, les deux types de créatures nient tout ancêtre commun et ils sont apparus pour la première fois indépendamment dans des régions du monde entièrement différentes, avec des capacités sensiblement divergentes. De leur côté, les busos pensent que les actes de leurs ancêtres sont à l'origine de leur œil unique. Face à une famine qui menaçait leur existence, ces ancêtres ont chacun coupé un de leurs yeux en guise d'offrande aux esprits malveillants de la forêt, implorant leur salut. Les busos disent que ces esprits, qu'ils appellent les busaw, leur ont donné leur connaissance de l'agriculture, leur pouvoir sur les plantes et leur envie de chair d'espèces conscientes. Désormais, ils vénèrent les busaw comme des dieux et s'appellent eux-mêmes busos : ceux qui adorent les busaw.

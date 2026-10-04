@@ -1,0 +1,21 @@
+---
+title: "Gelée ocre stabilisée"
+title_en: "Stabilized Ochre Jelly"
+type: creature
+source_id: "neAEB3E1yECRRmEv"
+collection: "pfs-season-4-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-4-bestiary
+---
+
+# Gelée ocre stabilisée
+Les gelées ocre sont des masses de protoplasme animées avec une couleur écœurante qui mêle des teintes orangées, jaunâtres et brunes. Leur organisme acide dissout la chair mais laisse intacts les autres matériaux, y compris les affaires et les os de leurs victimes. Dans certaines anciennes civilisations, il était de coutume d'enfermer les corps dans des sarcophages de pierre avec des gelées ocre pour que la vase nettoie la chair et polisse les os.
+
+
+
+
+
+Les limons, les moisissures et les autres vases peuvent être rencontrés dans les donjons humides et les forêts ombragées. Bien qu'elles ne soient pas nécessairement maléfiques, certaines de ces vases atteignent des tailles monstrueuses et sont dotées d'un appétit insatiable.

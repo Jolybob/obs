@@ -1,0 +1,20 @@
+---
+title: "Ledalusca"
+type: creature
+source_id: "QYkuUQNVml878cIy"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Ledalusca
+Les ledaluscas sont des élémentaires d'eau réflecteurs qui peuvent faire apparaître des images préalablement réfléchies sur leurs surfaces et se figer entièrement sous la forme de ce qu'ils ont reflété. Ils explorent et protègent les frontières les plus calmes des régions glacées du plan de l'Eau, où la glace se forme en feuilles miroitantes, sans défaut.
+
+
+Insatiablement curieux, leur ardeur propulse certains ledaluscas à voler des objets d'apparence intéressante pour jouer avec. D'autres voyagent sur différents plans pour repérer, observer et refléter une plus grande variété de créatures que celles de leur plan d'origine. Ils se font passer pour des sculptures de glace ou des bassins d'eau calme dans ce but, surtout s'ils peuvent trouver un endroit à habiter dans une zone très fréquentée. Malgré leur mimétisme parfait, les ledaluscas sont incapables de créer une apparence à partir de rien, ni d'ajuster l'apparence qu'ils prennent ou de combiner des éléments de reflets différents. Certains d'entre eux trouvent cela décourageant, tels des artistes vexés par un manque de créativité.
+
+
+L'une des rencontres les plus étranges qu'un ledalusca puisse faire est celle d'une créature ou d'un objet qui n'a pas de reflet. Un ledalusca peut voir un vampire, par exemple, mais il est incapable de reproduire son image. Pour une créature qui a une mémoire illimitée pour les images, cela s'avère tout à fait déroutant. Le vague souvenir de la rencontre reste dans l'esprit du ledalusca comme une écharde dans le doigt d'un humanoïde.

@@ -1,0 +1,14 @@
+---
+title: "Penqual"
+type: creature
+source_id: "3XbjmNeUtPLzxDge"
+collection: "agents-of-edgewatch-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/agents-of-edgewatch-bestiary
+---
+
+# Penqual
+

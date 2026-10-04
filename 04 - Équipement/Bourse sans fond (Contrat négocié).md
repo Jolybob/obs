@@ -1,0 +1,33 @@
+---
+title: "Bourse sans fond (Contrat négocié)"
+title_en: "Bottomless Purse"
+type: item
+source_id: "equipment-08-Y8kiHC9keql957uo"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Bourse sans fond (Contrat négocié)
+Un contrat négocié est un objet magique qui possède le trait contrat. L'objet n'a pas de substance physique et ne peut être dissipé ou modifié. Néanmoins, il est accompagné d'une paire de marqueurs indiquant que le contrat a été conclu, chacune des deux parties en détenant un. Un *contrat négocié* ne peut être détruit que si les deux marqueurs le sont. S'il est jeté, perdu ou volé, un marqueur a tendance à être rendu à son propriétaire. Il n'est pas nécessaire de détenir le marqueur pour bénéficier des avantages du contrat, sauf s'il est spécifiquement indiqué que le marqueur fait partie de l'activation ou de l'effet. Un *contrat négocié* est automatiquement investi et comptabilisé dans la limite de 10 objets qu'un personnage peut investir. Une partie du coût provient de l'investissement du détenteur. Les entités qui proposent des *contrats négociés* peuvent en conclure autant qu'elles le souhaitent, sans restriction.
+
+
+Avec une poignée de main, vous avez échangé votre richesse future contre une bourse sans fond contenant des pierres précieuses et d'autres objets de valeur. Grâce à cette bourse, vous pouvez toujours vendre des objets à leur valeur normale pendant les intermèdes, même si vous n'êtes pas à proximité d'un village. Il suffit de les mettre dans la bourse et, en une journée, le prix de vente approprié apparaît en pièces et en gemmes. Une fois par jour, à n'importe quelle distance, l'entité qui détient votre *contrat négocié* vend automatiquement un objet consommable courant en votre possession, vous rendant seulement la moitié du prix normal pour un objet vendu.
+
+
+
+
+
+**Activation - Échange juste** 2 (concentration)
+
+
+**Fréquence** Une fois par jour
+
+
+
+
+
+**Effet** Vous déposez jusqu'à 30 po de pierres précieuses et de pièces dans une poche séparée de la *bourse sans fond* tout en pensant à un article consommable courant coûtant cette somme. Vous retournez ensuite la poche. L'objet que vous aviez imaginé tombe dans votre main.

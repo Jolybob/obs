@@ -1,0 +1,26 @@
+---
+title: "Ilthuliak"
+type: creature
+source_id: "n82GZhM6joceE91v"
+collection: "kingmaker-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/kingmaker-bestiary
+---
+
+# Ilthuliak
+*Dans sa jeunesse, le dragon noir Ilthuliak a souvent pillé et ravagé les Royaumes fluviaux du Pitax et du Mivon ainsi que la Numérie et le Brévoy. Elle a tué et dévoré tous les tueurs de dragons en herbe qui l'ont pourchassé et a fini par attirer l'attention de Nyrissa. La nymphe lui a demandé de s'installer dans la Grande Folie en lui promettant pouvoir, trésors et gloire.*
+
+
+
+
+
+Tyrans sanguinaires des marais, marécages et tourbières, les dragons noirs terrorisent leur domaine avec une intense ferveur. Totalement sadiques, ils règnent sur leurs terres fétides à partir d'une profonde caverne ou d'un endroit isolé des marais en effectuant des raids rapides ou en ayant recours à des subterfuges. Leur haine des autres créatures est aussi acide que leur souffle et il est rare qu'ils tolèrent même d'autres Dragons, quel que soit leur type, sauf peut-être pour s'accoupler ou collaborer temporairement pour abattre un ennemi commun.
+
+
+Les dragons noirs sont amphibiens ; bien qu'ils respirent de l'air, leurs branchies leur permettent aussi de respirer sous l'eau. Leurs nageoires et leurs volants en font des nageurs accomplis bien adaptés à leur environnement humide et à leurs tanières submergées. Ils sont immunisés contre les effets des eaux fétides générées par leur pouvoir magique de corruption de l'eau.
+
+
+Les tanières des dragons noirs sont aussi immondes que leur âme. Le sol est jonché de morceaux de viande en décomposition et des trésors qu'ils ont volés sont dispersés dans la boue et le limon de leurs cavernes humides parmi des racines et des lianes emmêlées. Ces lieux sont souvent envahis de serpents, de vermines et de vases. Bien qu'ils préfèrent les grottes naturelles pour établir leur tanière, ils peuvent aussi se contenter de zones envahies par une végétation dense au sein d'un marais. Les trésors des dragons noirs sont principalement constitués de gemmes et de pièces en verre de grande valeur puisque les autre substances résistent difficilement à leur acide.

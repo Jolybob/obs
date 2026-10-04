@@ -1,0 +1,21 @@
+---
+title: "Guenaude annis (1-06)"
+title_en: "Annis Hag (1-06)"
+type: creature
+source_id: "26SFLzXVXqX7aEUD"
+collection: "pfs-season-1-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-1-bestiary
+---
+
+# Guenaude annis (1-06)
+Les guenaudes annis sont des meurtrières et des tortionnaires brutales qui se délectent de la musique des hurlements et de la chair goûteuse des jeunes créatures mais aussi de celles qui ont un cœur pur. Ce sont les plus directes des guenaudes, n'hésitant pas à engager un combat physique et à utiliser leur capacité de changement de forme pour chasser au lieu d'infiltrer et de trahir des humanoïdes. Mais une guenaude annis s'empare d'un sinistre trophée sur chaque proie qu'elle tue et s'en sert pour semer la discorde en envoyant ce trophée aux proches de la victime en leur faisant croire que ce meurtre est imputable à un autre membre de cette famille. Également connues sous le nom de guenaudes de fer, les guenaudes annis ont une chair à la fois souple et aussi résistante que le fer, capable de résister à des armes tranchantes. Leur contact est le même fer froid qui brûle la chair des autres guenaudes. Cela leur permet de s'imposer par la force à la tête des cercles de guenaudes.
+
+
+
+
+
+Mégères malveillantes qui vivent en marge des civilisations, les guenaudes utilisent leurs pouvoirs magiques pour s'en prendre aux humanoïdes en les manipulant et en les corrompant. Certains disent que les guenaudes étaient autrefois des fées qui se sont laissé corrompre par leur propre égoïsme. Les guenaudes se rassemblent au sein de cercles très puissants, fabriquent des objets magiques uniques connus sous le nom de *[[Yeux de guenaude]]* et sont connues pour remplacer des bébés humanoïdes par leurs propres rejetons. Ces derniers sont appelés des [[Changelins]] et peuvent potentiellement devenir eux-mêmes des guenaudes.

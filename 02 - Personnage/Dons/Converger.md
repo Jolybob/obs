@@ -1,0 +1,21 @@
+---
+title: "Converger"
+title_en: "Converge"
+type: feat
+source_id: "class-16-aoZYZm2PrTKEK0Ji"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Converger
+**Déclencheur** Vous réussissez une attaque à distance contre un adversaire qui se trouve dans votre champ d'observation et qui est dans l'allonge d'un ou plusieurs de vos alliés qui sont aussi dans votre champ d'observation.
+
+
+
+
+
+En informant votre allié d'une ouverture créée par votre tir, vous vous coordonnez pour toucher la cible en même temps. Votre allié peut porter une Frappe au corps-à-corps contre l'ennemi déclencheur par une réaction. Cette Frappe ne compte pas dans le calcul de la pénalité d'attaques multiples de votre allié et sa pénalité d'attaques multiples ne s'applique pas à cette Frappe. Si la Frappe de votre allié est réussie, combinez les dégâts de votre attaque d'arme à distance réussie avec les dégâts de l'attaque au corps-à-corps de votre allié pour les besoins de déterminer les résistances et faiblesses.

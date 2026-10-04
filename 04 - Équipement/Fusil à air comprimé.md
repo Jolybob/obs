@@ -1,0 +1,21 @@
+---
+title: "Fusil à air comprimé"
+title_en: "Air Repeater"
+type: item
+source_id: "weapon-00-SzUynRs4HVtnpnel"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Fusil à air comprimé
+Une arme à canon fin qui utilise un récipient d'air sous pression au lieu de poudre noire pour propulser de petits plombs métalliques à partir d'une cartouche attachée, le fusil à air comprimé est tombé en désuétude en Arcadie en raison de son faible pouvoir d'arrêt, bien qu'il soit encore utilisé épisodiquement pour la chasse occasionnelle et le tir sportif. Le fusil à air comprimé et sa variante à deux mains, de plus longue portée, sont encore appréciés par certains pour leur capacité à permettre à un tireur de tirer plusieurs coups sans avoir à s'arrêter pour recharger ou changer de chambre. Un chargeur typique de fusil à air comprimé contient 6 plombs.
+
+
+
+
+
+Cette arme utilise des [[Chargeurs à 6 plombs]]

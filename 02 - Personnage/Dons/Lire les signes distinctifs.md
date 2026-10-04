@@ -1,0 +1,21 @@
+---
+title: "Lire les signes distinctifs"
+title_en: "Read Shibboleths"
+type: feat
+source_id: "skill-07-Crd3qMecF9FYHjuH"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Lire les signes distinctifs
+Toute communication est emplie de légers accents et signaux. Si vous interagissez avec quelqu'un pendant au moins 10 minutes, son patois régional, des changements de prononciation et d'autres indices non verbaux qui vous fournissent un fait mineur à propos de son environnement social, comme sa ville d'origine ou certains groupes auxquels il pourrait appartenir. Si une cible de cette capacité tente de cacher son véritable environnement social, comme un homme du peuple qui prétendrait être un noble, elle doit faire un test de Duperie, de Société ou un test de Connaissance approprié contre votre DD de Société, vous fournissant un fait mineur faux concordant avec son identité en cas de Succès.
+
+
+Une fois que vous avez glané un ou plus faits mineurs à propos d'une personne, vous pouvez alors incorporer ses maniérismes dans votre discours pour vous présenter vous-même d'une manière qu'elle pourrait trouver familière. Cela vous accorde un bonus de circonstances de +1 à vos tests de Diplomatie et de Duperie avec cette dernière.
+
+
+[[Effet - Lire les signes distinctifs]]

@@ -1,0 +1,21 @@
+---
+title: "Nilith volant"
+title_en: "Soaring Nilith"
+type: creature
+source_id: "IMXxbw7DBVZJB79Y"
+collection: "pfs-season-6-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-6-bestiary
+---
+
+# Nilith volant
+Les élégants et sombres niliths ressemblent à des paresseux émaciés et sans poil. Ces créatures sont extrêmement dangereuses et terrifiantes avec leurs yeux brillants d'une lumière rouge, leurs griffes redoutables et leur gueule garnie de dents comme des aiguilles. Les niliths se nourrissent d'émotions, de la peur et de la chair des vivants. Dans les légendes populaires, on dit que ceux qui font des cauchemars avec des niliths sont destinés à être dévorés par ces créatures. Les niliths éprouvent un plaisir immense à tourmenter les créatures intelligentes. Ils se focalisent souvent sur les dévots et les gens justes dont ils suscitent les peurs fondamentales et les pires pensées avant de se régaler de la terreur que cela leur inflige. Le plus souvent, ces ignobles manipulateurs veulent pousser leurs victimes jusqu'à la folie et même jusqu'au suicide. La plupart des niliths n'ont pas la patience de passer trop de temps à détruire entièrement un individu. Quand ils se lassent de leur jouet et que les pensées et les peurs de ce dernier les ennuient, ils l'assassinent avant de se repaître de sa chair et de passer à une autre victime.
+
+
+Les niliths sont en fait les extensions de créatures beaucoup plus mortelles qui demeurent dans une dimension lointaine au-delà des rêves. D'une certaine manière, les niliths ne sont rien de plus qu'un système d'alimentation à distance pour les entités extraterrestres auxquelles ils sont liés. Les érudits et les explorateurs dimensionnels ont tenté de comprendre le mécanisme exact de cette mystérieuse connexion mais ils n'ont pas encore découvert la vérité. En effet, bon nombre de ceux qui enquêtent sur ce sujet sont poussés à la folie avant d'avoir pu s'approcher de la vérité. Leur étrange lien avec ces êtres d'un autre monde peut expliquer la longévité de ces créatures que l'on estime à plusieurs milliers d'années.
+
+
+Fort heureusement, les niliths sont des créatures solitaires qui détestent la compagnie des membres de leur propre espèce, probablement parce que ces hérauts des cauchemars n'ont pas envie de goûter aux terreurs qu'ils infligent aux autres.

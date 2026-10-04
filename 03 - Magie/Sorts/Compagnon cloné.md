@@ -1,0 +1,21 @@
+---
+title: "Compagnon cloné"
+title_en: "Clone Companion"
+type: spell
+source_id: "common-08-A0sMo1L0271yLeDA"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Compagnon cloné
+Vous créez un double de votre compagnon et le double se bat aux côtés de son jumeau, reflétant les actions de l'original. Le duplicata apparaît adjacent à votre compagnon et possède les mêmes statistiques.
+
+
+Chaque fois que vous Commandez votre compagnon, votre compagnon et son double obtiennent 2 actions. Le double agit toujours immédiatement après votre compagnon et doit utiliser des actions identiques à celles de votre compagnon, dans le même ordre. Cependant, il peut utiliser les actions différemment, comme Marcher rapidement vers une position différente ou choisir une cible différente pour une Frappe. Si le double est incapable d'imiter une action, il l'exécute sans résultat et l'action est gaspillée. Le double ne peut pas utiliser d'actions qui ne peuvent être utilisées qu'un nombre limité de fois par jour.
+
+
+Le double n'est pas vraiment vivant et ne peut être guéri d'aucune façon. Si le double atteint 0 Point de vie, il est instantanément détruit et le compagnon clone prend immédiatement fin.

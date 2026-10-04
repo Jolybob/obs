@@ -1,0 +1,15 @@
+---
+title: "Canne de combat"
+title_en: "Fighting Stick"
+type: item
+source_id: "weapon-00-17MQKaMIHQAJNtuu"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Canne de combat
+Cette pièce de bois, dur mais souple, de la taille d'une épée ressemble plus à une perche qu'à une arme, mais peut être mortelle entre de bonnes mains. Bien qu'elle ne soit généralement pas utilisée pour le combat en dehors de la culture Song'o, certains halfelins sont parvenus à la rendre aussi efficace qu'une lame dans un combat. Nombre de halfelins chantent pour maintenir un certain tempo et garder le rythme durant le combat. Elle inflige 1d6 dégâts contondants. Une canne de combat est une arme de guerre à une main dans le groupe des gourdins.

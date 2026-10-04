@@ -1,0 +1,21 @@
+---
+title: "Scorpion muté"
+title_en: "Mutated Scorpion"
+type: creature
+source_id: "uJ9U93JZlW4T0Hnn"
+collection: "pfs-season-4-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-4-bestiary
+---
+
+# Scorpion muté
+Cette massive, terrifiante masse de chitine mesure typiquement 3 mètres la base de la queue. Les scorpions géants sont appréciés de plusieurs types de monstres vivants dans les déserts, notamment les kholos, qui s'en servent comme animaux de bâts ou de guerre. On les croise cependant plus souvent à l'état naturel. Ils occupent alors des cavernes à flanc de montagne ou s'enterrent sous de fines couches de sable et attendant qu'une proie passe à proximité. Il existe également des scorpions souterrains, plus minces et pâles que leurs cousins de la surface, ou des variantes encore plus imposantes.
+
+
+
+
+
+Fléau chitineux des déserts, des forêts, des savanes et autres étendues désertiques, les scorpions sont des arachnides mortels dotés de puissantes pinces et d'un dard cruel. On peut rencontrer des scorpions sous presque tous les climats. Ils chassent leurs proies avec un mélange de discrétion, de patience et de force brute. La plupart des scorpions vivent dans des terriers souterrains. Ils peuvent aussi bien être des chasseurs solitaires que des membres d'une plus grande colonie. Ces dangereux arachnides sont tellement craints que, dans de nombreuses cultures, ils sont considérés comme des divinités ou des symboles duels représentant à la fois la mort et la protection contre celle-ci.

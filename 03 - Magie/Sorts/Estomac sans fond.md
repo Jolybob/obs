@@ -1,0 +1,30 @@
+---
+title: "Estomac sans fond"
+title_en: "Bottomless Stomach"
+type: spell
+source_id: "common-03-F9mA2Bg27QKniIdv"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Estomac sans fond
+Vous créez un espace extradimensionnel chatoyant accessible par la bouche de la cible. L'espace peut contenir des objets et de l'équipement, jusqu'à un total de 10 Encombrements. Ce stockage extradimensionnel n'entrave pas la capacité de la cible à manger, boire, parler (le cas échéant) ou agir de toute autre manière, car elle ne s'ouvre et ne se ferme que lorsque la cible le désire.
+
+
+La cible peut interagir pour avaler un objet d'un maximum de 1 Encombrement, ce qui n'endommage ni l'objet ni la cible. Si l'espace extradimensionnel est plein, la cible ne peut plus ajouter d'objets avant d'avoir retiré un ou plusieurs objets stockés. La matière organique et les créatures vivantes ne peuvent pas être stockées dans cet espace. Le stockage extradimensionnel est évident pour toute créature qui regarde dans la bouche de la cible, car l'entrée brille légèrement, bien que cela ne révèle pas clairement le contenu à l'intérieur.
+
+
+La cible peut Interagir pour recracher un seul objet de son choix, qui tombera au sol dans l'espace de la cible. La cible peut Interagir trois fois de suite pour cracher tout le contenu de son stockage extradimensionnel. La cible n'est pas obligée d'entreprendre toutes ces actions dans le même tour, mais si elle fait d'autres actions entre temps, elle doit recommencer. Les objets sont éjectés dans l'espace de la cible, se déversant éventuellement dans les espaces adjacents s'il y en a trop pour tenir.
+
+
+Quand le sort prend fin ou que la cible est rendue inconsciente, le contenu du stockage extradimensionnel est dégorgé dans une gerbe incontrôlée, atterrissant dans la case inoccupée la plus proche, un peu humide mais autrement intact.
+
+
+
+
+
+**Intensifié (5e)** La durée passe à 8 heures

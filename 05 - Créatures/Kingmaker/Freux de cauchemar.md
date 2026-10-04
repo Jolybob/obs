@@ -1,0 +1,27 @@
+---
+title: "Freux de cauchemar"
+title_en: "Nightmare Rook"
+type: creature
+source_id: "L3q7yQ0jKqH2IWy7"
+collection: "kingmaker-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/kingmaker-bestiary
+---
+
+# Freux de cauchemar
+*L'énorme roc est l'un des habitants les plus célèbres des Mille souffles : le freux de cauchemar. Ce monstrueux gardien du ciel des Mille souffles peut se rendre dans les songes de tous les étrangers assez fous pour dormir dans le royaume de Nyrissa et leur faire faire d'ignobles cauchemars vivants. Il sert aussi de moyen de transport bien pratique pour les autres créatures de la région car c'est le seul (avec Nyrissa) qui puisse voler au-dessus des arbres du royaume.*
+
+
+
+
+
+Les Rocs sont de grands rapaces légendaires capables de chasser des éléphants. Ils font près de 9 mètres de long, du bec à la queue, et ont une envergure d'au moins 24 mètres. Si leur bec crochu leur permet d'arracher la chair des os de leurs proies, ils chassent en attrapant celles-ci entre leurs puissantes serres puis en les lâchant depuis de grandes hauteurs avant de descendre se nourrir. Cette stratégie est à l'origine d'un volume important de déchets, et les rocs sont ainsi suivis par de nombreux charognards opportunistes qui se nourrissent en volant des miettes des repas de ces grands oiseaux. En général, la présence de ces créatures ne dérange pas les rocs, d'autant qu'ils les dévorent parfois au passage avec le reste de leur nourriture.
+
+
+Les rocs nidifient généralement au sommet de montagnes ou de falaises que seules les plus braves créatures terrestres ont une chance d'atteindre. Leur terrain de chasse est très grand et ils chassent aussi bien des proies terrestres que maritimes, pour peu qu'elles soient assez grandes pour les nourrir, eux et leur progéniture. Les rocs sont des chasseurs solitaires et asociaux qui n'hésitent pas à mener de terribles batailles aériennes avec des rivaux pour défendre leur territoire. Cependant, environ une fois par décennie, les rocs trouvent un partenaire pour donner naissance à des petits et les élever. Une fois que les jeunes sont assez grands pour chasser seuls, les parents se séparent de nouveau et reprennent leur vie solitaire.
+
+
+Des druides ou des rôdeurs particulièrement talentueux arrivent parfois à capturer un roc et à le dresser afin qu'il leur serve de monture volante ou de compagnon de chasse, mais de telles prouesses de domestication sont très rares. Le meilleur moyen de dresser un roc consiste à être présent lors de son éclosion, car l'oisillon s'attache à la première créature qu'il voit. Obtenir un œuf de roc n'est cependant pas une mince affaire et le voleur d'œufs risque d'y laisser sa peau.

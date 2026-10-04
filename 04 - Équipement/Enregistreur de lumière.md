@@ -1,0 +1,15 @@
+---
+title: "Enregistreur de lumière"
+title_en: "Light Writer"
+type: item
+source_id: "equipment-06-P3zAUF2yTOeS1GSH"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Enregistreur de lumière
+L'enregistreur de lumière est une invention de pointe, créée à Absalom à la fin de l'année 4721, combinant magie et innovation mécanique pour permettre à son opérateur de créer un portrait monochromatique plus vrai que nature de personnes ou d'une scène au cours de 20 minutes d'exposition. Il se compose de deux carrés de métal plats, l'un plus grand que l'autre, reliés par un tube de cuir semblable à celui que l'on trouve sur un soufflet. Le plus petit carré, qui se trouve à l'avant de l'appareil, comporte en son centre une petite lentille de verre. Le plus grand carré contient une plaque métallique spécialement traitée à l'intérieur ; son extérieur comporte également un petit bâton de commande relié par un fil flexible, ainsi qu'un petit tube métallique fixé au sommet et dirigé vers l'avant. L'utilisateur appuie sur un bouton du bâton de commande pour activer l'enregistreur de la lumière. Dès l'activation, une lumière magique illumine le tube, produisant une lumière constante pendant 20 minutes. Cette lumière est capturée par l'objectif et projetée sur la plaque métallique, créant lentement une image de la scène devant l'objectif. La plaque peut ensuite être retirée, ce qui permet d'afficher l'image où le propriétaire le souhaite. L'enregistreur de lumière est monté sur un trépied et doit être parfaitement immobile pendant son fonctionnement pour éviter que des défauts n'apparaissent dans l'image de la plaque. Si l'on crée l'image d'une créature vivante, il est tout aussi important que celle-ci reste immobile tout au long du processus, afin d'éviter que l'image finale ne soit floue comme un fantôme.

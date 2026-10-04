@@ -1,0 +1,24 @@
+---
+title: "Hadrosaure élite (PFS 3-99)"
+title_en: "Elite Hadrosaurid (PFS 3-99)"
+type: creature
+source_id: "1PE6CVTY6BBH9k7t"
+collection: "pfs-season-3-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-3-bestiary
+---
+
+# Hadrosaure élite (PFS 3-99)
+Les hadrosaures sont un vaste groupe de dinosaures herbivores qui ont en commun un museau plat caractéristique rempli de rangées de dents broyeuses parfaitement adaptées à la consommation de végétaux. Également connus sous le nom de "dinosaures à bec de canard" en raison de la forme inhabituelle de leurs mâchoires, les hadrosaures sont des animaux lourds qui peuvent rivaliser en taille avec un éléphant, bien qu'ils soient généralement beaucoup moins agressifs et qu'ils aient tendance à s'enfuir lorsqu'ils sont confrontés à un danger. De nombreuses espèces d'hadrosaures ont une crête de forme unique sur la tête, ce qui les rend facilement reconnaissables même pour des observateurs amateurs de dinosaures.
+
+
+Les géants et autres créatures démesurées ont domestiqué les hadrosaures pour en faire du bétail. Malgré leur capacité à courir très rapidement, ils ne constituent pas des montures particulièrement viables en raison de leur nature craintive, mais un troupeau d'hadrosaures paniqué peut occasionner de gros dégâts.
+
+
+
+
+
+Vestiges de l'ère primitive du monde, ces énormes animaux reptiliens existent encore en grand nombre dans les régions sauvages reculées ou sous terre dans les cavernes magiques de l'Ombreterre. Les hommes-lézards, les orcs, les géants et les autres humanoïdes qui vivent à proximité des dinosaures les utilisent comme montures, gardiens ou bêtes de chasse. Il arrive que de riches nobles collectionnent des dinosaures pour les exposer dans des ménageries, ce qui conduit presque inévitablement les animaux rejetés à devoir être soignés par des druides ou d'autres défenseurs de la nature. Lorsque des dinosaures s'établissent dans des régions en dehors de leurs habitats habituels, c'est souvent le résultat de la libération d'une grande collection.

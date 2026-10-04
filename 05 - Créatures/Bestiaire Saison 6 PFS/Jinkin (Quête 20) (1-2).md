@@ -1,0 +1,21 @@
+---
+title: "Jinkin (Quête 20) (1-2)"
+title_en: "Jinkin (Quest 20) (1-2)"
+type: creature
+source_id: "MU8oL7P1AX4P4kKB"
+collection: "pfs-season-6-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-6-bestiary
+---
+
+# Jinkin (Quête 20) (1-2)
+Les Jinkins sont des bricoleurs sadiques qui volent et sabotent les objets et qui sont particulièrement fiers de leur pouvoir de maudire les objets précieux. Ils sont extrêmement rancuniers et imaginent des plans alambiqués pour se venger quand ils se sentent offensés, comme lorsqu'une créature ose retirer une de leurs malédictions. Se contentant rarement de semer la pagaille, les Jinkins prennent un plaisir immense à torturer et à assassiner même s'ils préfèrent mener leurs victimes vers des pièges prévus pour les capturer ou les neutraliser et non les tuer d'un coup. Ils apprécient particulièrement les fosses profondes puisque les victimes qui survivent à la chute risquent de mourir lentement de faim et de soif. Les jinkins aiment se réunir au bord d'une fosse pour se moquer de la victime, la provoquer et la tourmenter.
+
+
+
+
+
+Les gremlins sont des créatures féeriques cruelles et farceuses qui se sont totalement adaptées à la vie dans l'Univers où ils peuvent s'adonner à leur inventivité destructrice. Pratiquement tous les gremlins adorent détruire ou casser des choses, qu'il s'agisse d'un élément physique comme un appareil ou un véhicule, ou d'un élément intangible comme une alliance ou une relation. La plus grande joie d'un gremlin est de voir des œuvres complexes tomber en morceaux, de préférence après un petit coup de pouce soigneusement ciblé de la créature. Les gremlins dénigrent, tyrannisent et massacrent même leurs cousins inférieurs, particulièrement les mitflits qu'ils qualifient (et ils ne sont pas les seuls) de « parasites ».

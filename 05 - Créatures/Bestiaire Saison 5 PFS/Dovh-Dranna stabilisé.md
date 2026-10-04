@@ -1,0 +1,21 @@
+---
+title: "Dovh-Dranna stabilisé"
+title_en: "Steadied Dohv-Dranna"
+type: creature
+source_id: "R110GkevjeNDEfNb"
+collection: "pfs-season-5-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-5-bestiary
+---
+
+# Dovh-Dranna stabilisé
+Les grotesques collecteurs de cerveaux (ou Jah-Tohl) sont originaires de mondes situés bien au-delà du système solaire connu et font partie d'un conglomérat d'extraterrestres hostiles connus collectivement sous le nom de Sombre Domaine. Qu'ils soient motivés par leurs propres projets ou par les directives de sinistres suzerains, les collecteurs de cerveaux arrivent à bord de vaisseaux vivants pour collecter les cerveaux de créatures intelligentes. Ces aberrations ne se nourrissent pas des cerveaux mais les conservent pour les analyser ou pour servir de réceptacles à des énergies magiques occultes.
+
+
+L'apparence d'un collecteur de cerveau évoque celle d'un scorpion sans queue mais il est impossible de le confondre avec un arachnide démesuré à cause des boursouflures contenant un cerveau qui brillent sur son dos. Aux jointures de leurs pattes s'ouvrent des yeux sinistres et les inquiétants murmures mentaux qu'ils émettent télépathiquement vers les cerveaux de ceux dont ils veulent se repaître peuvent aussi bien être interprétés comme une menace que comme une promesse.
+
+
+Les collecteurs de cerveaux n'éprouvent aucune empathie particulière pour les habitants des mondes qu'ils visitent malgré le fait qu'ils soient vénérés par certains cultes, ou dans le Domaine dont ils sont issus, comme s'ils étaient des divinités. Pour les collecteurs, les créatures terrestres ne sont que des ressources pour leurs besoins magiques et leurs pouvoirs occultes. Vénérer des divinités, où être vénérés eux-mêmes, ne les intéresse pas et pourtant ils pratiquent une étrange forme de religion à travers laquelle ils considèrent les forces primordiales de l'espace profond comme dignes de leur foi et de leur crainte.

@@ -1,0 +1,20 @@
+---
+title: "Rokurokubi"
+type: creature
+source_id: "kSk6QjH4wDGPPFrY"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Rokurokubi
+Les rokurokubis naissent lorsque des mortels sont maudits pour un méfait quelconque, bien que souvent celui qui porte la malédiction ne soit pas celui qui a commis l'offense, mais plutôt son enfant ou son conjoint. La malédiction transforme lentement l'individu en rokurokubi pendant son sommeil. Au début, le cou s'allonge, voire se détache complètement, pour laisser la tête libre de se déplacer et de faire de simples bêtises comme effrayer les voisins ou les animaux. Le dormeur peut se réveiller le lendemain matin après avoir rêvé brumeusement de boire l'huile des lanternes voisines, pour constater qu'elles sont effectivement vides.
+
+
+Au fil du temps, les actes bizarres évoluent vers des crimes de plus en plus espiègles, voire violents. Il n'y a qu'une brève période pendant laquelle les rokurokubis naissants pourraient encore être sauvés en dissipant la malédiction, mais très vite, ils sont entièrement consumés et ne dorment plus jamais.
+
+
+La plupart des rokurokubis se désespèrent de leur état, cherchant à noyer leur chagrin dans la boisson ou simplement à rester hors de vue. Quelques rokurokubis néfastes embrassent leur destin et cherchent à améliorer leur pouvoir en cédant complètement à la malédiction. Cela leur accorde la capacité de lancer de puissants sorts occultes, mais les fait inévitablement basculer davantage vers le mal.

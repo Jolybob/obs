@@ -1,0 +1,21 @@
+---
+title: "Nettoyeur Eauclaire"
+title_en: "Clearwater Cleaner"
+type: creature
+source_id: "NR74QIX0qE7AeZmg"
+collection: "outlaws-of-alkenstar-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/outlaws-of-alkenstar-bestiary
+---
+
+# Nettoyeur Eauclaire
+Souvent trouvés en train d'assister les praticiens de la magie de la nature, les léchis sont des végétaux dotés de conscience qui protègent le monde naturel et les espaces sacrés au sein des forêts, des champs et d'autres environnements. Les léchis sont des esprits de la nature habitant des corps construits de matière végétale fusionnée par un rituel primordial.
+
+
+
+
+
+Les léchis liane intrépides aiment explorer et récolter nombres de récits à partager. Ils sont curieux sans être téméraires. Les autres cultures les intéressent beaucoup et ils peuvent nouer rapidement des amitiés en échangeant des histoires avec leurs compagnons de voyage. Ils sont également enclins à la protection, comme les autres léchis. Les léchis liane, cependant, ont tendance à protéger ce qu'ils gardent au cours d'une brève période de danger seulement, avant que leur soif de voyage ne les poussent à poursuivre leur route vers l'inconnu.

@@ -1,0 +1,36 @@
+---
+title: "Guide"
+title_en: "Wayfinder"
+type: item
+source_id: "equipment-02-gbwr57aT9ou8yKWT"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Guide
+**Accès** Membre de la Société des éclaireurs
+
+
+
+
+
+Cette boussole compacte recycle une ancienne technologie pour activer les fantastiques pouvoirs des mystérieux objets magiques appelés *pierres d'éternité*. Il sert d'insigne d'office pour les agents de la Société des Éclaireurs et de symbole de statut pour les aventuriers de tous bords. Un *guide* fonctionne comme une boussole.
+
+
+On peut insérer une unique *pierre d'éternité* dans une petite encoche au milieu du *guide*. L'insertion d'une *pierre d'éternité* dans l'encoche vous confère tous les avantages de la *pierre d'éternité*, comme si elle tournait autour de votre tête, mais le *guide* la protège en la camouflant et en compliquant les tentatives de ceux qui voudraient s'en emparer. Vous investissez un *guide* et la *pierre d'éternité* insérée à l'intérieur simultanément, et ils comptent comme un seul objet en ce qui concerne votre limite d'investiture. Une *pierre d'éternité* investie et insérée dans un *guide* vous confère également son pouvoir de résonance.
+
+
+Si vous avez sur vous plus d'un *guide* avec une *pierre d'éternité* investie, les interférences destructrices engendrées par leur résonance vous empêchent de bénéficier des avantages de toutes ces pierres. Vous pouvez toujours profiter des avantages que confèrent les éventuelles *pierres d'éternité* qui tournent autour de votre tête, mais pas de celles insérées dans les *guides*.
+
+
+**Activation** 1 (concentration)
+
+
+
+
+
+**Effet** Le *guide* est la cible du sort [[Lumière]] au rang 1.

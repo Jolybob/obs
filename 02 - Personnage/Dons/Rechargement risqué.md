@@ -1,0 +1,21 @@
+---
+title: "Rechargement risqué"
+title_en: "Risky Reload"
+type: feat
+source_id: "class-02-BmAk6o14CutgnIOG"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Rechargement risqué
+**Conditions** Vous maniez une arme à feu.
+
+
+
+
+
+Vous avez mis en pratique une technique pour recharger rapidement votre arme à feu, mais tenter d'utiliser cette technique est un pari dangereux quant à l'efficacité de votre arme à feu. Interagissez pour recharger une arme à feu, puis faites une Frappe avec cette arme à feu. Si la Frappe échoue, l'arme à feu a des ratés.

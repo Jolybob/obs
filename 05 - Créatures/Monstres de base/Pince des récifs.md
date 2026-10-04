@@ -1,0 +1,24 @@
+---
+title: "Pince des récifs"
+title_en: "Reefclaw"
+type: creature
+source_id: "Rr1u6WvZEdPw1s6v"
+collection: "pathfinder-monster-core"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core
+---
+
+# Pince des récifs
+Les pinces des récifs sont des monstres aquatiques qui ressemblent à d'énormes crevettes ou homards. Comme leur nom le suggère, ces créatures possèdent des pinces puissantes et démesurées capables d'immobiliser leurs proies infortunées et de leur injecter un venin efficace.
+
+
+Si les pinces des récifs ne peuvent pas parler, elles sont assez intelligentes pour comprendre la langue des humanoïdes qui vivent à proximité de leur terrain de chasse. Ainsi, ces créatures écoutent parfois les conversations afin de découvrir l'endroit idéal pour se placer en embuscade pour attraper une créature maritime ou terrestre ou simplement pour se distraire. Les pinces des récifs semblent apprécier particulièrement les voix aiguës. Les pinces des récifs sont généralement des chasseuses solitaires. Il arrive cependant que de petites troupes de femelles se regroupent autour d'un mâle afin de pouvoir s'accoupler ou entre elles afin d'élever leur progéniture en communauté. Dans ce dernier cas, les femelles chassent en groupe afin de ramener assez de proies pour nourrir les jeunes. Ces meutes sont très dangereuses et il arrive même qu'elles renversent de petits bateaux de pêche et attaquent les individus qui tombent par dessus bord.
+
+
+Une fois qu'une pince des récifs a pris une décision, elle la suit jusqu'à son terme, même si cela signe son arrêt de mort. Il n'est ainsi pas rare que ceux qui ont survécu à une attaque de pince des récifs racontent que l'écrasante pression des pinces de la créature ne s'est relâchée qu'une fois que son cerveau commençait de s'écouler de son crâne brisé et que, même alors, le monstre avait été capable de porter un dernier et terrible coup avant de rendre son dernier souffle. Pendant la saison des amours, les femelles font généralement preuve de plus de bon sens et relâchent leur proie avant de se mettre en danger, elles-mêmes ou leur progéniture.
+
+
+Malgré l'intelligence dont les pinces des récifs font preuve et les dilemmes moraux que celle-ci soulève, elles finissent régulièrement dans l'assiette de chasseurs terrestres, notamment humains et hobgobelins. D'après les amateurs de chair de pinces des récifs, celle-ci est soit d'une douceur délectable (pour les pinces des récifs d'eaux plus froides) soit légèrement acidulée (pour les pinces des récifs d'eaux chaudes). La plupart des gens qui savent que ces créatures sont intelligentes trouvent malséant de les manger, mais cela ne dissuade pas les nobles peu scrupuleux des régions littorales, pour qui la chair des pinces des récifs est un mets raffiné qui vaut chaque pièce qu'elle leur coûte. De même, les pêcheurs qui cherchent avant tout à remplir leur bourse ne voient aucun inconvénient à chasser ces dangereuses créatures ou, mieux encore, à engager des aventuriers naïfs prêts à le faire à leur place.

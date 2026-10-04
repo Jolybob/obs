@@ -1,0 +1,21 @@
+---
+title: "Missionné de l'autre monde"
+title_en: "Otherworldly Mission"
+type: background
+source_id: "d5fKB0ZMJQkwDF5p"
+collection: "backgrounds"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - background
+  - source/backgrounds
+---
+
+# Missionné de l'autre monde
+Vous êtes appelé à servir un objectif spécifique - votre divinité vous l'a dit, et cela doit donc être vrai. Peut-être avez-vous grandi en le sachant depuis le début ou peut-être cela vous est-il apparu un jour dans une vision, claire comme de l'eau de roche avec une eau deux fois plus claire. Vous avez une tâche que vous êtes le seul à pouvoir accomplir. Votre mission peut être aussi dangereuse que de tuer un tyran mortel ou aussi simple que d'ouvrir une porte particulière un jour donné. Vous devriez travailler avec votre MJ sur la façon de gérer la vérité sur l'histoire de votre personnage ou laisser le MJ la décider en secret. Cet appel à l'action est-il un message de l'esprit du personnage ? Est-il manipulé par une sorte d'entité surnaturelle ? Ou reçoit-il en fait des ordres de l'une des divinités de la campagne ?
+
+
+Choisissez deux primes d'attributs. La première doit être de **Sagesse** ou de **Charisme** et l'autre est une prime d'attribut libre.
+
+
+Vous êtes qualifié en Religion. Une fois par aventure, vous pouvez demander à la voix que vous croyez être celle d'une divinité et obtenir une sorte d'instruction - vous ne recevez jamais d'explication, simplement un ordre d'aller quelque part ou de faire quelque chose. Suivre ces ordres n'est pas toujours sûr, mais c'est généralement intéressant.

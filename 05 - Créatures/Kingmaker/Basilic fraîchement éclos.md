@@ -1,0 +1,24 @@
+---
+title: "Basilic fraîchement éclos"
+title_en: "Freshly Bloomed Basilisk"
+type: creature
+source_id: "WJ0bMCZUHJVwKYG1"
+collection: "kingmaker-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/kingmaker-bestiary
+---
+
+# Basilic fraîchement éclos
+Le basilic est un reptile à huit pattes avec une attitude particulièrement hostile et le pouvoir de pétrifier les créatures d'un simple regard. Selon les légendes, à l'instar de la cockatrice, les premiers basilics ont éclos d'œufs de serpents couvés par des coqs. Cependant, rien dans leur physiologie ne permet de prêter fois à cette croyance.
+
+
+Un basilic préfère se nourrir de chair pétrifiée. Une fois une victime transformée en pierre, la créature croque le corps fossilisé avec sa puissante mâchoire et laisse le puissant acide de son estomac faire le reste. La digestion est extrêmement lente et inefficace, provoquant chez le basilic une sorte de léthargie qui laisse à penser que lui-même est en train de se pétrifier. Ce fait est à l'origine du dicton : « être aussi lent qu'un basilic bien nourri.
+
+
+Mais si les basilics sont réputés pour leur allure lente et leur attitude paresseuse, un prédateur qui peut pétrifier ses proies d'un simple regard n'a pas vraiment besoin d'être rapide. Un basilic adulte mesure 3,90 mètres de la tête au bout de la queue et pèse environ 150 kilos. Ces reptiles émettent des sifflements quand ils se déplacent, qui se transforment en gargouillements gutturaux quand ils s'agitent. Bien que ce soient généralement des créatures solitaires qui ne se rassemblent que pour s'accoupler et pondre des œufs, régulièrement, on rapporte des régions infestées par un nombre inhabituel de basilics. On ignore ce qui provoque ces rassemblements.
+
+
+Pour des raisons inconnues, les belettes et les furets sont immunisés contre le regard de pétrification et ces animaux s'introduisent parfois dans la tanière d'un basilic parti chasser afin de se nourrir de ses œufs ou de ses petits récemment éclos. D'après certaines légendes, le sang du basilic pourrait transformer la pierre en un autre matériau mais c'est probablement dû à des témoins qui ont mal interprété la restauration magique de créatures ou de membres précédemment pétrifiés.

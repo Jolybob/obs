@@ -1,0 +1,15 @@
+---
+title: "Découvertes alchimiques"
+title_en: "Alchemical Discoveries"
+type: feat
+source_id: "class-04-0FNLI8APwj9NsBDa"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Découvertes alchimiques
+Vous avez consacré du temps supplémentaire dans un laboratoire pour améliorer votre connaissance de l'alchimie. Vous apprenez les formules de deux objets alchimiques à chaque fois que vous obtenez un niveau au lieu d'un seul ; Cela doit toujours être des outils ou des élixirs. Le nombre de fioles polyvalentes chaque jour augmente de 1 si vous êtes un expert en Artisanat, de 2 si vous êtes un maître ou de 3 si vous êtes légendaire.

@@ -1,0 +1,18 @@
+---
+title: "Fantasme"
+title_en: "Figment"
+type: spell
+source_id: "common-01-0zU8CPejjQFnhZFI"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Fantasme
+Vous créez un son ou une vision illusoire basique. Un son ajoute le trait audible au sort et le son ne peut pas inclure ni mots intelligibles ni musique élaborée. Une vision ajoute le trait visuel, ne peut pas être plus grande qu'un cube d'un mètre cinquante de côté et est clairement brute et dépourvue de détails si elle est vue à moins de 4,50 mètres. Lorsque vous Lancez ou Maintenez le sort, vous pouvez tenter de [[Faire diversion]] avec l'illusion, en bénéficiant d'un bonus de circonstances de +2 sur votre test de Duperie. Si la tentative échoue contre une créature, celle-ci perce le *Fantasme*.
+
+
+[[Effet - Fantasme]]

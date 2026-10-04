@@ -1,0 +1,15 @@
+---
+title: "Mégaphone mécanique"
+title_en: "Clockwork Megaphone"
+type: item
+source_id: "equipment-01-LiK84TSQJoe1e6D7"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Mégaphone mécanique
+Un mégaphone mécanique utilise des engrenages astucieux pour ajuster la forme et l'angle du cône à l'intérieur du mégaphone, ce qui vous permet d'augmenter ou de diminuer le volume, d'élargir ou de diminuer l'angle dans lequel vous projetez votre voix, ou les deux en même temps. Cela rend un mégaphone mécanique beaucoup plus utile qu'un mégaphone ordinaire dans les situations où vous voulez vous assurer que tout le monde dans un lieu ou un endroit particulier puisse vous entendre sans que votre voix soit si forte qu'elle donne l'impression d'être un cri douloureux. Il faut une minute pour remonter un mégaphone mécanique, ce qui lui permet de rester actif pendant une heure de réglages, en ne comptant que le temps où vous modifiez les réglages du mégaphone et non le temps où vous parlez. Comme il se met automatiquement en veille lorsqu'il n'est pas utilisé, cela signifie généralement que vous n'avez pas à remonter le mégaphone mécanique pendant des mois, voire des années, en fonction de la fréquence à laquelle vous ajustez les réglages chaque jour.

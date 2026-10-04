@@ -1,0 +1,39 @@
+---
+title: "Gala de poche"
+title_en: "Pocket Gala"
+type: item
+source_id: "equipment-16-LxaNamrRrGzJo6cL"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Gala de poche
+Cet article semble être une réplique miniature en pierre d'une maison aristocratique ou d'un château simple.
+
+
+
+
+
+**Activation** (10 minutes) concentration, manipulation
+
+
+**Fréquence** Une fois par jour
+
+
+
+
+
+**Effet** Vous posez le modèle réduit sur le sol et une note harmonieuse retentit alors qu'elle se transforme en une salle de bal spacieuse et élégante. La salle de bal mesure 18 mètres de long et 45 mètres de large et son plafond s'élève à 20 mètres de hauteur. D'élégantes doubles portes situées à chaque extrémité de la salle de bal permettent d'y entrer.
+
+
+À l'intérieur, la salle de bal est entièrement garnie de tables et de chaises des deux côtés. Une table de festin au centre de chacune de ces zones fournit suffisamment de nourriture et de boissons pour un maximum de 36 invités et une escouade de serviteurs invisibles s'occupe des besoins de base des invités.
+
+
+Lorsque vous êtes à l'intérieur, vous pouvez prononcer un mot de commande pour demander de la musique, qui résonne dans la salle de bal. La répétition du mot de commande peut modifier la dynamique de la musique, comme le style musical ou le tempo ou arrêter complètement la musique. Un deuxième mot de commande fait apparaître un ensemble de danseurs masqués et illusoires qui se mettent immédiatement en piste et commencent à danser sur la musique en cours. Lorsqu'il n'y a pas de musique, les invités illusoires discutent entre eux dans un langage absurde. Un danseur illusoire danse volontiers avec quiconque le lui demande. En répétant le mot de commande, les danseurs sont renvoyés.
+
+
+Vous pouvez prononcer un troisième mot de commande déclarant que le gala est terminé pour que la salle de bal reprenne sa forme initiale. Au moment de la transformation, les danseurs illusoires applaudissent et vous remercient de votre hospitalité. Si vous ne faites pas revenir la salle de bal par vous-même, elle revient automatiquement à son état d'origine au prochain lever du soleil.

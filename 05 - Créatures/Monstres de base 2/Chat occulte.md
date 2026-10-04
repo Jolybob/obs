@@ -1,0 +1,18 @@
+---
+title: "Chat occulte"
+title_en: "Dweomercat"
+type: creature
+source_id: "Of7WVNrWgvkwctfE"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Chat occulte
+Les chats occultes sont des félins à quatre yeux dotés de puissantes aptitudes magiques, originaires du Premier Monde, où ils chassent d'autres créatures et se nourrissent de leur énergie primordiale. Dans ce plan, ils forment des meutes qui traquent leurs proies ensemble, bien qu'ils préfèrent la solitude pour élever leurs progénitures, leur procurant une alimentation composée de magie et de créatures magiques. Curieux de nature, on les rencontre parfois dans des régions de l'Univers où le voile séparant le Premier Monde est ténu, ou là où la magie a été irrémédiablement altérée. Attirés par ces résonances magiques singulières, les chats occultes y cherchent des sources de nourriture incomparables.
+
+
+Là où des observations de chats occultes sont signalées, des trappeurs spécialisés ne tardent pas à apparaître, espérant réaliser la prise d'une vie. Leur fourrure d'un violet sombre est très prisée des collectionneurs de curiosités magiques : les motifs qui la parcourent semblent peints à la main, formant spirales et arabesques évoquant des runes. Ces pelages sont ensuite exposés ou utilisés comme composants dans de rares rituels. Les chats occultes sont également célèbres pour leur capacité à manipuler les filaments métaphoriques des sorts lancés sur eux ou à proximité, qu'ils peuvent détourner en magie défensive ou employer pour se téléporter instantanément sur le champ de bataille.

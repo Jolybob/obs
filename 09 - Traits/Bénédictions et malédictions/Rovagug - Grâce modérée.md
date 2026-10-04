@@ -1,0 +1,24 @@
+---
+title: "Rovagug - Grâce modérée"
+title_en: "Rovagug - Moderate Boon"
+type: boon_curse
+source_id: "a1OZtMQSzjYOm0P3"
+collection: "boons-and-curses"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - boon_curse
+  - source/boons-and-curses
+---
+
+# Rovagug - Grâce modérée
+Vous pouvez tout dévorer. Votre bouche se transforme en une mâchoire horrible, circulaire entourée de grandes dents en forme d'aiguilles.
+
+
+Vous obtenez une attaque à mains nues de morsure qui inflige 1d8 dégâts perforants.
+
+
+De plus, vous pouvez manger tout ce qui peut rentrer dans votre gueule, même des pierres ou de petits objets.
+
+
+Vous obtenez un bonus de statut de +4 aux jets de sauvegarde liés à votre consommation, comme les maladies, les poisons ou les autres effets liés à l'objet ingéré. Cela ne vous permet pas de digérer des objets magiques qui seraient autrement difficiles ou impossibles à détruire, tels que des objets maudits ou des artefacts.

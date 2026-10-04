@@ -1,0 +1,27 @@
+---
+title: "Coquillage de son volé"
+title_en: "Seashell of Stolen Sound"
+type: spell
+source_id: "common-01-q5vbYgLztQ04FQZg"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Coquillage de son volé
+**Déclencheur** Une créature à portée commence à émettre un son.
+
+
+
+
+
+Vous emmagasinez un son dans un coquillage pour l'utiliser comme vous le souhaitez : les derniers mots d'un être aimé, le rugissement d'un puissant dragon, la conversation compromettante entre deux puissants diplomates ou même quelque chose de plus étrange et secret. En lançant ce sort, vous devez présenter un coquillage non brisé. Lorsque vous Lancez le sort, la magie tourbillonne autour de la créature qui l'a déclenchée, copiant les sons qu'elle émet, ainsi que tout bruit de fond, pendant la minute suivante en les stockant dans le coquillage.
+
+
+Vous ou une autre créature pouvez ensuite réécouter les sons du coquillage pendant la durée du sort en interagissant avec le coquillage, mais une fois que les sons ont été réécoutés, le coquillage se brise et le sort prend fin.
+
+
+Comme c'est le cas pour les sorts ayant une durée allant jusqu'à vos prochains préparatifs quotidiens, vous pouvez choisir de continuer à dépenser l'emplacement de sort pour prolonger la durée d'un *coquillage de son volé* existant pendant un jour supplémentaire. Bien que le sort copie fidèlement les sons autour de la cible, il ne reproduit pas les effets audibles ou de son qui sont spécifiquement produits par le son enregistré.

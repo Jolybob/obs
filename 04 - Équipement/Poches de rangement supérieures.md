@@ -1,0 +1,18 @@
+---
+title: "Poches de rangement supérieures"
+title_en: "Sleeves of Storage (Greater)"
+type: item
+source_id: "backpack-09-3hv6NVC2rVu4QCNt"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Poches de rangement supérieures
+Cette robe ample possède des manches larges et volumineuses qui contiennent chacune un espace extradimensionnel. Ces espaces fonctionnent chacun comme un [[Sac spacieux]] qui peut contenir jusqu'à 20 Encombrements d'objets (pour un total de 40 Encombrements), bien qu'aucun objet individuel ne puisse peser plus de 1 Encombrement. Les manches s'alourdissent légèrement à mesure que vous arrivez à la capacité maximale. Vous pouvez ajouter ou retirer un objet d'une manche avec une seule main libre par une action Interagir.
+
+
+Si une manche est complètement vide, vous pouvez placer votre propre familier dans cet espace extradimensionnel. Il peut survivre confortablement dans votre manche jusqu'à 4 heures, après quoi il commence à suffoquer. Tant qu'il est dans votre manche, il ne peut être affecté ou ciblé par aucun effet, mais vous ne bénéficiez d'aucune de ses capacités de maître. Un familier peut sortir de la manche de sa propre volonté par une unique action qui possède les traits Manipulation et Déplacement. Vous ne pouvez pas placer une autre créature dans vos manches et vous ne pouvez pas non plus placer votre familier dans une manche s'il est plus grand que Très petit. Si votre familier est dans votre manche, vous ne pouvez pas y placer d'objets.

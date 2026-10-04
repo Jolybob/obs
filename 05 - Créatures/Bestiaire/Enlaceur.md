@@ -1,0 +1,18 @@
+---
+title: "Enlaceur"
+title_en: "Roper"
+type: creature
+source_id: "ZXbr1ke1vF0ZFKY3"
+collection: "pathfinder-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary
+---
+
+# Enlaceur
+Aux yeux de tous, sauf les plus perspicaces explorateurs souterrains, un enlaceur ressemble simplement à une grande stalactite, stalagmite, ou à une colonne de glace. Postés en embuscade, ces prédateurs rusés et patients savent exploiter cette particularité.
+
+
+Les enlaceurs ne s'intègrent pas aux grandes sociétés (bien qu'on les rencontre souvent à proximité d'autres habitants des profondeurs), mais se rassemblent généralement en petites grappes et chassent parfois même à plusieurs. Particulièrement intéressés par la philosophie traitant de la vie et de la mort et par certains détails liés aux religions les plus sinistres et cruelles du monde, les enlaceurs sont capables de débattre et disserter pendant des heures avec ceux qu'ils avaient initialement prévu de dévorer. Les spéléologues à l'esprit vif sont ainsi susceptibles de calmer l'appétit d'un enlaceur en lui racontant des histoires ou en débattant de sujets philosophiques avec lui. Cependant, les enlaceurs n'ont généralement aucune envie de laisser s'échapper une proie aussi intrigante. On raconte ainsi que des rhéteurs et des philosophes particulièrement brillants ont réussi à survivre pendant des jours, voire des années, en devenant les familiers ou compagnons de discussion de grappes d'enlaceurs. Cependant, il est dans l'intérêt de ces individus de s'enfuir au plus vite, car l'appétit des enlaceurs finit inévitablement par prendre le pas sur leur curiosité, surtout si ces familiers persistent à se jouer de l'esprit et de la patience de leurs maîtres. Un enlaceur mesure près de 3 mètres et pèse environ 1 tonne.

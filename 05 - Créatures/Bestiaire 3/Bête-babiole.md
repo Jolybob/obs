@@ -1,0 +1,21 @@
+---
+title: "Bête-babiole"
+title_en: "Bauble Beast"
+type: creature
+source_id: "Yg7R4UgB1FjF2Euu"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Bête-babiole
+Les créatures recluses et trompeuses appelées bête-babioles créent de faux bijoux comme grâce à un effet secondaire de leur système digestif magique extrêmement bizarre. Deux états naturels de leur peau fournissent les matières premières de ce processus : des plaques écailleuses constituées de fines couches de métal et des verrues qui ressemblent à des pierres précieuses. En mâchant ces plaques et en les avalant, une bête-babiole construit magiquement le bijou dans ses entrailles. Une fois évacué par les voies naturelles, elle polit et remodèle l'objet pour une contrefaçon plus attrayante. La bête-babiole se faufile ensuite dans une communauté pour placer le bijou à un endroit où il pourra être trouvé. Une créature qui revêt ce faux bijou est obligée d'aller chercher ses vrais objets de valeur et de les remettre à la bête-babiole, qui les récupère avec plaisir. Certaines bêtes-babioles se contentent de renvoyer la victime confuse sur son chemin, mais d'autres, plus maléfiques, les tuent pour éviter d'être démasquées.
+
+
+Cette imitation de bijou trompe les profanes, mais elle est redoutable parmi les marchands. La formation des marchands comprend d'ailleurs un bref cours sur la détection de l'odeur sucrée, subtile mais distincte, des bêtes-babioles en forme de bijoux.
+
+
+Bien que largement solitaires, les bêtes-babioles socialisent occasionnellement avec d'autres personnes qui partagent leurs intérêts limités, principalement des marchands, des bijoutiers, des élémentaires de la terre et d'autres bêtes-babioles. Les xorns ont un penchant particulier pour les bêtes-babioles ou du moins pour leurs pierres précieuses. Bien que celles-ci ne soient pas aussi nourrissantes que les vraies gemmes, les xorns en trouvent la saveur décadente et les consomment comme une sorte de malbouffe.

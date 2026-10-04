@@ -1,0 +1,24 @@
+---
+title: "Adachros (Énnosite)"
+title_en: "Adachros"
+type: creature
+source_id: "BZKNSyp1ATtn3JXj"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Adachros (Énnosite)
+Lorsqu'un demi-plan naissant échoue à fusionner, sa quintessence s'effondre parfois en un adachros, une entité dangereuse qui combine un potentiel mental écrasant et une absence d'exposition à des points de vue alternatifs. Certains de ces êtres mégalomanes sont des tyrans, créant des royaumes illusoires peuplés de créatures enlevées et forcées à valider les vues du créateur. Un adachros plus altruiste peut chercher à rééduquer et à conseiller ses élèves, souvent sans leur consentement, tout en les poussant à accepter la philosophie unique qui a présidé à leur création. Un adachros pourrait abandonner les disciples qui le repoussent, mais le plus souvent, il devient un ennemi acharné, déterminé à détruire ceux qui sont perçus comme des hérétiques.
+
+
+
+
+
+Le Plan astral est un nexus planaire, reliant les plans de la Sphère Intérieure à ceux de la Sphère Extérieure, un royaume de substance argentée intemporelle chargée d'essence mentale puisée dans tout le Grand Au-delà. La plupart des créatures du Plan astral sont des visiteurs : des prédateurs qui cherchent à s'approvisionner dans la Rivière des âmes, des psychopompes qui se protègent contre de telles incursions et des aéons qui surveillent le flux de quintessence brute à travers l'Antipode. Pourtant, ce plan a engendré des créatures natives de ses étranges courants et tourbillons, au premier rang desquels la famille des créatures engendrées par la pensée, connues sous le nom d'Énnosites.
+
+
+La forme d'un Énnosite est l'incarnation physique de sa pensée et de son but. Comme certains idéaux et objectifs sont partagés, il en va de même pour certaines formes.

@@ -1,0 +1,24 @@
+---
+title: "Léchi cactus"
+title_en: "Cactus Leshy"
+type: creature
+source_id: "eGNpuEg60STItyGz"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Léchi cactus
+Ces petites plantes sont connues pour leur attitude orgueilleuse. Leur personnalité reflète les épines qui poussent sur tout leur corps, ce qui les rend acariâtres et légèrement piquantes, bien qu'elles soient indéfectiblement loyales envers ceux qui gagnent leur confiance. À l'aise dans les paysages secs et arides, les léchis cactus stockent de l'eau à l'intérieur de leur corps afin de survivre à ces conditions difficiles.
+
+
+Les léchis cactus sont de toutes les formes et de toutes les couleurs : grands et minces, avec de belles fleurs aux couleurs vibrantes sur la tête ; trapus et rondouillards, avec des rangées et des rangées d'épines ordonnées ; ou apparemment désordonnées, avec des segments plats empilés bout à bout comme s'ils étaient en équilibre les uns sur les autres.
+
+
+
+
+
+Souvent trouvés en train d'assister les praticiens de la magie de la nature, les léchis sont des végétaux dotés de conscience qui protègent le monde naturel et les espaces sacrés au sein des forêts, des champs et d'autres environnements. Les léchis sont des esprits de la nature habitant des corps construits de matière végétale fusionnée par un rituel primordial.

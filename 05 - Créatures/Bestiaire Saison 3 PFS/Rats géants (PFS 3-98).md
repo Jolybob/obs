@@ -1,0 +1,21 @@
+---
+title: "Rats géants (PFS 3-98)"
+title_en: "Giant Rat (PFS 3-98)"
+type: creature
+source_id: "vwWjjQwPR9XItpjY"
+collection: "pfs-season-3-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-3-bestiary
+---
+
+# Rats géants (PFS 3-98)
+Les rats sont une menace omniprésente, se faufilant dans les égouts et dans les rues de presque toutes les agglomérations du monde entier. Bien qu'un rat ordinaire dardant sous ses pieds puisse faire sursauter ou même effrayer le passant moyen, les rats géants et les nuées de rats sont bien plus dangereux.
+
+
+
+
+
+Les rats géants sont d'énormes cousins des rats communs. On les trouve généralement en grand nombre, mais ils ne peuvent pas se cacher dans les recoins utilisés par les rats communs et sont donc plus faciles à repérer et exterminer. Ils vivent généralement dans les égouts d'où ils peuvent récupérer les déchets des rues qui les surplombent. Cependant, certaines familles de rats géants vivent dans des endroits plus isolés, comme des cavernes humides, dans des forêts ou sur des collines. Les rats ont une capacité de survie incroyable et l'on en rencontre donc aux quatre coins du monde. Ils préfèrent cependant les climats tempérés ou chauds aux climats froids. Si leur morsure seule ne représente pas de danger mortel, sauf peut-être pour les très jeunes ou très vieilles personnes, les rats géants sont cependant porteurs de la fièvre de la fange répandue chez les rongeurs du monde entier, une pestilence qui peut sans mal venir à bout de communautés rurales.

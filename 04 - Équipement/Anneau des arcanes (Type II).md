@@ -1,0 +1,27 @@
+---
+title: "Anneau des arcanes (Type II)"
+title_en: "Ring of Wizardry (Type II)"
+type: item
+source_id: "equipment-10-2tSDgHfSkkaX4CA4"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Anneau des arcanes (Type II)
+Cet anneau est forgé dans le platine le plus pur et gravé de symboles arcaniques ésotériques. Il ne sert à rien si vous n'avez pas la capacité de classe incantation de la tradition arcanique. Lorsque vous portez l'*anneau des arcanes*, vous bénéficiez d'un bonus d'objet de +2 aux tests d'Arcanes et disposez chaque jour de deux emplacements de sort de rang 2 et d'un emplacement de sort de rang 1 supplémentaires. Vous préparez des sorts dans ces emplacements ou lancez des sorts de manière spontanée avec ces emplacements, comme vous le feriez normalement.
+
+
+Vous perdez les emplacements de sort supplémentaires si vous ne portez plus l'anneau, quelles qu'en soient les raisons. Vous ne pouvez pas gagner les emplacements de sorts conférés par plus d'un anneau des arcanes et un même *anneau des arcanes* ne peut pas conférer des emplacements de sort plus d'une fois par jour.
+
+
+Si vous pouvez lancer des sorts arcaniques par différents moyens (si vous êtes un ensorceleur au lignage draconique avec l'archétype multiclasse de magicien), vous pouvez répartir les emplacements de sort comme vous le souhaitez parmi vos diverses sources de sorts arcaniques.
+
+
+
+
+
+**Conditions de fabrication** Vous avez la capacité de classe incantation de la tradition arcanique.

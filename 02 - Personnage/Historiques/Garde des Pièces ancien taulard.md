@@ -1,0 +1,24 @@
+---
+title: "Garde des Pièces ancien taulard"
+title_en: "Ex-Con Token Guard"
+type: background
+source_id: "CKU1sbFofcwZUJMx"
+collection: "backgrounds"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - background
+  - source/backgrounds
+---
+
+# Garde des Pièces ancien taulard
+Tout le monde ne débute pas facilement dans la vie — votre propre expérience en est la preuve. Au cours de votre vie, vous avez pris un mauvais chemin et vous êtes devenu un délinquant. Peut-être étiez vous un pickpocket sans importance ou encore un assassin... Dans l'un ou l'autre cas, vos crimes vous ont valu une peine de prison rédemptrice au sein de la Prison de la Saumure. C'est là que vous avez réalisé que quelque chose avait besoin de changer. Après votre libération, vous vous êtes dédié à aider les opprimés et ceux forcés à recourir aux crimes pour survivre. Vous avez rejoint les rangs de la Garde du district de la Monnaie, mais vous avez découvert très vite que ce district était un havre pour l'essence de la corruption que vous cherchiez à défaire. Vos efforts pour la réformer n'ont jamais pris racine et vous avez craint que votre décision de devenir un officier de la Loi soit une grossière erreur.
+
+
+Vous avez demandé votre transfert dans la Garde du précipice, le nouveau District du Quartier du Précipice, dans l'espoir que vous pourriez rencontrer d'autres personnes qui chercheraient à aider — et non exploiter les perdus d'Absalom.
+
+
+Choisissez deux primes d'attributs. La première doit être de **Dextérité** ou de **Charisme** et l'autre est libre.
+
+
+Vous êtes qualifié en Vol et en une Connaissance de votre choix entre Connaissance des Lois ou Connaissance de la pègre. Vous obtenez un bonus de circonstances de +1 aux tests de Diplomatie, de Duperie et d'Intimidation pour interagir avec la garde des Pièces et les criminels condamnés, tels que les prisonniers. Vous obtenez le don de compétence [[Pickpocket]].

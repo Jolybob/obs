@@ -1,0 +1,21 @@
+---
+title: "Pappy Draghean (5-6)"
+title_en: "Pappy Draighean (5-6)"
+type: creature
+source_id: "ACDuWRp4JELgqmo8"
+collection: "pfs-season-4-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-4-bestiary
+---
+
+# Pappy Draghean (5-6)
+Les leprechauns sont, pour la plupart, de joyeux farceurs plus espiègles que belliqueux. Ils aiment remplir leurs journées d'autant de divertissement, de vin et de nourriture que possible. On les trouve surtout dans les régions boisées et ils respectent la nature et ceux qui la protègent.
+
+
+Les leprechauns ne passent jamais immédiatement à l'attaque. Ils préfèrent engager la conversation et essayer de charmer, d'amadouer ou de piéger ceux qu'ils rencontrent pour les persuader de leur rendre des services ou de leur donner un objet cher, généralement en échange d'une fortune illusoire ou de fausses promesses de richesses et de succès. Ces petits escrocs sont maîtres dans l'art de deviner les désirs de ceux qu'ils rencontrent, un talent qui les place en position de force lorsqu'ils négocient des biens ou des faveurs. Ils n'hésitent pas à monter les gens les uns contre les autres si cela tourne à leur avantage mais veillent généralement à ce que cela ne fasse pas de véritablement de mal
+
+
+Dans la plupart des cas, un leprechaun ne garde pas très longtemps un bien subtilisé. Le plus souvent, il le rend juste à temps pour apaiser les tensions, en insistant presque toujours sur l'aspect comique de la situation, espérant ainsi partager son amusement et son hilarité avec les victimes. Dans les rares cas où un leprechaun va trop loin et rend sa victime folle de rage, il prend la fuite plutôt que de risquer un affrontement. La volonté de rendre des objets volés ou de fuir les combats s'amenuise au fur et à mesure que le leprechaun vieillit. Les vieux leprechauns qui ont déjà vécu des milliers d'années s'enfoncent souvent dans une sombre amertume et utilisent de plus en plus leurs pouvoirs et leurs illusions pour mettre en danger ceux qui les ont offensés ou n'ont pas su apprécier leur farce... et les mènent parfois jusqu'à leur mort.

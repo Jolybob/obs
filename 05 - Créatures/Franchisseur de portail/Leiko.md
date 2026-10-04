@@ -1,0 +1,23 @@
+---
+title: "Leiko"
+type: creature
+source_id: "xZjA4N72SIQ2zosk"
+collection: "gatewalkers-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/gatewalkers-bestiary
+---
+
+# Leiko
+Les shaes sont des créatures vaporeuses et ténébreuses originaires du Nébulmonde. Leurs corps dépourvus de forme semble être constamment dans des états de flux. Ils ne projettent pas d'ombres propres, mais gagnent et perdent de l'énergie ombrale au profit d'ombres voisines qui rétrécissent et grandissent à leurs côtés.
+
+
+La plupart des shaes portent des vêtements tissés à partir d'ombres qui se déplacent avec eux, bien que les diplomates portent parfois des vêtements plus conventionnels lorsqu'ils reçoivent des étrangers. Leur accessoire le plus distinctif est le masque de pierre blanche, que les shaes n'enfilent que lorsqu'ils doivent arborer un " visage " discernable pour interagir avec les humanoïdes et les créatures similaires. Ils le font à contrecœur car ils se considèrent comme supérieurs aux humanoïdes, mais le fait de revêtir leur masque leur permet d'être plus facilement compris et donc de garder leurs interactions avec les êtres inférieurs aussi brèves que possible.
+
+
+Cependant, la dynamique entre un shae et les humanoïdes change lorsque les humanoïdes en viennent à vénérer un shae. Un mortel qui montre à un shae la déférence qui lui est due vaut la peine d'être gardé. Aussi de nombreux shaes collectionnent-ils des cultes de la personnalité ou un large entourage. Même obtenir une rencontre avec un tel shae imbu de lui-même peut représenter un défi qui nécessite de traiter avec de nombreuses couches de parasites qui insistent pour contrôler le nouveau venu avant de gaspiller le temps précieux du shae.
+
+
+Selon la tradition shae, ces derniers ont transcendé le monde matériel et incarnent désormais un équilibre cosmologique entre réalité et illusion. Leurs prétentions à l'ascendance métaphysique et à la connaissance des secrets des ombres incitent de nombreux mortels suppliants à rejoindre les cours et les cultes shaes. Dans la langue des shaes, leur nom signifie "détaché", conformément à leur conviction que leur nature éphémère les libère des contraintes morales et sociales qui lient les autres créatures consicentes et ils font du caprice une vertu. Les shaes ne se sentent guère obligés de respecter leurs serments ou d'obéir aux lois et sceller un pacte avec un mortel ne signifie pas grand-chose pour eux.

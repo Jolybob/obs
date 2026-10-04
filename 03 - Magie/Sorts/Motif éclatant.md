@@ -1,0 +1,27 @@
+---
+title: "Motif éclatant"
+title_en: "Vibrant Pattern"
+type: spell
+source_id: "common-06-RQjSQVZRG497cJhX"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Motif éclatant
+Vous créez un motif de lumières qui pulse avec intensité. Les créatures sont [[Éblouies]] tant qu'elles sont à l'intérieur du motif. De plus, une créature doit faire un jet de Volonté si elle se trouve à l'intérieur du motif quand vous le lancez, quand elle y pénètre, quand elle y termine son tour ou si elle effectue l'action Chercher ou qu'elle Interagit avec lui. Une créature actuellement [[Aveuglée]] par le motif n'a pas besoin de faire d'autre jet de sauvegarde.
+
+
+
+
+
+**Succès** La créature n'est pas affectée.
+
+
+**Échec** La cible est Aveuglée par le motif. Si elle sort du motif, elle peut tenter un nouveau jet de sauvegarde pour se remettre de l'état Aveuglé à la fin de chacun de ses tours, jusqu'à une durée maximale de 1 minute.
+
+
+**Échec critique** La créature est Aveuglée pendant 1 minute.

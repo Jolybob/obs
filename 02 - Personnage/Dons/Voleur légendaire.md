@@ -1,0 +1,15 @@
+---
+title: "Voleur légendaire"
+title_en: "Legendary Thief"
+type: feat
+source_id: "skill-15-IZbjUaZI5zHTd1Vp"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Voleur légendaire
+Votre capacité à Voler dépasse l'entendement. Vous pouvez tenter de Voler quelque chose qui est activement manié ou qui serait extrêmement visible ou prendrait beaucoup de temps à retirer (comme des chaussures ou une armure portées). Vous devez le faire lentement et avec précaution, en y passant au moins 1 minute (et beaucoup plus pour des objets qui prennent normalement du temps à retirer, tels qu'une armure). Tout au long de cette durée, vous devez posséder un moyen de rester [[Caché]] en utilisant par exemple le couvert des ténèbres ou en utilisant une foule animée. Vous subissez une pénalité de -5 à votre test de Vol. Même si vous réussissez, si l'objet est extrêmement proéminent - comme un harnois, les observateurs remarqueront rapidement sa disparition après le vol.

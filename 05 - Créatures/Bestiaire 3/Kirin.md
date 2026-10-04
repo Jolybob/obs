@@ -1,0 +1,23 @@
+---
+title: "Kirin"
+type: creature
+source_id: "8lQf8PNcJvxwmqLd"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Kirin
+La rare et majestueuse bête portant des bois connue sous le nom de kirin est censée n'apparaître qu'en période de paix et de prospérité ou lors de la naissance ou de la mort d'un grand sage. Ainsi, la rencontre avec un kirin est un signe de bonne fortune, de succès et de prospérité à venir. À l'inverse, trouver le cadavre d'un kirin ou assister à sa mort est le présage d'une tragédie et de malheurs. Le chant d'un Kirin précède toujours l'observation de l'une de ces gracieuses créatures, un son souvent confondu avec des carillons à vent qui dansent doucement dans la brise.
+
+
+Les kirins sont des créatures chimériques dotées du corps d'un cerf, de la queue d'un bœuf, de deux bois au sommet de leur tête ainsi que des écailles et de la coloration vibrante d'un dragon. Leurs crinières et leurs barbes majestueuses flottent constamment au gré de la brise, même les jours sans vent et semblent parfois être couronnées de flammes.
+
+
+Créatures qui chérissent la vie, les Kirins ne consomment pas de chair et prennent grand soin de ne pas tuer le moindre insecte sous leurs sabots fendus. Ils sont l'incarnation de la paix et pourtant, ils s'empresseront de terrasser le mal d'un puissant coup de leurs bois, sachant que leurs actes préservent la paix pour ceux qui, autrement, pourraient lui nuire.
+
+
+Les légendes racontent que des champions particulièrement pieux ont persuadé des kirins de s'associer à eux comme montures, bien qu'accomplir un tel exploit soit encore plus rare que de croiser un kirin.

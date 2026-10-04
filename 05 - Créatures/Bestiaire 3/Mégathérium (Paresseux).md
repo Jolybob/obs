@@ -1,0 +1,24 @@
+---
+title: "Mégathérium (Paresseux)"
+title_en: "Megatherium"
+type: creature
+source_id: "lrSuRCrRjP3xBfRy"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Mégathérium (Paresseux)
+Les mégathériums habitent au plus profond des forêts anciennes et des jungles humides. Farouchement territoriales, ces immenses créatures sont souvent senties avant d'être vues. Bien qu'ils se déplacent à quatre pattes, les mégathériums peuvent atteindre le feuillage à 6 mètres au-dessus du sol de la forêt en se tenant debout sur leurs pattes arrière et leur queue courte et épaisse. Leurs énormes griffes antérieures, utilisées pour plier les branches d'arbres à portée de leur bouche, peuvent fendre un cheval en deux et écraser son cavalier.
+
+
+Le musc du mégathérium sert à avertir les prédateurs potentiels et les autres mégathériums qu'ils sont trop proches. Les mégathériums adultes sont si territoriaux que la plupart ne se reproduisent pas plus de deux fois au cours de leur vie. Bien que ces créatures patrouillent régulièrement leur territoire pour repérer les intrus, elles ont tendance à éviter les agglomérations, à moins que la nourriture ne soit devenue rare. Lorsqu'elles s'égarent dans les villes, elles sont connues pour dévorer des vergers entiers en une journée.
+
+
+
+
+
+Malgré le fait que leurs longues griffes crochues soient l'un de leurs traits les plus distinctifs, les paresseux sont des créatures herbivores. Les paresseux plus petits utilisent leurs griffes pour grimper d'arbre en arbre, à la recherche de fruits et de jeunes feuilles parmi la canopée. Les espèces plus grandes peuvent atteindre jusqu'à 6 mètres de haut et peser plus de 4,5 tonnes.

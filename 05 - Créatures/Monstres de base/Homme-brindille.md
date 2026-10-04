@@ -1,0 +1,24 @@
+---
+title: "Homme-brindille"
+title_en: "Sprigjack"
+type: creature
+source_id: "TElwkEGZy1zgwoVg"
+collection: "pathfinder-monster-core"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core
+---
+
+# Homme-brindille
+Des hommes-brindilles plus faibles sont souvent découverts dans des forêts cultivées et dans les jardins. Ils cherchent à chasser les intrus, devenant plus grands à fur et à mesure que leur environnement retourne à l'état sauvage.
+
+
+
+
+
+Habitants des forêts inadaptés, les hommes-brindilles sont issus de la fusion cruelle et taquine de fées et des bois dans lesquels elles résident. Le corps de cet être est constitué de roncières épineuses tressées avec des lianes. Des excroissances touffues et de mousse semblables à des cheveux poussent sur sa tête. Sa bouche est une simple fissure criblée de bâtonnets brisés au milieu de son visage. Des feuilles et des brins de jeunes pousses apparaissent çà et là sur le corps de la créature. La plupart des frondaisons des grandes forêts de Golarion recèlent au moins une poignée d'hommes-brindilles.
+
+
+Bien qu'ils soient agressifs et violents, ces derniers tiennent réellement aux bois qu'ils considèrent comme les leurs. Ils attaquent les étrangers qui s'aventurent dans les profondeurs de leurs domaines sylvestres, faisant battre en retraite les plus déterminés des explorateurs, des forestiers et des voyageurs, surtout lorsque ces intrus coupent à travers la forêt. Toutefois, ils ne sont pas aussi territoriaux lorsque viennent d'autres créatures des forêts. Lorsque les créatures sylvestres, en particulier les fées, s'unissent face à une menace extérieure, les hommes-brindilles des alentours s'empressent de se joindre au combat même lorsqu'ils n'y sont pas conviés

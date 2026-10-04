@@ -1,0 +1,18 @@
+---
+title: "Paaridar manticore"
+title_en: "Manticore Paaridar"
+type: creature
+source_id: "QyuUubTtR38kafue"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Paaridar manticore
+Les moines insatisfaits des limites de leurs formes humanoïdes et aspirant à un raccourci peuvent voler la puissance d'autres créatures. Ces moines deviennent des paaridars, des amalgames qui mêlent les caractéristiques de leur ancienne ascendance à la forme d'une autre créature. La transformation met à l'épreuve les limites du corps et de l'âme du paaridar, exigeant une discipline continuelle pour en garder le contrôle.
+
+
+Les rituels pour effectuer cette transformation ont été développés par Paaridus, qui a donné son nom à cet ordre monastique peu structuré. Le processus nécessite une créature captive - une victime dont on peut tirer des pouvoirs. Pendant des jours de rituels intenses, le moine substitue ses propres chakras à ceux de la victime. Ce processus contre nature transforme le ki, et donc le corps. Les chakras inférieurs sont considérés comme plus "sûrs" à remplacer. La plupart des paaridars s'arrêtent aux chakras de la racine, du sacrum et du nombril. Si l'on va plus loin, on risque de perdre entièrement le contrôle de ses émotions et de son intellect, un sort auquel Paaridus lui-même a succombé. Les paaridars considèrent que c'est son sacrifice et sa leçon, mais les autres moines reconnaissent que même un pas sur cette voie est une profanation. La créature victime du rituel reste - toujours vivante, mais seulement son enveloppe, car ses chakras transformés la laissent faible et lui ôtent sa nature.

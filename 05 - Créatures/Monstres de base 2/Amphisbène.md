@@ -1,0 +1,24 @@
+---
+title: "Amphisbène"
+title_en: "Amphisbaena"
+type: creature
+source_id: "TbgHiHtPCK59KStC"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Amphisbène
+Un amphisbène est une vipère venimeuse extrêmement agressive et de taille remarquable qui porte deux têtes - une à chaque extrémité de son corps. Elle se déplace d'une manière similaire à celle du serpent plus courant, en projetant son corps vers l'avant dans une boucle et en s'ancrant en gardant une tête ou l'autre sur le sol à tout moment.
+
+
+Les proies typiques des amphisbènes sont les lapins, les renards, divers oiseaux, les petits cerfs et même les humanoïdes si l'occasion leur est présentée. Férocement territoriaux par nature, ils attaquent à peu près tout ce qui s'approche de leurs repaires, quelle que soit la taille de l'intrus. Plus d'un enfant a été mis en garde contre le fait de s'aventurer seul trop loin dans les bois, de peur qu'il ne s'approche trop près d'un repaire d'amphisbène et ne devienne le prochain repas de la créature.
+
+
+Le venin d'un amphisbène est incroyablement puissant, capable de terrasser un nain corpulent en quelques minutes s'il n'est pas soignée. Cependant, il a également des utilisations dans une variété de remèdes de guérison, ce qui en fait une marchandise précieuse si elle est collectée. Par exemple, il peut être conseillé à une personne enceinte de boire le venin à petites doses diluées pour favoriser sa grossesse. En mélangeant de petites quantités de venin avec diverses herbes et de l'huile, on obtient un cataplasme qui atténue les maux et les douleurs. Par conséquent, l'image d'un amphisbène apparaît dans de nombreux contextes associés à la guérison et aux sujets alchimiques, tels que les étiquettes de teintures, les annotations dans les registres d'herboristes et les illustrations dans les manuels de médecine.
+
+
+La première amphisbène aurait été formée à partie du sang d'une tête de méduse coupée. L'origine de cette histoire provient très probablement du fait que les amphisbènes sont curieusement immunisés contre la pétrification, ce qui les conduit parfois à être gardés comme animaux de compagnie par une méduse. Une méduse qui garde un amphisbène comme animal de compagnie peut considérer la vipère comme son compagnon le plus précieux ou peut-être même comme son propre enfant. Cependant, malgré ces origines surnaturelles légendaires et le traitement spécial qu'ils reçoivent occasionnellement, les amphisbènes sont des animaux tout à fait banals, dotés d'une intelligence rudimentaire et ne possédant aucune capacité magique innée, quelle qu'elle soit.

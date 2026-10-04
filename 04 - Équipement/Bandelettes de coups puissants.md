@@ -1,0 +1,21 @@
+---
+title: "Bandelettes de coups puissants"
+title_en: "Handwraps of Mighty Blows"
+type: item
+source_id: "weapon-02-FNDq4NFSN0g2HKWO"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Bandelettes de coups puissants
+En investissant ces bandelettes de tissu brodées, vous devez méditer en les enroulant sur vos mains. Des runes d'arme sont inscrites sur ces bandelettes pour que vos attaques à mains nues bénéficient des avantages qu'elles procurent. Vos attaques à mains nues fonctionnent ainsi comme des armes magiques.
+
+
+Par exemple, des *Bandelettes de coups puissants de frappe +1* vous confèrent un bonus d'objet de +1 à vos jets d'attaque à mains nues et augmentent les dégâts de vos attaques à mains nues qui infligent ainsi non pas un mais deux dés d'arme (2d4 au lieu de 1d4 normalement, mais si vos poings ont un dé de dégâts différent ou si vous avez d'autres attaques à mains nues, utilisez deux dés de la taille correspondante).
+
+
+Vous pouvez améliorer, ajouter et transférer des runes depuis et vers les bandelettes, tout comme vous le feriez avec une arme, et vous pouvez aussi fixer dessus des talismans. Le cas échéant, considérez les bandelettes comme des armes de corps-à-corps du groupe pugilat ayant un Encombrement léger. Les runes de propriété ne s'appliquent que si l'attaque à mains nues que vous utilisez le permet. Par exemple, une propriété applicable à une arme tranchante ne fonctionne pas quand vous attaquez avec votre poing mais elle s'applique si vous attaquez avec des griffes ou tout autre attaque à mains nues tranchante.

@@ -1,0 +1,26 @@
+---
+title: "Krampus"
+type: creature
+source_id: "hOgYpdscvGo4MHHo"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Krampus
+Krampus est un humanoïde de grande taille, ressemblant à une chèvre, avec un nez pointu, des cornes balayées en arrière et des pieds en forme de sabots. Sa longue langue grasse sort continuellement de sa bouche, léchant occasionnellement des gouttelettes de salive sur sa fourrure brun foncé. Il brandit un ensemble de chaînes de fer qui sont le prolongement de sa volonté. On ne voit jamais Krampus sans un panier en osier sur une épaule, dont le fond est souvent taché du sang de ses victimes. Krampus mesure un peu plus de 4 mètres et pèse près de 450 kilos.
+
+
+L'origine de krampus est inconnue ; les habitants des petites villes et villages qu'il terrorise dans le nord de l'Irrisen pensent que la créature a toujours existé, sortant une fois par an pour punir ceux qu'il juge méchants. Bien que de nombreuses légendes aient été racontées sur les débuts de Krampus, la plus populaire d'entre elles commence par une poignée de villes de montagne sous la protection d'un cercle de druides. Après une série d'hivers rigoureux auxquels les habitants ont à peine survécu, ils ont commencé à douter du pouvoir des druides et de leurs rituels. Alors que les villageois devenaient de plus en plus rancuniers, le cercle de druides prit des mesures drastiques. Sous la lumière d'une lune bleue, les druides ont ouvert un portail imparfait vers le royaume primitif des fées et ont appelé l'essence spirituelle la plus puissante qu'ils pouvaient et une nouvelle créature est née - Krampus. Cependant, à l'insu des druides, le portail avait été corrompu par le ressentiment amer et le doute des villageois. Au lieu d'invoquer une figure centrale pour les guider dans les célébrations hivernales, comme ils l'avaient espéré, les druides avaient engendré un monstre qui cherchait à punir ceux qui s'étaient comportés de manière égoïste pendant les périodes de vaches maigres.
+
+
+Reconnaissant leur erreur, les druides ont cherché à bannir leur création. Ils traquèrent Krampus pendant son sommeil et l'enchaînèrent dans des chaînes de fer froid, espérant le soumettre et le forcer à retourner dans le Premier Monde. Mais Krampus n'était pas une fée et le fer froid n'avait aucun pouvoir sur lui. Lorsqu'il se réveilla, il arracha les chaînes, les fit siennes et traqua les druides qui avaient osé tenter de le capturer. Après leur trahison, Krampus ne peut percevoir du bon chez aucun mortel et n'aspire qu'à punir les méchants pour leurs méfaits égoïstes.
+
+
+Aujourd'hui encore, Krampus prend un malin plaisir à transformer magiquement ses victimes en les faisant retomber en enfance avant de les tuer et aucune sorte de sacrifice ne peut l'apaiser. Heureusement pour tous les villages avoisinants, Krampus ne parcourt leurs rues qu'une fois par an.
+
+
+Les habitants pensent que Krampus fait sa tanière parmi les profondes crevasses de glace, quelque part dans le glacier du Mur d'hiver, qui borde les étendues les plus septentrionales d'Avistan. Aucun aventurier n'a encore bravé cette étendue traîtresse pour le trouver et le vaincre.

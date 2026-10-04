@@ -1,0 +1,18 @@
+---
+title: "Quintessivore"
+type: creature
+source_id: "qnFiUNUyH0zuG6hj"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Quintessivore
+Les quintessivores sont des créatures rusées qui manient la magie arcanique et munis de membres d'araignée tranchants comme des scalpels, capables de déchirer l'âme d'une personne aussi facilement que sa chair. Un quintessivore ne tue pas immédiatement sa proie : il la traîne dans sa tanière et sépare l'âme de la victime de son corps avec ses membres tranchants. Les lames tranchantes arrachent alors l'individualité de la créature, réduisant l'âme à une substance pure appelée quintessence, que le quintessivore consomme ensuite.
+
+
+Quintessence
+La quintessence ne constitue pas seulement l'âme d'une créature, mais forme également la plupart des plans de la Sphère extérieure. À travers le cycle de la vie et de la mort, les âmes mortelles voyagent jusqu'au Cimetière pour être jugées avant de passer à leur vie après la mort. Après des éons, les âmes perdent leur individualité et sont recyclées. Passée par le Maelström, la quintessence est décomposée en pure potentialité, puis se reforme en une nouvelle quintessence qui germe sur la Forge de la création comme source de nouvelles âmes.

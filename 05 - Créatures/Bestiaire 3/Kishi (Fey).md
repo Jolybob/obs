@@ -1,0 +1,27 @@
+---
+title: "Kishi (Fey)"
+title_en: "Kishi"
+type: creature
+source_id: "dtkq45qf18bENXBd"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Kishi (Fey)
+Les kishis sont des fées fourbes et meurtrières qui vivent à la lisière des jungles les plus denses de Golarion. À première vue, les kishis semblent être des humains séduisants, appartenant généralement à une ethnie locale, mais leurs têtes recouvertes de cheveux épais cachent un deuxième visage : celui d'une hyène hargneuse. Lorsqu'un kishi attire sa proie dans une situation vulnérable, sa tête pivote, révélant ce visage redoutable. Sous cette forme, les puissantes mâchoires du kishi sont presque impossibles à desserrer et peuvent broyer les os de la victime en quelques instants.
+
+
+Les caractéristiques physiques des kishis sont très variées et leur taille comme leur poids varient autant que les personnes dont ils infiltrent les communautés. Ils s'habillent de vêtements raffinés répondant aux dernières tendances de la mode et portent des bijoux voyants dans le but d'attirer le regard des spectateurs.
+
+
+Comme la plupart des fées, les kishis ont des motivations impénétrables, bien que pour leurs victimes, le but du kishi semble simple : se délecter de l'expression de choc, de trahison et de terreur sur le visage de celui qui découvre leur nature. Bien que les kishis puissent jeter un charme pour rendre leurs compagnons involontaires complaisants, la plupart de ces sinistres créatures préfèrent tromper leurs proies en utilisant la ruse, les cadeaux et leur belle apparence. Ces sadiques ultimes tirent leur plaisir du frisson de la chasse ainsi que de la délicieuse récompense à la fin. Plus la cible est coincée, prude ou hautaine, meilleur c'est, car rien ne satisfait autant les kishis que de gagner (puis de détruire) la confiance de quelqu'un qui ne l'accorde que rarement.
+
+
+Lorsque les kishis se retrouvent seuls avec leurs nouveaux amis ou amants, ils choisissent les moments les plus dramatiques pour révéler leur véritable forme monstrueuse et serrer leurs mâchoires sur leur victime. Les kishis n'ont aucune envie de faire savoir quelle est leur véritable nature à l'ensemble de la communauté, de sorte qu'ils visent généralement la gorge de leurs victimes, qui ne peuvent plus crier au secours après avoir été privées d'air. Les kishis consomment chaque partie du corps de leurs victimes, ne laissant aucune trace du crime, jusqu'à absorber le sang versé, en s'appropriant les trésors de la victime et en nettoyant la scène du crime autant que possible.
+
+
+Peu de choses peuvent souder une communauté aussi rapidement que la découverte d'un kishi. Une fois découvert, un kishi s'enfuit, dans l'espoir de trouver une nouvelle communauté à cibler.

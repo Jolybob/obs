@@ -1,0 +1,24 @@
+---
+title: "Androïde infiltrateur"
+title_en: "Android Infiltrator"
+type: creature
+source_id: "iNgKGHzMOAHjWQeI"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Androïde infiltrateur
+Les androïdes possèdent des corps synthétiques habités par des âmes vivantes. Ces organismes technologiques sont arrivés pour la première fois sur Golarion en provenance d'un autre monde lorsque leur vaisseau spatial s'est écrasé, éparpillant des épaves dans toute la Numérie lors d'un événement connu sous le nom de Pluie d'étoiles. Craints par les kellides locaux et asservis par la Ligue technique, les androïdes de Golarion ont passé des siècles à être haïs et chassés. Beaucoup d'androïdes survivent en adoptant les coutumes humaines et en se cachant à la vue de tous, tandis que d'autres deviennent des criminels, des ermites ou des nomades.
+
+
+Conçus pour ressembler aux humains, les androïdes ont plusieurs traits distinctifs. Leurs yeux ont un éclat métallique, ils tombent rarement malades et ils ont du mal à afficher des émotions complexes. Des tatouages en forme de circuit décorent leur corps et contrôlent des nanites internes. Lorsqu'ils sont stimulés, ces nanites donnent un coup de fouet à leur chimie interne, ce qui leur permet de fonctionner à un niveau de performance maximal qui fait briller leurs circuits.
+
+
+Les androïdes sont créés dans des machines sophistiquées appelées fonderies. Ils émergent comme des adultes matures avec des âmes naissantes et aucune connaissance de leur but ou du monde qui les entoure. Les corps des androïdes ne se détériorent pas, bien que leurs âmes vieillissent comme celles de tout autre mortel. Lorsqu'un androïde estime avoir vécu une vie bien remplie, il libère volontairement son âme dans l'au-delà, ce qui entraîne l'arrêt et le redémarrage de son corps. Une fois ce processus, connu sous le nom de Renouvellement, terminé, une nouvelle âme habite son corps.
+
+
+La programmation de la fonderie produit des androïdes qui imitent l'anatomie humaine. De nombreux modèles d'androïdes existent, chacun étant conçu pour exceller dans des tâches et des objectifs différents. Les androïdes de tous les modèles présentent d'innombrables variations de coloration, de formes corporelles et d'identités sexuelles. Théoriquement, une fonderie pourrait être reprogrammée pour créer des androïdes avec de nouvelles adaptations, colorations et formes - peut-être même sous l'apparence d'autres ascendances.

@@ -1,0 +1,24 @@
+---
+title: "Japalisura (Asura)"
+title_en: "Japalisura"
+type: creature
+source_id: "BPmotFI9EoIqSatr"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Japalisura (Asura)
+Les japalisuras ont une propension perverse à extraire de l'univers des vérités embarrassantes, utilisant une combinaison d'artifice et de prophétie pour obscurcir la vérité et corrompre la divination traditionnelle. Ils ont un talent particulier pour la manipulation : ils nourrissent les pires impulsions et préjugés de leurs auditeurs, leur disent ce que leurs proies veulent le plus entendre et déforment leurs perceptions pour les adapter à leurs propres fins. Tout cela se produit cependant derrière un voile, car les japalisuras sont des monstres grotesques dotés de six bras, d'une infinité de visages et d'une obsession pour le profane.
+
+
+Le premier japalisura est né des dépouilles de trois archers demi-dieux, les fils d'une déesse qui craignait leur montée en puissance et qui les a tués. Leur forme fusionnée était si terrifiante qu'ils conclurent un accord avec un puissant asura rana pour modifier leur visage en quelque chose de plus agréable. La véritable cruauté de l'enchantement n'est apparue que plus tard - le japalisura avait un nouveau visage, mais celui-ci se transformait en un visage différent chaque minute, à chaque fois aussi hideux que le précédent.
+
+
+
+
+
+Les asuras sont, avant tout, la preuve que les dieux ne sont pas infaillibles. Ces monstres sont nés de manifestations physiques des petits accidents divins, prenant forme lorsque les dieux eux-mêmes ont trébuché et blasphémé à l'échelle cosmique. En raison de sa propre genèse divine, l'asura aime par-dessus tout défaire l'œuvre divine. Ils se rendent avec empressement dans l'Univers, à la recherche de temples, de congrégations d'adorateurs fidèles et d'ordres religieux de tous bords, pour semer le doute et détruire ce que les dieux cherchent à construire.

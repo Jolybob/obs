@@ -1,0 +1,24 @@
+---
+title: "Potion de bouclier temporel"
+title_en: "Time Shield Potion"
+type: item
+source_id: "consumable-13-1YROvQsCdq8WFWRj"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Potion de bouclier temporel
+**Activation** 1 (manipulation)
+
+
+
+
+
+Cette potion violette a un goût amer et semble se troubler lorsque vous l'agitez. Lorsque vous buvez une *potion de bouclier temporel*, vous êtes figé dans le temps pendant [[/r 2d4 #rounds]]{2d4 rounds}. Vous ne pouvez ni agir, ni être ciblé, vous êtes immunisé contre tous les effets et vous disparaissez de votre espace. En ce qui concerne l'univers, vous n'existez tout simplement pas tant que dure la potion. Les durées de tous les effets qui vous ciblent lorsque vous buvez la potion sont suspendues jusqu'à ce qu'elle se dissipe.
+
+
+Une fois que la durée de la potion a expiré, vous retournez au cours normal du temps et à votre ancien espace ; si cet espace est maintenant occupé, vous êtes déplacé vers l'espace inoccupé le plus proche. Les effets dont la durée est limitée recommencent immédiatement à vous affecter, comme si aucun temps ne s'était écoulé. Si vous vous trouvez dans la zone d'un effet créé alors que vous étiez hors du temps, vous subissez immédiatement ces effets à votre retour. Le MJ peut déterminer que d'autres changements se sont produits pendant que vous étiez hors du temps (comme l'effondrement du sol sous vos pieds) vous affecteront également à votre retour.

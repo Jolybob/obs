@@ -1,0 +1,27 @@
+---
+title: "Renforcer les chances"
+title_en: "Nudge the Odds"
+type: spell
+source_id: "uncommon-01-QjdvYC1QkpMaemoX"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Renforcer les chances
+Vous vous accordez une chance surnaturelle aux cartes, aux dés et aux autres jeux de hasard. Vous obtenez un bonus de statut de +1 aux tests de Connaissance ludique pour parier et si vous obtenez un échec critique sur un tel test, il devient un échec ; cependant, le sort est trop éphémère pour être utilisé pour les tests permettant de Gagner de l'argent avec les jeux de hasard.
+
+
+Lorsque vous êtes sous l'effet de Renforcer les chances, un trait du visage, comme une mèche de cheveux ou l'iris d'un œil prend une couleur dorée distinctive. Le MJ choisit le trait lorsque vous lancez le sort. Ce changement résiste à tous les efforts magiques pour le dissimuler, bien qu'il puisse être caché ou couvert par des moyens ordinaires. Une créature qui remarque le trait peut identifier le sort en utilisant Se souvenir. Parce qu'il permet d'éviter de perdre gros, les joueurs considèrent que Renforcer les chances est une forme répugnante de tricherie. Si vous êtes pris en train d'utiliser le sort, vous êtes susceptible de subir de graves conséquences, selon la nature des joueurs que vous avez trompés.
+
+
+[[Effet - Renforcer les chances]]
+
+
+
+
+
+**Intensifié (5e)** Le bonus de statut passe à +2 et la durée augmente pour durer jusqu'à ce que vous fassiez vos prochains préparatifs quotidiens. Si vous continuez à dépenser votre emplacement de sort pour maintenir la durée active, cela vous permet d'appliquer l'effet à un test d'Intermède pour gagner de l'argent.

@@ -1,0 +1,14 @@
+---
+title: "Zaramuun"
+type: creature
+source_id: "31kXa1P0LUl38jYG"
+collection: "pathfinder-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary
+---
+
+# Zaramuun
+Les zaramuuns sont des êtres de sable élémentaire qui se cachent dans les déserts et les autres terres désolées. Ils restent tapis sous la forme de grandes dunes en attendant le passage de créatures vivantes afin de se dresser et les attaquer. Les plus tristement célèbres zaramuuns tuent toutes les créatures qu'ils croisent. D'autres se contentent de dérober à leurs victimes toutes leurs possessions en métal et en pierre avant de s'enfuir. Bien que des zaramuuns proclament qu'ils ne font que récupérer ce qui a été volé à leur terre ancestrale, ils sont en réalité dans le déni. La plupart d'entre eux utilisent en effet le fruit de leurs rapines comme paiement et composants matériels pour convoquer des fiélons. Les zaramuuns ont en effet été exilés du plan de la terre pour avoir adoré des fiélons qui leur ont promis des moyens de dominer les autres élémentaires. Cependant, ce culte s'est graduellement transformé en servitude et, maintenant, de nombreux zaramuuns sont convaincus que s'ils envoient assez d'âmes à leurs maîtres, ceux-ci les libéreront.

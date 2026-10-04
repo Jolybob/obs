@@ -1,0 +1,18 @@
+---
+title: "Pangolin géant"
+title_en: "Giant Pangolin"
+type: creature
+source_id: "c7kP2W6zaZA9oxAd"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Pangolin géant
+Malgré leur taille prodigieuse, les pangolins géants sont des créatures solitaires et recluses qui se nourrissent la nuit d'insectes et de vermine. Pour se défendre des prédateurs, ils s'appuient sur un véritable arsenal naturel de défenses pour dissuader leurs ennemis : une épaisse armure d'écailles méchamment tranchantes, un corps souple et musclé capable de se rouler en boule défensive et un musc nocif. Contre les menaces plus persistantes, les prodigieuses griffes fouisseuses des pangolins géants s'avèrent des armes puissantes en cas de besoin.
+
+
+Bien que les défenses d'un pangolin soient suffisantes contre les prédateurs naturels, ils ont longtemps été la cible du braconnage par les cultures humanoïdes, en partie pour la viande, mais surtout en raison de la grande valeur de leurs écailles uniques. Ces écailles sont largement utilisées dans l'alchimie, la médecine populaire et l'artisanat et leur demande, ainsi que les profits associés à leur vente, restent élevés. Les pangolins géants sont mieux protégés contre les chasseurs humanoïdes, mais la plus grande taille de leurs écailles implique des applications plus larges et un volume plus important. La difficulté accrue d'acquérir des pangolins rend la chose d'autant plus rentable et des braconniers peu scrupuleux peuvent bien gagner leur vie en chassant ces créatures.

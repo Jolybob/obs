@@ -1,0 +1,15 @@
+---
+title: "Armement dévastateur"
+title_en: "Devastating Weaponry"
+type: feat
+source_id: "class-18-Cs0hRKBfWn2gOYzK"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Armement dévastateur
+Vous lâchez une volée de projectiles depuis votre arme ou vous l'alimentez pour qu'elle vole dans toutes les directions à travers le champ de bataille et frappe plusieurs créatures. Effectuez une Frappe avec votre innovation d'arme contre chaque ennemi situé à 9 mètres de vous. N'augmentez pas votre pénalité d'attaques multiples avant d'avoir effectué toutes les attaques. Si votre innovation est une arme de corps-à-corps et que l'une des attaques est hors de votre portée, vous relâchez l'arme avant les Frappes et elle revient dans votre main après toutes les attaques. Si vos mains sont pleines lorsque l'arme revient, elle tombe au sol dans votre case. Comme à l'ordinaire, si votre innovation d'arme nécessite une ou plusieurs actions pour être rechargée entre les frappes, vous ne pouvez pas l'utiliser pour effectuer des attaques multiples avec Armement dévastateur.

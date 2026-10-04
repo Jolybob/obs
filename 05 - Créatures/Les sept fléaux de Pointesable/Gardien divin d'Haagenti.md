@@ -1,0 +1,24 @@
+---
+title: "Gardien divin d'Haagenti"
+title_en: "Divine Warden Of Haagenti"
+type: creature
+source_id: "DcVyPHFvzrUhC7EV"
+collection: "seven-dooms-for-sandpoint-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/seven-dooms-for-sandpoint-bestiary
+---
+
+# Gardien divin d'Haagenti
+Créés par des rituels complexes exécutés par les adeptes d'un culte, les gardiens divins ont été imprégnés d'une fraction de la puissance qui parcourt un champion ou un prêtre d'une divinité particulière. Cette étincelle divine permet au gardien divin d'être le protecteur d'un temple, d'un sanctuaire ou d'un autre lieu sacré. De tels gardiens ne sont pas intrinsèquement liés à un lieu fixe mais ils quittent rarement le temple ou le site sur lequel ils veillent.
+
+
+La plupart des gardiens divins ont été fabriqués à partir d'argile, de pierre, de bois ou de matériaux similaires et présentent généralement des caractéristiques qui le font ressembler à une divinité ou au héraut d'une divinité. Les gardiens divins bénéficient souvent de capacités habituellement partagées par les créatures artificielles comme un blindage, la capacité de se déguiser en statues ou d'autres capacités similaires.
+
+
+Les fidèles qui fabriquent des gardiens divins animent généralement les créatures artificielles à l'aide d'un rituel spécial au cours duquel les adeptes supplient leur divinité d'octroyer des dons divins au gardien. Le mandat divin qui imprègne un gardien divin de pouvoir permet également à la sentinelle de reconnaître les ennemis de sa divinité et empêche la créature artificielle d'attaquer d'autres membres du culte, à moins que ces croyants ne choisissent de l'attaquer d'abord.
+
+
+Dans de rares cas ou des périodes particulièrement sinistres, une divinité peut créer un gardien divin en animant directement une statue ou une idole existante pour aider ses fidèles. Ces gardiens divins sont plus susceptibles d'être trouvés en dehors de leurs emplacements d'origine, aidant les congrégations déplacées ou poursuivant ceux qui pourraient nuire aux fidèles.

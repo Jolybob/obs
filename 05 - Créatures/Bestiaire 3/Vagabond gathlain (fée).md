@@ -1,0 +1,24 @@
+---
+title: "Vagabond gathlain (fée)"
+title_en: "Gathlain Wanderer"
+type: creature
+source_id: "CSPuBqtPITQt43Md"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Vagabond gathlain (fée)
+Les gathlains ont la réputation d'être curieux et d'espiègles, mais aussi volages et distraits. Ces petites fées excentriques ne veulent rien d'autre qu'explorer les nombreuses merveilles du monde pour leur propre plaisir.
+
+
+Nés d'arbres magiques dans des gousses de graines qui flottent à des centaines de kilomètres au gré du vent, les gathlains sont un mélange bizarre de chair et de végétal. Des brins de gui fleurissent dans leur dos et forment une délicate paire d'ailes. Ils aiment se parer de bizarreries trouvées au cours de leurs voyages, comme des perles, des morceaux de tissu fin et des morceaux d'armure. Les fées considèrent ces accessoires comme des trophées, des preuves de leurs voyages et des souvenirs de leurs errances.
+
+
+Le gathlain typique ne mesure que 70 centimètres, mais sa petite taille ne le dissuade pas de fouiller et d'explorer des endroits potentiellement dangereux. Ils utilisent même parfois leur taille à leur avantage, se faufilant dans des espaces étroits où la plupart des autres ne pourraient jamais passer. De plus, leurs ailes bordées de vrilles de vignes leur permettent d'atteindre des hauteurs que beaucoup d'aventuriers trouveraient décourageantes. Ces caractéristiques ont fait d'eux des explorateurs célèbres dont la présence est bienvenue dans un groupe de voyageurs, à condition que chacun soit préparé à leurs questions interminables. Une conversation avec un gathlain peut ressembler davantage à un interrogatoire car ils se soucient peu du confort des autres si cela signifie qu'ils apprendront quelque chose de nouveau et d'intéressant à ajouter à leur éventail de connaissances.
+
+
+Les gathlains aiment particulièrement les gnomes, car ils ressentent une sorte d'attachement familial à leur cousins fées exilés et tentent de s'insinuer dans les bonnes grâces de tous les gnomes qu'ils croisent. Les gnomes ne leur rendent pas toujours cette affection et beaucoup ont tendance à se méfier des gathlains, en raison de la nature bavarde et volage de ces plus petites créatures.

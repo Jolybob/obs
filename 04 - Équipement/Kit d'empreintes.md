@@ -1,0 +1,21 @@
+---
+title: "Kit d'empreintes"
+title_en: "Fingerprint Kit"
+type: item
+source_id: "equipment-03-QlFJyxBTYFSN2EA7"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Kit d'empreintes
+Les kits d'empreintes digitales, que l'on trouve rarement en dehors des grandes métropoles, sont un moyen moderne et non magique de relier les suspects à la scène d'un crime.
+
+
+Ce kit se compose de deux parties. La première, un pinceau délicat et un pot de poussière extrêmement fine, qui est utilisée pour révéler les empreintes digitales laissées par la plupart des créatures humanoïdes. La poussière adhère aux huiles naturelles laissées sur les surfaces lisses. Lorsque vous utilisez le kit pour déterminer si des créatures ont laissé ou non une empreinte digitale sur une scène de crime, le MJ lance un test secret de Vol versus le DD de Vol de chaque créature capable de laisser des empreintes et ayant interagi avec la scène. En cas de succès, vous localisez une empreinte claire de cette créature et la transférez soigneusement sur une feuille de papier collant spéciale. (Notez que les empreintes digitales peuvent durer plusieurs jours, et les empreintes collectées de cette manière incluent souvent celles des victimes, des témoins et des passants sans lien de parenté). À la discrétion du MJ, la créature ayant laissé l'empreinte peut bénéficier d'un bonus à son DD de Vol pour avoir pris des précautions particulières. Dans d'autres cas, il peut être impossible de trouver une empreinte (par exemple si la créature portait des gants ou si l'endroit a été considérablement compromis).
+
+
+La deuxième partie du kit est une petite liasse de papier et un tampon imbibé d'encre. En forçant une créature humanoïde avec des empreintes digitales à faire glisser un doigt sur le tampon et à le presser sur le papier, vous pouvez obtenir une image des vrilles uniques des empreintes digitales de cette créature. Celles-ci peuvent ensuite être comparées aux empreintes trouvées sur une scène de crime. Pour déterminer si deux empreintes correspondent ou non, il faut effectuer un test de @Check[perception|dc:15|traits:action:seek]. Le MJ doit également effectuer ce test secrètement, car un échec peut entraîner de fausses informations.

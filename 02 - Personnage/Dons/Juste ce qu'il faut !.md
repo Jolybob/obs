@@ -1,0 +1,21 @@
+---
+title: "Juste ce qu'il faut !"
+title_en: "Just the Thing!"
+type: feat
+source_id: "class-16-5ZoIJImgvpdhGcDR"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Juste ce qu'il faut !
+**Fréquence** Une fois par heure
+
+
+
+
+
+Vous avez besoin de tenir en équilibre sur un fil, de forcer une porte en fer ou de persuader un dragon de négocier ? N'ayez crainte ! Quelle que soit la situation, vous avez toujours ce qu'il faut. Vous tentez une action de compétence qui nécessite 1 minute ou moins pour être accomplie, en utilisant le même nombre d'actions ou la même durée que d'habitude. Cependant, lorsque vous effectuez l'action, décrivez un dispositif que vous sortez et que vous utilisez pour accomplir l'action. Les détails de cette action sont à votre discrétion, mais ils doivent correspondre au défi à relever. Par exemple, vous pouvez utiliser des stabilisateurs gravitationnels pour tenir en équilibre sur le fil du rasoir, un bélier pour ouvrir une porte en fer ou un dispositif qui produit un arôme capable d'apaiser les Vers pour persuader le dragon. Utiliser une invention de cette manière vous permet de modifier la façon dont vous calculez le test de compétence utilisé dans l'action. Au lieu du modificateur de compétence normal associé à cette action de compétence, vous utilisez votre modificateur d'Artisanat.

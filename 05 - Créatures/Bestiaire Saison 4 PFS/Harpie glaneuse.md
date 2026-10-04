@@ -1,0 +1,21 @@
+---
+title: "Harpie glaneuse"
+title_en: "Harpy Forager"
+type: creature
+source_id: "1iEGNvvHIG8EdOf1"
+collection: "pfs-season-4-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-4-bestiary
+---
+
+# Harpie glaneuse
+Les harpies sont des amalgames répugnants entre des humains et des oiseaux et ressemblent à des humains sauvages avec des ailes, des serres et une bouche pleine de dents pointues. Elles ont recours à des chants envoûtants pour attirer les créatures avant de les assassiner pendant qu'elles sont captivées. Elles aiment semer la confusion et la peur chez leur proie avant de frapper car elles croient que cela donne meilleur goût à la chair. Les harpies peuvent manger la plupart des créatures mais elles préfèrent nettement celles qui sont intelligentes, les Humains et les Elfes étant leurs mets favoris. Bien que les harpies pourront dévorer un Gobelin si elles sont affamées, elles n'aiment pas leur goût et évitent de le faire si elles peuvent l'éviter. Cela n'apporte aucun réconfort aux Gobelins, naturellement, qui sont terrifiés par les harpies.
+
+
+Comme ces créatures ailées sont souvent souillées du sang de leurs victimes et de guano, elles dégagent une odeur immonde caractéristique qui est signe de danger pour les voyageurs bien informés. Les harpies qui nichent à proximité de la civilisation font plus d'efforts pour rester propres mais les résultats sont mitigés.
+
+
+Ces créatures vivent en groupes familiaux ou au sein de clans plus importants. Elles sont assez légères malgré leur stature avec une taille de 1,50 mètre pour un poids d'environ 45 kilos. Bien que la plupart utilisent des armes relativement simples, certaines s'enorgueillissent d'apprendre à utiliser des outils de guerre bien plus complexes comme les frondes ou les épées. Celles qui apprennent à se servir d'un arc, en particulier, sont souvent considérées comme des héroïnes par leurs sœurs et des terreurs par leurs victimes.

@@ -1,0 +1,28 @@
+---
+title: "Lakkai Simple-Croc"
+title_en: "Lakkai One-Fang"
+type: creature
+source_id: "Plig7vUF9cEY1VBJ"
+collection: "extinction-curse-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/extinction-curse-bestiary
+---
+
+# Lakkai Simple-Croc
+Les chefs Xulgaths sont généralement les membres les plus forts et violents de leur communauté. Cela étant, quand une tribu est particulièrement grande, elle est souvent menée par de puissants cultistes démoniaques ou d'autres monstres qui cherchent à asservir les Xulgaths.
+
+
+
+
+
+Les xulgaths (également appelés des troglodytes par de nombreux habitants de la surface) sont des humanoïdes reptiliens qui occupent les étages les plus élevés de l'Ombreterre et attaquent à vue les intrus qui pénètrent sur leur territoire. Ils sont organisés en communautés familiales simples qui doivent régulièrement affronter des groupes rivaux et d'autres habitants agressifs de l'Ombreterre pour survivre. Ils mènent souvent des raids contre des villages de la surface, généralement à l'initiative de dirigeants cruels et assoiffés de sang, eux-mêmes asservis à créatures plus puissantes comme des nagas ou des démons. Un xulgath possède généralement des écailles gris terne, gris foncé ou couleur cendre,
+avec une longue queue et des excroissances osseuses courant le long de son échine. Un xulgath mesure 1,50 mètre et pèse 75 kilos.
+
+
+Si les xulgaths, dont la population est aujourd'hui diffuse, sont souvent considérés comme des brutes, ils faisaient pourtant partie des premiers humanoïdes intelligents de l'ancien temps et ils possédaient autrefois un puissant empire s'étendant dans toute l'Ombreterre. Il n'en reste plus que les ruines d'immenses ziggurats de pierre et les restes croulants de villes dans certaines grandes cavernes. Certains groupes de xulgaths persistent à vivre dans ces ruines en vénérant les exploits de leurs ancêtres. D'autres considèrent ces endroits comme tabous et préfèrent les abandonner à la vermine de l'Ombreterre.
+
+
+Les sages n'arrivent pas à se mettre d'accord sur la raison de la chute de l'ancienne civilisation xulgathe. Certains d'entre eux pensent qu'il s'agit de la conséquence de plusieurs guerres contre les hommes-serpents quand d'autres la mettent sur le compte de l'influence corruptrice de cultes démoniaques qui aurait gangrené leur culture de l'intérieur. En tout cas, à ce jour, de nombreuses communautés xulgathes continuent d'adorer des démons et de rendre hommage et offrir des sacrifices vivants à de terribles créatures des Failles extérieures. De temps à autre, un chaman xulgath peut convoquer et lier un démon inférieur afin qu'il serve la communauté. Cependant, un chaman qui explore les voies occultes trop en profondeur court le risque de convoquer un fiélon trop puissant qui ne perdra alors pas de temps à déchiqueter les xulgaths ou à les asservir.

@@ -1,0 +1,24 @@
+---
+title: "Munition de transposition supérieure"
+title_en: "Transposition Ammunition (Greater)"
+type: item
+source_id: "ammo-15-9CNxvAalHBPdSUFl"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Munition de transposition supérieure
+**Munitions** toutes
+
+
+**Activation** 2 (manipulation)
+
+
+
+
+
+Les munitions de transposition ont une teinte blanc laiteux et changent parfois subtilement de position de leur propre chef. Lorsque vous activez la munition, au lieu de faire une Frappe contre un ennemi, vous tirez la munition de transposition vers n'importe quelle case inoccupée que vous pouvez voir dans le premier facteur de portée de votre arme et vous réussissez sans faire de jet d'attaque. Vous vous attirez à travers le Plan astral, vous téléportant avec les objets que vous tenez dans la case où vous avez tiré la munition. Lorsque vous vous téléportez, vous pouvez emmener jusqu'à deux créatures adjacentes consentantes. Ces créatures doivent chacune arriver sur des cases inoccupées adjacentes à la munition de transposition ; s'il n'y a pas assez de place pour les deux, vous choisissez laquelle est téléportée.

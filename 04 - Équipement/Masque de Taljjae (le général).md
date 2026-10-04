@@ -1,0 +1,33 @@
+---
+title: "Masque de Taljjae (le général)"
+title_en: "Taljjae's Mask (The General)"
+type: item
+source_id: "equipment-18-JSbBiTCtFctuJFhS"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Masque de Taljjae (le général)
+Ceux qui obtiennent l'un des masques de Taljjae, soit en vainquant Taljjae, soit par un autre moyen, sont connus comme ses doublures et obtiennent une fraction de sa puissance. Chacun des masques de Taljjae est un objet unique avec les traits investi et magique ; s'ils sont cassés, ils sont automatiquement réparés à plein PV lorsqu'ils sont investis au cours de vos préparatifs quotidiens. Porter un des masques de Taljjae accorde également le Sens de la confiture et de devoir subir la gloutonnerie de Taljjae tant que le masque est porté.
+
+
+
+
+
+**Activation** 1
+
+
+**Fréquence** Une fois par jour
+
+
+
+
+
+**Effet** Le général octroie au porteur un bonus de statut de +3 à ses jets d'attaque avec les armes d'hast pendant 1 minute.
+
+
+[[Effet - Masque de Taljjae (le général)]]

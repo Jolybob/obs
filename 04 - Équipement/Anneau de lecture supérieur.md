@@ -1,0 +1,18 @@
+---
+title: "Anneau de lecture supérieur"
+title_en: "Reading Ring (Greater)"
+type: item
+source_id: "equipment-12-7U16hk57BHVM5QYs"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Anneau de lecture supérieur
+Un anneau de lecture supérieur est personnalisé pour son utilisateur et capable de lire tout langage écrit et permet au lecteur de comprendre ce qu'il lit. Chaque anneau est unique et ne peut être utilisé par aucune autre personne que l'utilisateur spécifique auquel il est lié.
+
+
+Un anneau de lecture supérieur est lié à son utilisateur par un processus qui puise dans le potentiel intérieur de l'utilisateur, de la même manière que pour un objet investi, sauf que le processus prend 10 minutes, est permanent et ne compte pas dans le nombre total d'objets que vous pouvez investir. Vous pouvez porter l'anneau de différentes manières, souvent à un doigt ou sur une chaîne portée sur votre personne si vous ne pouvez pas l'avoir à un doigt. Vous pouvez utiliser l'anneau de lecture pour lire du texte en effectuant une action Interagir et vous lisez avec la bague à peu près au même rythme qu'un autre lecteur. Il n'y a pas de limite à la fréquence à laquelle vous pouvez utiliser l'anneau pour lire de cette manière.

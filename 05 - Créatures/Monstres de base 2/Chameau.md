@@ -1,0 +1,27 @@
+---
+title: "Chameau"
+title_en: "Camel"
+type: creature
+source_id: "ZAXM01KREZECWRvz"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Chameau
+Pendant d'innombrables générations, les nomades et les commerçants se sont appuyés sur des chameaux aux pieds sûrs pour traverser les déserts et les étendues dépourvues de piste du monde entier. Prospérant là où d'autres animaux dépérissent et périssent, les chameaux sont bien adaptés à leur habitat grâce à leur peau résistante et à leur capacité à stocker les nutriments dans leur corps. Correctement soignés, ces "navires du désert" peuvent voyager pendant des semaines entre les oasis sans problème.
+
+
+Les camélidés ont trois paupières pour les protéger des sables du désert et autres débris soufflés. L'une des paupières est complètement transparente, ce qui leur permet de voir et de se déplacer par grand vent. En cas de tempête de sable, les chameaux ferment complètement leurs narines pour protéger leurs poumons. Leur bas-ventre arbore également une peau épaisse et spécialisée, qui leur permet de s'allonger en toute sécurité sur les sables brûlants.
+
+
+Contrairement à la croyance populaire, c'est le tissu adipeux qui compose les bosses des chameaux plutôt que l'eau. Cette énergie stockée permet aux animaux de survivre sur de longues distances entre ses repas. Ces herbivores peuvent également digérer facilement des broussailles rustiques non-comestibles pour les autres espèces, ce qui en fait l'un des survivants les plus robustes du désert. Forts comme des chevaux de guerre, les chameaux peuvent courir vite et même sprinter pendant de courtes périodes lorsqu'ils se sentent menacés, bien qu'ils préfèrent une allure lente et laborieuse pour économiser leur énergie.
+
+
+Les chameaux à une bosse, également appelés dromadaires, sont plus courants dans les déserts du nord du Garund, tandis que la variété à deux bosses est originaire des steppes sèches du Casmaron. Les deux espèces sont grandes et maigres, mesurant environ 1,80 mètres à l'épaule et pesant presque une tonne. Ils peuvent se montrer hargneux lorsqu'ils sont malmenés et n'hésitent pas à mordre, à donner des coups de pied ou même à cracher une substance nocive sur les cavaliers qui ne les traitent pas bien.
+
+
+En plus de transporter des personnes et des marchandises, les chameaux sont une source essentielle de fibres pour les vêtements et les tentes ainsi que de lait. Leur viande est très nutritive et étonnamment savoureuse, mais compte tenu de l'utilité des créatures, cet usage est réservé à des occasions spéciales ou à des situations vraiment désastreuses.

@@ -1,0 +1,20 @@
+---
+title: "Tikbalang"
+type: creature
+source_id: "zGdsQWq6uHjE7TSx"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Tikbalang
+Les tikbalangs sont des créatures de la forêt qui se plaisent à égarer les voyageurs. Ils trompent et induisent en erreur grâce à leur formidable magie, sautant d'arbre en arbre tout en riant ou en hennissant, de manière incontrôlable. Sans être malveillants, ils ne sont pas non plus empathiques au sort de leurs victimes. Ils préfèrent oublier ceux à qui ils ont joué des tours et les laisser mourir plutôt que de les ramener sur le chemin du fait d'un altruisme coupable.
+
+
+La magie occulte d'un tikbalang découle du mystère ésotérique de la croyance au mensonge. Au moment de fabriquer des illusions ou de conjurer des espaces extradimensionnels, le tikbalang lui-même croit que ce qu'il crée est réel. Il est de ce fait plus difficile de résister à leurs sorts et ce même principe fait d'eux des menteurs très efficaces. Mais cet empressement à croire les rend également sensibles aux tromperies et aux illusions et ils sont particulièrement vulnérables aux jeux de l'esprit. Les voyageurs solitaires sans magie apprennent souvent des énigmes, des tours de passe-passe ou d'autres astuces pour se défendre contre les divertissements souvent mortels d'un tikbalang. D'autres suggèrent de porter sa chemise à l'envers pour confondre une telle créature ou de passer silencieusement dans la forêt où se trouve un tikbalang pour ne pas attirer son attention.
+
+
+Contrairement à la plupart des illusionnistes, les tikbalangs peuvent également compter sur leurs prouesses physiques en cas de besoin. Ils ont des jambes inhabituellement longues qui se terminent par des sabots fendus et ils sont aussi grands que des ogres lorsqu'ils sont debout. Grimpeurs et sauteurs habiles, ils sont également connus pour être des maîtres de la lutte, leurs longs membres leur donnant un avantage certain sur leurs ennemis. Ils ont des visages allongés qui, combinés à leurs cheveux bien entretenus, suggèrent une apparence équine - bien que certains tikbalangs aient plutôt des visages de sauriens ou d'oiseaux.

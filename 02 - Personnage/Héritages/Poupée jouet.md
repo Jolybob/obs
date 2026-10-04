@@ -1,0 +1,15 @@
+---
+title: "Poupée jouet"
+title_en: "Toy Poppet"
+type: heritage
+source_id: "EHDYVhJcZ9uPUjfZ"
+collection: "heritages"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - heritage
+  - source/heritages
+---
+
+# Poupée jouet
+Vous avez la forme d'un jouet ou d'une poupée d'enfant très petite, mais vous ne laissez pas votre petite taille gâcher votre joie de vivre. Au lieu de petite, votre taille est Très petite. Comme les autres créatures de Très petite taille, vous ne recevez pas automatiquement un abri partiel lorsque vous êtes dans la case d'une créature plus large, mais les circonstances pourraient vous permettre de vous Mettre à l'abri. Vous pouvez acheter des armes, des armures et d'autres objets de votre taille avec les mêmes statistiques que l'équipement normal, à l'exception des armes de corps-à-corps qui ont une allonge de 0 pour ce qui vous concerne (ou une allonge de 1,50 mètre plus courte que la normale si elles possèdent le trait allonge). Vous pouvez entrer dans la case d'une autre créature, ce qui est important puisque vous devez habituellement entrer dans la case de la créature pour l'attaquer avec des Frappes au corps-à-corps ! Souvenez vous d'ajuster l'Encombrement des objets et votre limite d'Encombrement pour les Très petites tailles.

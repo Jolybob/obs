@@ -1,0 +1,21 @@
+---
+title: "Tenue de camouflage superbe"
+title_en: "Camouflage Suit (Superb)"
+type: item
+source_id: "equipment-09-Z8RZfkIrsifYeWg4"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Tenue de camouflage superbe
+Cette maille légère s'adapte facilement sur une armure légère. La tenue est conçue pour incorporer la flore locale et le fouillis du sol dans le maillage afin de vous aider à vous fondre parfaitement dans l'environnement. En raison de la nature abrasive des matériaux utilisés, cet article ne convient pas aux personnages sans armures. Vous pouvez préparer la tenue pour l'utiliser dans votre environnement actuel en utilisant une activité d'exploration qui prend au moins 10 minutes, mais parfois plus longtemps si les matériaux sont difficiles à trouver ou si l'environnement est suffisamment inhabituel pour justifier une difficulté supplémentaire dans la préparation d'un camouflage qui peut se fondre avec lui de manière cohérente.
+
+
+Une tenue préparée de cette manière vous accorde un bonus d'objet de +2 aux tests de Discrétion lorsque vous tentez de Vous cacher ou Être furtif dans l'environnement spécifique pour lequel il a été préparé. La tenue reste utilisable de cette manière jusqu'à ce que vous vous reposiez pour la nuit, bien qu'elle n'accorde pas cet avantage chaque fois que vous n'êtes pas dans l'environnement approprié. Le MJ peut décider que certains environnements sont suffisamment inhabituels pour que vous ne puissiez pas créer une tenue de camouflage appropriée à l'environnement.
+
+
+[[Effet - Tenue de camouflage préparée]]

@@ -1,0 +1,15 @@
+---
+title: "Gantelet pantographe"
+title_en: "Pantograph Gauntlet"
+type: item
+source_id: "weapon-00-ONHFPXNNw9BkNAKm"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Gantelet pantographe
+Un gantelet pantographe est un poids lourd, semblable à un poing, monté sur un cadre extensible et attaché à l'extérieur de votre bras par une série de sangles en cuir. L'ensemble des liaisons mécaniques du cadre reliées à diverses charnières permet aux mouvements de se propager sur le cadre en se basant sur des parallélogrammes de remodelage, contrôlés en outre par une barre transversale que vous saisissez dans votre main. Un gantelet pantographe est actionné par votre propre mouvement et reflète les mouvements de votre bras - un coup de poing lancé avec votre poing fait bouger le pantographe, qui étend le poids à une vitesse rapide pour faire pleuvoir les coups jusqu'à 3 mètres de distance. Dans certaines régions, comme l'Alkenastre et l'Ustalav, les gantelets à pantographe sont parfois construits entièrement en métal et façonnés à l'image de bras surdimensionnés, intégrant un système complexe d'engrenages ou une machine à vapeur miniature à la place du mécanisme plus simple du pantographe.

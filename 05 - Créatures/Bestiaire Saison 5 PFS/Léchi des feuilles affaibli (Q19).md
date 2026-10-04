@@ -1,0 +1,21 @@
+---
+title: "Léchi des feuilles affaibli (Q19)"
+title_en: "Weak Leaf Leshy (Q19)"
+type: creature
+source_id: "UuOiurvJyyaFZjUB"
+collection: "pfs-season-5-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-5-bestiary
+---
+
+# Léchi des feuilles affaibli (Q19)
+Souvent trouvés en train d'assister les praticiens de la magie de la nature, les léchis sont des végétaux dotés de conscience qui protègent le monde naturel et les espaces sacrés au sein des forêts, des champs et d'autres environnements. Les léchis sont des esprits de la nature habitant des corps construits de matière végétale fusionnée par un rituel primordial.
+
+
+
+
+
+Les léchis de feuilles sont des petits protecteurs des forêts vêtus d'une armure en pommes de pin et d'un chapeau de fruits, de fleurs ou de feuilles. Ils aiment les simulacres de combats mais agissent avec prudence en cas de véritable conflit.

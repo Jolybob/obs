@@ -1,0 +1,30 @@
+---
+title: "Ioton (Énnosite)"
+title_en: "Ioton"
+type: creature
+source_id: "FXwgsLTRneGzclsw"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Ioton (Énnosite)
+Périodiquement, des pensées égarées qui se heurtent sur le Plan astral s'emmêlent, formant un nœud d'intellect rudimentaire. Connus sous le nom de iotons, ces êtres n'ont pas la volonté de manifester des corps physiques et encore moins la conscience de soi et la vision pour savoir quelle forme ces corps physiques pourraient prendre. Au lieu de cela, ils se manifestent sous la forme de traînées fantomatiques ressemblant à des nuages, chacune formant par intermittence des caractéristiques éphémères telles que des yeux extraterrestres, des bouches muettes et des symboles chatoyants, tandis que les iotons analysent instinctivement leur environnement. Laissés à eux-mêmes, ils pourraient dériver pendant des âges au milieu de la Mer d'argent.
+
+
+Parasites grégaires, les iotons sentent et se rassemblent autour des êtres pensants, arrachant avidement les pensées égarées et utilisant l'énergie psychique récoltée pour penser clairement et former des corps physiques. Un ioton peut comprendre que ce processus inflige de douloureux maux de tête à ses victimes mais il s'en moque généralement. Non seulement la plupart de ces énnosites s'enivrent de leur nouvelle puissance mentale et s'accrochent aux pensées qu'ils ont capturées, mais le fait de rendre ce qu'ils ont volé prive également l'ioton de la bande passante mentale nécessaire pour distinguer le bien du mal. Cela provoque parfois un cycle douloureux où il vole des pensées de façon répétée, les rend en s'excusant, puis vole allègrement les pensées une fois de plus.
+
+
+Les iotons qui accumulent et consolident progressivement suffisamment de potentiel mental forment un corps permanent, se transformant en un autre type d'énnosite.
+
+
+
+
+
+Le Plan astral est un nexus planaire, reliant les plans de la Sphère Intérieure à ceux de la Sphère Extérieure, un royaume de substance argentée intemporelle chargée d'essence mentale puisée dans tout le Grand Au-delà. La plupart des créatures du Plan astral sont des visiteurs - des prédateurs qui cherchent à s'approvisionner dans la Rivière des âmes, des psychopompes qui se protègent contre de telles incursions et des aéons qui surveillent le flux de quintessence brute à travers l'Antipode. Pourtant, ce plan a engendré des créatures natives de ses étranges courants et tourbillons, au premier rang desquels la famille des créatures engendrées par la pensée, connues sous le nom d'Énnosites.
+
+
+La forme d'un Énnosite est l'incarnation physique de sa pensée et de son but. Comme certains idéaux et objectifs sont partagés, il en va de même pour certaines formes.

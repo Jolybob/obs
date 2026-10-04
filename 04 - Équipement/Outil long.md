@@ -1,0 +1,15 @@
+---
+title: "Outil long"
+title_en: "Tool (Long)"
+type: item
+source_id: "equipment-00-wrpI5z7iWB8XvflQ"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Outil long
+Cette entrée est un fourre-tout réunissant les outils manuels de base qui n'ont pas d'objectif spécifique pour l'aventure. Une houe, une pelle ou une masse est un outil long, tandis qu'un foret à main, un crochet à glace ou une truelle est un outil court. Un outil peut en général être utilisé comme une arme improvisée, infligeant 1d4 dégâts pour un outil court ou 1d6 pour un outil long. Le MJ détermine le type de dégâts approprié ou l'adapte si nécessaire.

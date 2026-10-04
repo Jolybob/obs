@@ -1,0 +1,18 @@
+---
+title: "Pâté frétillant"
+title_en: "Squirming Swill"
+type: creature
+source_id: "EP8xhzy46zPWvhQL"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Pâté frétillant
+Des morceaux grotesques de carcasses d'animaux abandonnés mijotent lentement en une masse trop cuite au fond du chaudron d'un sorcier ou d'une guenaude. Les organes magiques des animaux tel les yeux du triton, la langue de la grenouille, ont déjà été retirés, ne laissant que ces tristes restes. Néanmoins, animés par une longue exposition à la magie, ils se détachent parfois des parois du chaudron et se tortillent vers la liberté. Ces déchets se déplacent en une masse géante, leur peau noircie et croustillante, laissant une traînée de graisse et de sauce dégoulinante. Leur corps est perpétuellement fumant, comme s'il sortait tout juste de la marmite, la graisse crépitante et grésillante.
+
+
+Ces pâtés frétillants errent dans les cuisines, les égouts, les marécages, les fosses à cadavres et les canaux sinistres des villes. Dotés de peu d'intelligence et sans but, ils s'en prennent à toute créature ressemblant de près ou de loin à celui qui les a mijotés, en général tout ce qui est humanoïde fait l'affaire. La plupart des pâtés essaient immédiatement de tuer la créature, mais certains s'approchent avec nostalgie, comme s'ils retrouvaient un parent perdu. Ils semblent également faire preuve de sympathie ou de fraternité envers les autres petits animaux. Malheureusement, leur odeur grotesque ou la chaleur de leur contact ont tendance à effrayer les vivants. Manifestement, les pâtés frétillants sont tout aussi heureux de se lier d'amitié avec le cadavre d'un petit animal, sans se préoccuper de son niveau de décomposition.

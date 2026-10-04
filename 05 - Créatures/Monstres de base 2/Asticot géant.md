@@ -1,0 +1,21 @@
+---
+title: "Asticot géant"
+title_en: "Giant Maggot"
+type: creature
+source_id: "e0Jxg2AHeQSDGNnV"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Asticot géant
+Les mouches géantes pondent leurs œufs dans les cadavres de monstres plus grands ou du bétail. Quand ils éclosent, ces œufs libèrent des asticots grouillants de la taille d'enfants humains, des larves affamées qui consument toute la chair à leur portée, en commençant généralement par le cadavre dans lequel elles ont éclos.
+
+
+
+
+
+Les mouches géantes sont des insectes de la taille d'un poney, dotés d'énormes yeux à facettes et d'un corps hérissé de poils courts et rigides. Leurs repaires sont réputés pour la viande en décomposition qu'elles stockent pour y pondre leurs œufs. Leurs tanières d'asticots sont également des lieux de reproduction privilégiés pour les maladies virulentes.

@@ -1,0 +1,18 @@
+---
+title: "Tentacules noirs"
+title_en: "Black Tentacles"
+type: spell
+source_id: "common-05-2w4OpAGihn1JSHFD"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Tentacules noirs
+Des tentacules noirs et huileux se dressent et tentent de capturer les créatures qui se trouvent dans la zone. Faites des jets d'attaques de sort contre le DD de Vigueur de chaque créature dans la zone. Chaque créature contre laquelle vous obtenez un succès est [[Agrippée]] et subit 3d6 dégâts contondants. Lorsqu'une créature finit son tour dans la zone, les tentacules tentent de l'agripper si ce n'est pas encore le cas et ils infligent @Damage[1d6[bludgeoning]]{1d6 dégâts contondants} à chaque créature qu'ils ont déjà agrippée.
+
+
+Le DD pour S'échapper des tentacules est égal à votre DD de sort. Une créature peut attaquer un tentacule lors d'une tentative pour la forcer à relâcher son étreinte. Sa CA est égale à votre DD de sort et il est détruit s'il subit au moins 12 dégâts. Même s'il est détruit, d'autres tentacules continuent de pousser dans la zone jusqu'à la fin du sort. Vous pouvez Révoquer le sort.

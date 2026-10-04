@@ -1,0 +1,15 @@
+---
+title: "Coupe-verre"
+title_en: "Glass Cutter"
+type: item
+source_id: "equipment-00-wewWxypLaXcHjJ5P"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Coupe-verre
+Cette petite tige est dotée d'une minuscule molette coupante en acier à une extrémité et d'un bulbe épais à l'autre. Vous pouvez utiliser la roue du coupe-verre pour entailler le verre ordinaire et utiliser le bulbe pour briser le morceau le long de votre entaille. Il faut généralement une minute de travail pour découper un trou suffisamment grand pour y passer la main. Si vous tentez de briser le verre discrètement, vous devez tenter un test de @Check[thievery] contre le DD de Perception des créatures proches pour que cela passe inaperçu.

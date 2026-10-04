@@ -1,0 +1,24 @@
+---
+title: "Festorog"
+title_en: "Festrog"
+type: creature
+source_id: "NQlPvg8SaIb9jzDl"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Festorog
+Créés à partir des cadavres de ceux qui sont morts de maladie ou de faim et déformés par l'énergie du vide, les festrogs font preuve d'une malveillance qui rivalise avec celle des autres morts-vivants. Ils ressemblent à des humanoïdes en décomposition mais avec des bras allongés, des dents et des pointes osseuses dépassant du haut de leur dos. La tendance des festrogs à courir à quatre pattes leur a valu le surnom de chiens-goules, amenant les imprudents à les confondre avec des prédateurs sans cervelle.
+
+
+Les festrogs sont en fait intelligents, traquant leurs victimes en meute et choisissant des terrains de chasse adaptés à leurs capacités. On les trouve souvent en train de parcourir des terres agricoles, des forêts ouvertes ou de vastes plaines, partout où ils peuvent utiliser leur vitesse quadrupède pour dépasser leur proie. En dépit de leur apparence d'être faiblement intelligents, les festrogs utilisent des tactiques similaires à celles des chasseurs avec des chiens de chasse : le chef de la meute fait souvent sortir sa proie de son abri afin que la victime puisse être abattue par la meute.
+
+
+Les chercheurs qui utilisent les processus nécromantiques pour créer des cadavres ramenés à la vie ont constaté que les festrogs se reproduisent plus souvent à partir de victimes de morts lentes que de morts soudaines. Les festrogs s'animent généralement à partir de cadavres affligés de maladies, tandis que les victimes de violence sont plus susceptibles de devenir des morts-vivants plus communs, tels que des zombies. Une façon documentée de créer un festrog est de faire en sorte que les charognards se nourrissent de la chair morte avant de l'animer. Cela explique potentiellement pourquoi les festrogs surgissent le plus souvent dans des zones reculées frappées par la famine et des prédateurs désespérés.
+
+
+Bien que la plupart des festrogs surgissent des humains et d'autres humanoïdes prévalents, d'autres créatures qui meurent dans les mêmes circonstances peuvent se relever en tant que festrogs. Les festrogs qui étaient autrefois des humanoïdes plus grands, comme des ogres, des géants des collines ou des trolls, se comportent de la même manière que les autres festrogs humanoïdes et sont simplement plus grands et plus puissants. Plus singuliers sont les festrogs animanthropes quadrupèdes qui ont généralement des pieds ou des sabots à la place des mains, se déplacent à quatre pattes en permanence et n'ont qu'une intelligence animale. En fait, certains festrogs humanoïdes capturent et affament des animanthropes dans l'espoir que ces créatures se relèvent en tant qu'animaux de compagnie grotesques des festrogs.

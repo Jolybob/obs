@@ -1,0 +1,29 @@
+---
+title: "Wihsaak"
+type: creature
+source_id: "hj7in3ZZlTu8n4vi"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Wihsaak
+Ces sahkils décharnés et insectoïdes tourmentent leurs ennemis en exploitant une peur répandue des insectes et de la vermine rampante.Contrairement à leurs cousins plus subtils, les wihsaaks ne rôdent pas en périphérie et engagent directement leurs cibles, utilisant leur bourdonnement inquiétant pour les désorienter et les terrifier.
+
+
+Lorsqu'ils font face à plusieurs ennemis, les wihsaaks s'efforcent de répandre la peur chez chacun avant de les lacérer de leurs griffes dévastatrices.
+
+
+
+
+
+Il y a fort longtemps, alors que le cycle du multivers n'en était qu'à ses débuts, une cabale de psychopompes, déjà lassés et frustrés par leur tâche de guide des âmes vers leur dernier repos, se rebella contre sa fonction. C'est cette corruption du cycle des âmes qui donna naissance aux premiers sahkils.
+
+
+Ambivalents envers l'ordre établi du multivers et animés d'une rancune envers les mortels, les sahkils prennent plaisir à semer la peur et le malaise parmi tous les êtres, encombrant le cycle métaphysique d'âmes angoissées trop effrayées pour accomplir leur potentiel. Ces fiélons ont profondément changé depuis leurs ancêtres psychopompes dévoués ; ce sont des créatures de rancune et de tourment, de peur et de dégoût. Ils exploitent les peurs les plus communes comme les plus rares pour leur satisfaction perverse, ne désirant rien de plus que terrifier les mortels et les pousser à douter de leur raison d'exister.
+
+
+La plupart des sahkils rôdent dans le Plan Éthéré, mais ils envahissent fréquemment l'Univers pour tourmenter les mortels et répandre la terreur. Grâce à leur capacité innée à traverser aisément le voile séparant le plan Éthéré de l'Univers, ils traquent leurs proies pendant des jours, voire des semaines, avant de mettre leurs sinistres machinations à exécution.

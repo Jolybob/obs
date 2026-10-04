@@ -1,0 +1,36 @@
+---
+title: "Sommeil"
+title_en: "Sleep"
+type: spell
+source_id: "common-01-o4lRVTwSxnOOn5vl"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Sommeil
+Chaque créature dans la zone devient somnolente, pouvant éventuellement s'assoupir. Une créature qui devient [[Inconsciente]] à cause de ce sort ne tombe pas [[À terre]] ni ne relâche ce qu'elle tient. Ce sort n'empêche pas les créatures de se réveiller grâce à un test de Perception réussi, ce qui limite son utilité en combat.
+
+
+
+
+
+**Succès critique** La créature n'est pas affectée.
+
+
+**Succès** La cible subit une pénalité de -1 à ses tests de Perception pendant 1 round.
+
+
+**Échec** La créature devient inconsciente. Si elle est toujours inconsciente après 1 minute, elle se réveille automatiquement.
+
+
+**Échec critique** La créature devient Inconsciente. Si elle est toujours inconsciente après 1 heure, elle se réveille automatiquement.
+
+
+
+
+
+**Intensifié (4e)** Les créatures deviennent Inconscientes pendant 1 round sur un échec ou 1 minute sur un échec critique. Elles tombent [[À terre]] et relâchent ce qu'elles tiennent. Elles ne peuvent pas tenter de tests de Perception pour se réveiller. Quand la durée s'achève, la créature est endormie comme à l'ordinaire au lieu de se réveiller automatiquement.

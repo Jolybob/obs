@@ -1,0 +1,21 @@
+---
+title: "Gélugon (Diable)"
+title_en: "Gelugon"
+type: creature
+source_id: "kNmRn3WfiWLsuwoe"
+collection: "pathfinder-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary
+---
+
+# Gélugon (Diable)
+Les diables des glaces insectoïdes sont les stratèges et les cerveaux des armées des Enfers, utilisant leur intellect supérieur pour frapper leurs ennemis et répandre l'influence des Enfers à travers les plans. Un diable des glaces renonce rarement à ses réflexions solitaires sur la stratégie sauf pour accomplir un plan qu'il a conçu. Sinon, ces diables ne peuvent être séduits que par un échange de services à déterminer ultérieurement, bénéficiant ainsi de nouvelles pièces à utiliser sur leur échiquier. Parfois, un stratège mortel particulièrement doué peut amuser suffisamment le diable pour qu'il accepte une épreuve de stratégie, généralement un jeu comme les échecs, pour régler un différend. Dans le cas improbable où le diable perdrait cette épreuve, il fait tout pour obtenir plus tard les services de ce mortel afin qu'il serve ses propres intérêts infernaux.
+
+
+
+
+
+Maîtres de la corruption et architectes des conquêtes, les diables cherchent aussi bien à tenter les mortels pour qu'ils se joignent à leur quête blasphématoire, qu'à répandre la tyrannie sur tous les mondes. Les tentations auxquelles ils peuvent soumettre les mortels vont de grands pouvoirs accordés en signant un contrat infernal à des faveurs perverses octroyées après un serment adressé dans un murmure à une entité diabolique, en passant par toutes sortes d'échanges plus subtils. Ceux qui succombent à ces tentations se retrouvent condamnés à une après-vie de tourments éternels dans les gouffres des Enfers dont ils ne peuvent s'échapper qu'en étant promus en devenant des diables au sein des légions infernales. Chaque diable a un rôle précis à jouer dans l'entretien de la machine bureaucratique sans scrupule que sont les Enfers, des soldats et des érudits aux inquisiteurs, avocats, juges et exécuteurs. Les diables de rang inférieur comme les lémures et les diablotins s'occupent de tâches subalternes pour des diables plus puissants et spécialisés, comme les diables des contrats et les érinyes, tandis que les plus grands d'entre eux les diantrefosses, commandent des armées infernales.

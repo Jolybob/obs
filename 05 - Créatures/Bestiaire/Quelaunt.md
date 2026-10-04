@@ -1,0 +1,17 @@
+---
+title: "Quelaunt"
+type: creature
+source_id: "x26dyZZZRvZpzK2X"
+collection: "pathfinder-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary
+---
+
+# Quelaunt
+Il est impossible de discerner un quelconque œil, nez, oreille ou bouche, ou un autre moyen d'ingérer la nourriture chez ce monstre doté de trois bras et de trois jambes. Ses membres sont répartis de façon si uniforme sur son corps qu'il est même impossible de déterminer dans quel sens la créature est orientée. Rares sont ceux qui s'attardent cependant sur l'étrange apparence d'un quelaunt, car ils se sentent vite bien plus préoccupés par l'invasion de leur esprit, où le quelaunt sème des doutes, du tourment et de la rage. Cette monstruosité ne se contente pas de se délecter des émotions négatives de ces victimes, mais elle s'en nourrit et tire sa force de leur désarroi. Pour un quelaunt, aucun acte n'est trop terrible ou cruel, car plus leur proie souffre, plus délicieux est leur festin.
+
+
+Les quelaunts sont réputés pour s'associer avec d'autres horreurs aberrantes, comme des collecteurs de cerveau et d'autres créatures associées au Sombre Domaine. Selon les théories les plus suivies, leur origine serait encore plus lointaine et ils pourraient être des envahisseurs venus d'une autre dimension constituée simplement de pensées et de sensations et, dans leur état naturel, ils n'auraient aucune forme physique. Rares sont ceux qui osent s'aventurer plus loin, cependant. En effet, la seule autopsie connue d'un Quelaunt a abouti au suicide du chercheur au bout de quelques jours et à la disparition mystérieuse de toutes ses notes sur le sujet. Quels que soient les secrets que cache l'anatomie de ces étranges monstres, ceux-ci semblent assez importants pour que les quelaunts les protègent même après leur mort.

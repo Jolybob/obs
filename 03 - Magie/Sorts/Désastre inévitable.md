@@ -1,0 +1,21 @@
+---
+title: "Désastre inévitable"
+title_en: "Inevitable Disaster"
+type: spell
+source_id: "common-05-8THDHP0UC7SgOYYF"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Désastre inévitable
+Vous entrevoyez brièvement la cause et l'effet, mettant en branle une chaîne d'événements qui causera le malheur de votre ennemi à un moment donné dans le futur, bien que vous ne sachiez pas exactement quand ni comment le malheur se produira. Une sorte d'accident étrange se produit [[/gmr 1d4 #rounds]]{1d4 rounds} plus tard, infligeant 55 dégâts à la créature avec un jet de Vigueur. Cela se produit quel que soit l'endroit où se trouve la cible à ce moment-là, même si elle voyage dans un autre plan. Le MJ doit effectuer un jet de dé pour déterminer le moment où les dégâts se produisent secrètement et déterminer la forme de l'accident ainsi que le type de dégâts qu'il inflige ; généralement, l'accident doit infliger des dégâts physiques d'un certain type (par exemple, une branche d'arbre peut tomber sur l'ennemi et lui infliger des dégâts contondants, ou une fenêtre peut se briser et projeter du verre tranchant sur lui), bien que d'autres types de dégâts puissent être appropriés dans des environnements plus inhabituels.
+
+
+
+
+
+**Intensifié (+1)** Les dégâts augmentent de 10.

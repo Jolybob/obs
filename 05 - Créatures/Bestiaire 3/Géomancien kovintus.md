@@ -1,0 +1,24 @@
+---
+title: "Géomancien kovintus"
+title_en: "Kovintus Geomancer"
+type: creature
+source_id: "NoAyIhPpqJ1WE1pF"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Géomancien kovintus
+Les kovintus sont des humanoïdes reclus dotés d'un talent inné pour la géomancie qui les lie intrinsèquement à la nature. Non seulement ils peuvent faire appel à la magie de la nature, mais celle-ci les appelle en retour, les transformant en un élément du terrain environnant lorsqu'ils meurent. L'une des traditions les plus fortes de la culture kovintus consiste à dresser des cartes pour relater les endroits où leurs proches n'ont fait qu'un avec le paysage.
+
+
+Les kovintus vivent en petits groupes dans des lieux où la nature est omniprésente, loin des grandes civilisations. Une communauté kovintus typique se compose de maisons naturelles construites dans l'environnement autour d'un lieu de rencontre central. Ils s'adaptent au terrain, les habitations nichées dans les rochers d'une montagne ou en forme d'un brise-vent dans une plaine. Bien que les croyances des kovintus puissent grandement différer en fonction de leur terrain d'origine, beaucoup de ces créatures pensent que leur point commun intrinsèque à travers la nature les lie plus intimement que de telles différences superficielles.
+
+
+Il fut un temps où tous les kovintus vivaient dans leur ancienne demeure, la Vallée, un lieu de générosité et de splendeur naturelle inouïe dans le monde moderne. Ce paradis a été perdu dans les temps anciens et les kovintus sont partis en petits groupes pour trouver de nouveux foyers. Aujourd'hui, toute vallée que les kovintus rencontrent est appelée simplement un "écho" de la vraie vallée. Plutôt que de rechercher leur vallée d'origine, les kovintus croient que les cycles de la nature feront naître un jour une nouvelle patrie ayant la même grandeur.
+
+
+La foi des kovintus appelle au respect plutôt qu'à la révérence. Lorsqu'ils voyagent loin de chez eux, les kovintus croient qu'il est crucial de respecter toutes les divinités locales qui ont construit la terre sur laquelle ils se tiennent et de leur rendre hommage avec de petites offrandes.

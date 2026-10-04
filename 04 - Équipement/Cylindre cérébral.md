@@ -1,0 +1,48 @@
+---
+title: "Cylindre cérébral"
+title_en: "Brain Cylinder"
+type: item
+source_id: "equipment-06-pRjJ2aBDpCH1NKRz"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Cylindre cérébral
+**Perception** +15; vision 9 mètres (précis), audition 9 mètres (imprécis)
+
+
+**Communication** Parole (toutes les langues connues au cours de sa vie)
+
+
+**Compétences** Variable
+
+
+**Int** +2, **Sag** +2, **Cha** +2
+
+
+**CA** 21 ; **Vig** +10, **Réf** +8, **Vol** +15
+
+
+**PV** 68 ; **Immunités** saignement, maladie, effets de mort, Paralysé, poison; **Faiblesses** contondant 7, son 7 ; **Résistances** feu 7, perforant 7, tranchant 7
+
+
+
+
+
+Un cylindre cérébral permet au cerveau extrait d'une créature de taille grande ou inférieure de continuer à fonctionner même après avoir été retiré du corps. Tant que le cerveau reste dans le cylindre, la créature reste vivante et peut continuer à penser, même si son corps est mort. Des modules détachables qui s'insèrent dans la base du cylindre permettent au cerveau de voir, d'entendre ou de parler à l'aide d'un haut-parleur rauque. Tant qu'ils sont fixés, le cerveau peut parler et comprendre toutes les langues qu'il connaissait durant sa vie, bien que rien dans le cylindre ne l'oblige à le faire s'il ne le souhaite pas. Il conserve également son alignement d'origine et peut utiliser des compétences basées sur l'intelligence, la sagesse et le charisme. Un cylindre cérébral standard possède une compétence à +15, une à +13 et deux à +11, au choix du MJ.
+
+
+Le cerveau ne conserve aucune autre capacité qu'il possédait de son vivant, y compris les capacités purement mentales. Les Mi-go conservent généralement les cerveaux humanoïdes de cette manière lorsqu'ils souhaitent interroger une créature ultérieurement ou lorsqu'ils souhaitent conserver une créature comme ressource à des fins de consultation ou de recherche, car un cerveau conservé de cette manière peut vivre pendant des siècles. Si un cylindre cérébral est détruit, le cerveau meurt et son âme rejoint finalement le Cimetière. Restaurer le cerveau d'un cylindre cérébral dans son ancien corps peut être fait par n'importe quel effet qui restaure la vie (et, dans la plupart des cas, n'importe quel effet capable de créer un nouveau corps, puisque l'original est généralement manquant ou disparu depuis longtemps).
+
+
+Notez que le cylindre cérébral de niveau 6 présenté contient le cerveau d'une créature de niveau 6. Un cerveau moins puissant ou plus puissant peut être placé dans un cylindre cérébral, ce qui peut affecter ses scores de Perception, ses attributs mentaux, son jet de Volonté et les modificateurs de compétences du cylindre cérébral (et peut modifier radicalement la valeur du cylindre cérébral), mais les propriétés physiques du cylindre cérébral demeurent inchangées.
+
+
+Des cylindres cérébraux de qualité supérieure peuvent être fabriqués et leurs résistances et faiblesses augmentent en fonction de leur niveau. Cependant, ils ont toujours une CA et des PV faibles et des sauvegardes de Vigueur et de Réflexes terribles pour une créature du niveau du cylindre cérébral.
+
+
+Vous pouvez ouvrir un cylindre cérébral en effectuant trois actions consécutives avec le trait manipulation. Si le cylindre cérébral contient un cerveau, celui-ci meurt 3 rounds après avoir été retiré ou 10 minutes après l'ouverture du cylindre cérébral. Vous pouvez transférer un cerveau d'un cylindre cérébral dans un autre en réussissant un test de Médecine (expert) ou d'occultisme (expert). Il s'agit d'une activité à deux actions avec le trait manipulation. En cas d'échec critique, le cerveau meurt.

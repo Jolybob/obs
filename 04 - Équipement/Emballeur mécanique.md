@@ -1,0 +1,18 @@
+---
+title: "Emballeur mécanique"
+title_en: "Clockwork Box Packer"
+type: item
+source_id: "equipment-03-15nkBxrvIrbGQCdS"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Emballeur mécanique
+Ce dispositif mécanique pratique est trop cher pour que la plupart des entrepôts et des quais d'expédition en fassent usage, mais certains nobles l'ont acheté pour leur personnel comme symbole de statut et les marchands qui font du commerce maritime peuvent se permettre de tirer les bénéfices de son utilisation sur la durée. Il faut 1 minute pour remonter un emballeur mécanique ; après quoi, il peut fonctionner pendant 1 heure maximum.
+
+
+Vous pouvez indiquer à quelle hauteur vous souhaitez que l'emballeur mécanique empile les boîtes et quelles sont les dimensions du stockage d'emballage. Une fois les instructions d'emballage saisies, vous pouvez charger une caisse sur l'emballeur mécanique et celui-ci commence sa tâche. Une fois la boîte empilée, l'emballeur ferme la boîte, si nécessaire, puis attache un ruban ou une corde autour de la boîte à partir d'une réserve chargée à l'avance dans l'emballeur. Une fois le colis sécurisé, l'emballeur l'empile et se remet en position, prêt à recevoir un autre colis. De cette façon, le dispositif mécanique peut terminer en quelques minutes un travail d'emballage qui pourrait prendre une heure à des travailleurs humanoïdes.

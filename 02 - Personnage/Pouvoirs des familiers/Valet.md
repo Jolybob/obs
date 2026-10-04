@@ -1,0 +1,14 @@
+---
+title: "Valet"
+type: familiar_ability
+source_id: "9PsptrEoCC4QdM23"
+collection: "familiar-abilities"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - familiar_ability
+  - source/familiar-abilities
+---
+
+# Valet
+Vous pouvez ordonner à votre familier de vous donner des objets avec une grande efficacité. Votre familier n'utilise pas ses deux actions immédiatement lorsque vous lui donnez un ordre. À la place, jusqu'à deux fois avant la fin de votre tour, votre familier peut utiliser deux actions Interagir pour récupérer un objet d'encombrement léger ou négligeable que vous êtes en train de manier et le placer dans une de vos mains libres. Le familier ne peut utiliser cette capacité pour récupérer des objets rangés. Si le familier possède un nombre d'actions différentes, il peut retirer un objet pour chaque action qu'il possède lorsque vous lui avez donné des ordres de cette manière.

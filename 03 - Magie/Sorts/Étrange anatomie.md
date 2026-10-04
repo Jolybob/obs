@@ -1,0 +1,32 @@
+---
+title: "Étrange anatomie"
+title_en: "Unusual Anatomy"
+type: spell
+source_id: "uncommon-05-ddKBoCjmSyPSHcws"
+collection: "spells"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - spell
+  - source/spells
+---
+
+# Étrange anatomie
+Vous transformez votre chair et vos organes en un amalgame bizarre de peau visqueuse, d'écailles rugueuses, de touffes de poils et de tumeurs protubérantes. Ceci produit trois effets :
+
+
+
+
+- Vous obtenez une résistance 10 contre les dégâts de précision et aux dégâts supplémentaires des coups critiques. Si la résistance est supérieure aux dégâts supplémentaires, elle les réduit à 0 mais ne réduit pas les dégâts normaux de l'attaque.
+
+- Vous gagnez vision dans le noir.
+
+- Votre peau secrète de l'acide. Une créature qui vous touche avec une attaque à mains nues ou avec une arme de corps-à-corps sans allonge subit 2d6 dégâts d'acide.
+
+
+
+
+**Intensifié (+2)** La résistance augmente de 5 et les dégâts d'acide de 1d6.
+
+
+[[Effet - Étrange anatomie]]

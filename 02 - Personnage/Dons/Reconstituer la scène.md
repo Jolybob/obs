@@ -1,0 +1,15 @@
+---
+title: "Reconstituer la scène"
+title_en: "Reconstruct the Scene"
+type: feat
+source_id: "class-16-Bp02C07s4RTS4vsV"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Reconstituer la scène
+Vous passez une minute à inspecter un endroit petit (tel qu'une unique pièce) pour vous faire une idée des évènements qui se sont produits au cours du dernier jour. Cela implique que vous puissiez vous déplacer dans la zone et étudier les empreintes de pieds, l'emplacement des objets, les boissons ou les traces de sang répandus, etc. Vous obtenez une impression mentale indistincte des évènements significatifs qui se sont produits ici. Cela vous donne des indices et des détails du passé, incluant l'ensemble des évènements et leur déroulement dans le temps, mais ce n'est pas un enregistrement parfait. Cela n'est pas suffisant pour identifier qui a été impliqué dans ces évènements si vous n'avez pas déjà conscience que la personne était là. En fonction de ce que décide le MJ, vous pouvez aussi percevoir différents petits détails qui pourraient servir d'indices importants comme une arme mémorable que quelqu'un a utilisé pour un meurtre ou le type de cape que quelqu'un portait en passant par là.

@@ -1,0 +1,24 @@
+---
+title: "Hippocampe géant"
+title_en: "Giant Seahorse"
+type: creature
+source_id: "qE0iZoeeOp7og5A5"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Hippocampe géant
+Les hippocampes géants sont des versions dociles, de la taille d'un ours, de leurs cousins minuscules et plus communs. Les hommes-poisson et autres cultures sous-marines les utilisent souvent comme animaux de bât, tandis que certaines sociétés côtières les utilisent comme montures. Gagner la confiance d'un hippocampe peut s'avérer assez difficile étant donné leur nature capricieuse, mais les hippocampes géants peuvent exprimer une loyauté et une affection incroyables une fois qu'ils se sont liés à quelqu'un, allant même jusqu'à risquer leur propre bien-être pour défendre quelqu'un qui a gagné leur confiance. Cependant, ils ne sont pas naturellement enclins au combat et, dans les situations dangereuses, ils sont plus susceptibles d'essayer d'attraper leur cavalier avec leur forte queue préhensile avant de nager pour se mettre en sécurité plutôt que de rester dans la mêlée. Comme les hippocampes plus petits, les hippocampes géants ont des plaques d'armure osseuses sur l'extérieur de leur corps, recouvertes par la peau, ce qui les rend assez résistants malgré leur réticence à se battre.
+
+
+Bien qu'ils ne soient pas les plus forts nageurs, les hippocampes comptent principalement sur leur camouflage naturel pour survivre. Les chromatophores présents dans la peau des hippocampes leur permettent de se camoufler. Cette capacité est assez rudimentaire et la taille d'un hippocampe géant rend cette tactique beaucoup moins efficace pour lui que pour ses congénères plus petits. Leurs couleurs changent lentement la plupart du temps, bien que lorsqu'ils se trouvent dans une situation dangereuse, le processus se produise beaucoup plus rapidement pour l'hippocampe.
+
+
+Contrairement aux hippocampes ordinaires, les hippocampes géants comptent également sur les tactiques de groupe pour se défendre, ainsi que sur leur surprenante force physique. Un troupeau d'hippocampes en charge est tout aussi terrifiant et dangereux sous l'eau qu'une harde de chevaux sur terre. Les humanoïdes des cultures sous-marines apprennent dès leur plus jeune âge à s'écarter rapidement du chemin d'un troupeau d'hippocampes en pleine débandade.
+
+
+Les bébés hippocampes géants sont trop grands pour flotter facilement et n'ont pas assez de force pour nager seuls pendant plusieurs semaines après leur naissance. Au lieu de cela, ils relient leurs queues à un adulte et se laissent transporter. Un hippocampe adulte peut porter jusqu'à 20 bébés hippocampes en même temps, mais ces derniers peuvent parfois être abandonnés ou emportés par un fort courant. Prendre soin de ces enfants sans défense et égarés est considéré comme un acte de bonté suprême par de nombreux hommes-poisson qui laisseront ces bébés enrouler leur queue autour de bâtons et d'autres instruments pour leur permettre de grandir jusqu'à l'âge adulte.

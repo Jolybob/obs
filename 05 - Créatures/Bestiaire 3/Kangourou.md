@@ -1,0 +1,33 @@
+---
+title: "Kangourou"
+title_en: "Kangaroo"
+type: creature
+source_id: "rOFpnEic0eJdaxiM"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Kangourou
+Les kangourous sont des marsupiaux qui se distinguent par leur long visage, leurs grandes oreilles, leurs puissantes pattes arrière et à leur queue, ainsi qu'une démarche sautillante caractéristique. Ces herbivores généralement placides sont timides à l'égard des autres créatures, préférant vivre dans des prairies ouvertes où leurs oreilles et leurs yeux aiguisés peuvent repérer le danger qui s'approche à distance.
+
+
+Les kangourous mâles développent des membres antérieurs puissants et présentent un comportement de domination communément appelé "boxe". Lorsque deux kangourous mâles s'affrontent, ils s'approchent, donnent ensuite un coup à leur adversaire avec leurs griffes avant tout en tirant également leur propre tête en arrière, hors de portée. Il arrive également que les kangourous se balancent en arrière sur leur queue avant de porter un coup avec leurs pattes arrière fortement musclées. Les griffes de leurs pattes arrière rendent ces coups particulièrement mortels et un kangourou peut éventrer un attaquant d'un seul coup en utilisant cette tactique.
+
+
+Comme les autres marsupiaux, les femelles kangourous portent leurs petits dans une poche située sur leur ventre. Elles n'ont qu'un seul petit à la fois, bien que de nombreuses femelles aient plusieurs petits de manière rapprochée. Ces animaux sociaux se rassemblent en grande partie pour se protéger, mais leurs structures sociales sont similaires à celles que l'on trouve dans les troupeaux de chameaux, de chevaux ou de cochons.
+
+
+Les kangourous ne font pas de particulièrement bonnes montures, mais cela n'a pas empêché un gnome ou un halfelin aventureux occasionnel de s'y essayer. Une telle tentative aboutit généralement à ce qu'un cavalier souffrant du mal de mer et de vertiges soit jeté sans cérémonie du dos ou de la poche de l'animal, mais certains druides ont trouvé qu'ils étaient de fidèles compagnons.
+
+
+Dans les endroits où les kangourous sont courants, les animaux sont parfois chassés pour leur viande et peuvent même fournir un approvisionnement alimentaire primaire aux communautés migratrices en raison de leur reproduction rapide et de leur capacité à fuir les prédateurs. Les habitants d'autres régions considèrent les kangourous comme un mets délicat et importent souvent leur viande comme un signe de statut dans les ménages riches.
+
+
+Plusieurs types de kangourous ont évolué, chacun vivant dans un environnement légèrement différent. Les kangourous gris sont plus petits que les autres variétés et habitent dans les zones boisées ouvertes, le plus souvent sur les étendues méridionales du continent de Garund. Les kangourous géants, que l'on trouve principalement dans les steppes sèches du nord de Casmaron, atteignent deux fois la taille des kangourous standard et le bruit de tonnerre de leur passage peut être entendu et ressenti à des kilomètres à la ronde. La famille des kangourous compte également plusieurs espèces apparentées plus petites, dont les wallabies et les pademelons. Certains kangourous existent en captivité dans d'autres parties du monde, mais les tentatives d'introduction dans d'autres régions ont - jusqu'à présent - largement échoué.
+
+
+Un grand kangourou peut atteindre plus de 1,80 mètres de haut et peser jusqu'à 90 kilos.

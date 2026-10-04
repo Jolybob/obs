@@ -1,0 +1,21 @@
+---
+title: "Avide de notoriété"
+title_en: "Attention Addict"
+type: background
+source_id: "nXnaV9JwUG1N2dsg"
+collection: "backgrounds"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - background
+  - source/backgrounds
+---
+
+# Avide de notoriété
+Une foule rugissante scandant votre nom. Votre visage placardé dans toute la ville. Des fans en pâmoison suppliant pour un autographe. Des rivaux jaloux. Une gloire sans fin. La promesse de tout cela et plus encore est ce qui vous a poussé à participer au Tournois du Phénix de Rubis de cette année et, avec votre prodigieux pouvoir d'attraction, il n'est pas étonnant qu'on vous ait choisi pour la pré-qualification sur l'Île du danger. Vous avez le titre de champion sur le bout de vos doigts. De toute évidence, les organisateurs ont su reconnaître un gagnant quand ils en ont vu un. Il est d'ores et déjà clair que vous serez nommé champion du Phénix de rubis - les défis menant à la cérémonie de remise des prix ne sont que des formalités, mais vous êtes heureux de céder aux masses passionnées. Après tout, les gens veulent un spectacle, et quel genre de célébrité seriez-vous si vous le leur refusiez ? Vous pourriez même daigner participer à quelques combats, tant que vos cheveux ne sont pas décoiffés.
+
+
+Choisissez deux primes d'attributs. La première d'entre elle doit être de **Force** ou de **Charisme** et la seconde est une prime d'attribut libre.
+
+
+Vous êtes qualifié en Représentation et en Connaissance des gladiateurs. Vous obtenez le don de compétence [[Représentation impressionnante]]

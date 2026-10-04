@@ -1,0 +1,27 @@
+---
+title: "Léchi algue"
+title_en: "Seaweed Leshy"
+type: creature
+source_id: "tQBUoh5wLJXiFdX6"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Léchi algue
+Plus calmes que la plupart de leurs autres congénères botaniques, les léchis algues sont plutôt tranquilles et perspicaces. Ils cherchent à imiter l'océan dans leurs attitudes, en se déplaçant avec les vagues de la vie et en acceptant ce qui va et vient tout en reconnaissant le bon et le mauvais.
+
+
+Les léchis algues élisent domicile dans les bassins de marée, entourés d'autres créatures marines. Ils jugent leurs homologues d'eau douce protégés et naïfs, vivant dans leurs étangs isolés et leurs ruisseaux gazouillants, ce qui ne les empêche pas de se lier d'amitié avec les Léchis d'eau douce.
+
+
+Les léchis algues varient en taille, en forme et en constitution physique. Alors que la majorité des léchis algues atteignent environ 60 centimètres de hauteur, certains restent sous la forme de petits paquets de brins qui mesurent environ 15 à 20 centimètres de haut.
+
+
+
+
+
+Souvent trouvés en train d'assister les praticiens de la magie de la nature, les léchis sont des végétaux dotés de conscience qui protègent le monde naturel et les espaces sacrés au sein des forêts, des champs et d'autres environnements. Les léchis sont des esprits de la nature habitant des corps construits de matière végétale fusionnée par un rituel primordial.

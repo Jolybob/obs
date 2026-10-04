@@ -1,0 +1,30 @@
+---
+title: "Jeu de cartes espiègle"
+title_en: "Deck of Mischief"
+type: item
+source_id: "equipment-04-7ZfWiHqDyb6NllN1"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Jeu de cartes espiègle
+Ce jeu de 54 cartes apparaît presque identique aux cartes à jouer standard. Composé de quatre couleurs thématiques de 13 cartes chacune, ainsi que de deux jokers, le Jeu de cartes espiègle est le favori des scélérats qui préfèrent ne pas laisser le résultat au hasard - ou au moins faire pencher les chances en leur faveur. Si vous savez comment activer le jeu, vous pouvez illusoirement transformer les as ou les figures en d'autres cartes du jeu.
+
+
+Bien qu'il soit étonnamment résistant aux éléments, un jeu gorgé d'eau, sale ou cabossé peut ne pas fonctionner comme souhaité, vous donnant des informations erronées sur les cartes qui sont encore dans le jeu ou ne parvenant pas à maintenir l'illusion à un moment critique. Si un jeu devient incomplet en raison de cartes endommagées ou manquantes, il perd rapidement ses capacités de tromperie et pourrait même vous saboter délibérément.
+
+
+
+
+
+**Activation - Tour de cartes** 1 (concentration, manipulation)
+
+
+
+
+
+**Effet** Vous apprenez quelles cartes, as et figures, sont encore dans le jeu. Vous pouvez alors échanger la face apparente d'une carte (as ou figure) en main (si vous en avez) avec un as ou un figure d'une carte encore dans la pioche. Une créature qui cherche ou touche la carte peut tenter de percer cette illusion (@Check[perception|dc:20|traits:action:seek]).

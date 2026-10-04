@@ -1,0 +1,23 @@
+---
+title: "Umasi"
+type: creature
+source_id: "mupW1Mgec250lQiZ"
+collection: "pathfinder-bestiary-3"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-bestiary-3
+---
+
+# Umasi
+Les contes parlent d'humanoïdes étranges qui récoltent des appendices et des organes sur d'autres créatures pour se les greffer sur leurs propres corps en perpétuelle décomposition. Ces histoires sont cependant plus courante que leur sujet. Peuple reclus, les umasis vivent au plus profond de jungles, largement isolés des autres sociétés.
+
+
+Malgré le fait qu'ils ne soient pas morts-vivants, les umasis ne peuvent pas guérir naturellement ou par la magie. Au lieu de cela, ils doivent récolter des membres et des organes sur les vivants pour perpétuer leur propre vie. Ces modifications nécessitent des techniques spéciales, des rituels obscurs et souvent l'aide d'autres umasis. Des rituels plus courts permettent de réparer rapidement les chairs blessées allant jusqu'à la consommation d'un organe riche en nutriments d'une créature récemment tuée peut permettre un rajeunissement rapide, tandis que des modifications plus importantes nécessitent une journée entière de travail.
+
+
+En raison de la nature de leurs existences, aucune forme unique ne reste commune aux umasis. Beaucoup d'entre eux se greffent un nombre quelconque de bras ou de jambes de tailles diverses sur leur corps, tandis que d'autres sont des conglomérats de bêtes exotiques, d'autres humanoïdes et de toutes les créatures qu'ils ont chassées ou récupérées. Cependant, tous les umasis ont une forme vaguement humanoïde. Un umasi avec des bras supplémentaires peut tenir ou manier plus d'objets à la fois, tandis que des jambes supplémentaires ou d'autres membres peuvent donner une vitesse accrue ou de nouveaux types de vitesse. Des concepts tels que le genre, l'ethnie et même la reconnaissance d'une personne sur la base de son apparence ne sont pas pertinents pour les umasis. Au lieu de cela, ils valorisent l'âge et l'expérience et s'identifient par des ornements iconiques ou des modes d'élocution.
+
+
+Malgré leur nature morbide, les umasis sont rarement en désaccord avec les créatures vivantes. Ces chasseurs opportunistes accordent de l'importance à leur préservation, mais utilisent des poisons non-létaux à action rapide pour soumettre leurs cibles à une récolte sûre et peu destructrice. Peu d'umasis nourrissent de la méchanceté envers les vivants, mais certains possèdent une certaine dose de dégoût de soi et recherchent des magies puissantes qui pourraient briser la malédiction qui les lie à leur état actuel. Il est rare qu'un umasi trouve une forme d'acceptation en marge d'une communauté éloignée où ses compétences en médecine ont plus de poids que la peur de ses apparences étranges.

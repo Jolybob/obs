@@ -1,0 +1,21 @@
+---
+title: "Doublure rejetée"
+title_en: "Discarded Duplicate"
+type: background
+source_id: "7fCZTzmv5I2dI4sr"
+collection: "backgrounds"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - background
+  - source/backgrounds
+---
+
+# Doublure rejetée
+Quelqu'un vous a créé dans un but précis. Une personne importante - qu'il s'agisse d'une famille royale, d'un politicien ou d'un chef militaire - avait besoin d'une doublure pour ses apparitions les plus dangereuses. Grâce à un mélange de science marginale et de magie, vous avez été commissionné et entraîné pour imiter cette personne en tout point et l'avez remplacée dans d'innombrables circonstances mortelles. Vous connaissez peut-être ou pas la raison de votre mise à l'écart mais celui qui vous a rejeté ne vous a pas achevé. Maintenant, le monde est à vous pour l'explorer - mais "vous" pouvez avoir une réputation audacieuse ou brutale ou l'individu que vous avez ainsi doublé peut être mort depuis longtemps. Quel que soit le sort de cet individu, votre mode de vie a radicalement changé.
+
+
+Vous et le MJ pouvez trouver un moyen d'intégrer votre vie antérieure dans votre histoire. Le MJ peut garder cette connaissance cachée même pour vous à moins que vous ou un autre personnage sachiez ce qui s'est passé. Vous et le MJ pouvez également laisser l'information en suspens et la compléter plus tard.
+
+
+Vous obtenez trois primes d'attributs libres. Vous en choisissez deux et le MJ en choisit une en fonction des attributs du personnage que vous avez été construit pour dupliquer.

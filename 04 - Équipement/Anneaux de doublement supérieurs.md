@@ -1,0 +1,21 @@
+---
+title: "Anneaux de doublement supérieurs"
+title_en: "Doubling Rings (Greater)"
+type: item
+source_id: "equipment-11-gRQXLqUuP4GWfDWI"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Anneaux de doublement supérieurs
+Cet objet se compose de deux anneaux magiquement liés ; un anneau effilé d'or étincelant orné d'un rubis taillé en carré et un épais anneau de fer simple. Quand vous maniez une arme de corps-à-corps dans la main qui porte l'anneau d'or, les runes fondamentales de l'arme sont dupliquées sur l'éventuelle arme de corps-à-corps que vous maniez dans la main qui porte l'anneau de fer (les runes fondamentales sont celles de *puissance d'arme* et *de frappe*, qui confèrent respectivement un bonus d'objet aux jets d'attaque et ajoutent un ou plusieurs dé(s) de dégâts d'armes). Les éventuelles runes fondamentales sur l'arme dans la main portant l'anneau de fer sont réprimées.
+
+
+La reproduction fonctionne uniquement si vous portez les deux anneaux et prend fin dès que vous cessez de manier une arme de corps-à-corps dans l'une de vos mains. Par conséquent, l'avantage ne s'applique pas aux attaques de jet ou si vous tenez une arme mais que vous ne la maniez pas (comme quand vous tenez une arme dans une main qui nécessite deux mains pour la manier).
+
+
+L'anneau duplique également les runes de propriété de l'arme dans la main qui porte l'anneau d'or, tant que l'arme dans la main portant l'anneau de fer satisfait tous les prérequis d'une rune donnée et que ce n'est pas une arme spécifique. L'arme dans la main portant l'anneau de fer bénéficie des avantages de ces runes. La totalité de ses propres runes sont alors réprimées. Quand vous investissez les anneaux, vous pouvez décider qu'ils reproduisent les runes fondamentales seulement, auquel cas ils fonctionnent comme des anneaux de doublement standard.

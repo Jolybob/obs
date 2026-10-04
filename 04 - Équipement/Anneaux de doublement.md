@@ -1,0 +1,18 @@
+---
+title: "Anneaux de doublement"
+title_en: "Doubling Rings"
+type: item
+source_id: "equipment-03-DwMXEqy7Ws8NYQQh"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Anneaux de doublement
+Cet objet se compose de deux anneaux magiquement liés : un anneau effilé d'or étincelant orné d'un rubis taillé en carré et un épais anneau de fer simple. Quand vous maniez une arme de corps-à-corps dans la main qui porte l'anneau d'or, les runes fondamentales de l'arme sont dupliquées sur l'éventuelle arme de corps-à-corps que vous maniez dans la main qui porte l'anneau de fer (les runes fondamentales sont celles de *puissance d'arme* et *de frappe*, qui confèrent respectivement un bonus d'objet aux jets d'attaque et ajoutent un ou plusieurs dé(s) de dégâts d'armes). Les éventuelles runes fondamentales sur l'arme dans la main portant l'anneau de fer sont réprimées.
+
+
+La reproduction fonctionne uniquement si vous portez les deux anneaux et prend fin dès que vous cessez de manier une arme de corps-à-corps dans l'une de vos mains. Par conséquent, l'avantage ne s'applique pas aux attaques de jet ou si vous tenez une arme mais que vous ne la maniez pas (comme quand vous tenez une arme dans une main qui nécessite deux mains pour la manier).

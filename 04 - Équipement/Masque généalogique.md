@@ -1,0 +1,42 @@
+---
+title: "Masque généalogique"
+title_en: "Genealogy Mask"
+type: item
+source_id: "equipment-01-wTYxAWrdsQ6SLVr9"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Masque généalogique
+**Accès** Ethnie Alijae
+
+
+
+
+
+Ces grands masques sont forgés dans des métaux précieux ou gravés dans le bois et ont la tâche de garder l'histoire d'une famille. La plupart des Alijae se voient remettre un masque généalogique lorsqu'ils deviennent adultes, qu'ils transmettent à leur successeur à leur mort. Lorsqu'un membre de la famille mentionnée dans le masque généalogique accomplit un événement particulièrement important alors qu'il porte le masque, ses yeux et ses oreilles s'animent, permettant à l'objet d'être témoin et d'enregistrer les faits pour la postérité. Les familles n'ont pas toutes les mêmes exigences en ce qui concerne les masques généalogiques : certaines privilégient l'exactitude et les faits cliniques objectifs, tandis que d'autres aiment embellir leurs histoires jusqu'à la limite de la crédibilité pour pouvoir raconter une bonne histoire.
+
+
+
+
+
+**Activation** 1 (concentration)
+
+
+**Fréquence** Une fois par jour
+
+
+
+
+
+**Effet** Vous demandez au masque de raconter les hauts faits d'un ancêtre particulier ; le masque parle pendant 10 minutes, relatant les contes mémorisés à propos de cet ancêtre. Le masque est limité par les informations que cet ancêtre particulier a partagé avec lui.
+
+
+
+
+
+**Conditions de fabrication** Fournir l'incantation de [[Souvenirs ancestraux]] ou [[Lien mental]]. Vous devez être un elfe Alijae.

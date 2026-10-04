@@ -1,0 +1,18 @@
+---
+title: "Frappe (rune)"
+title_en: "Striking"
+type: item
+source_id: "equipment-04-DxCuJKynlnMQZHgp"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Frappe (rune)
+Une rune *de frappe* emmagasine la magie destructrice dans l'arme, ce qui permet à l'arme d'infliger deux dés de dégâts au lieu d'un seul. Par exemple, une *dague de frappe +1* inflige 2d4 dégâts au lieu de 1d4.
+
+
+Vous pouvez améliorer la rune de frappe déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l'amélioration est égal à la différence de prix entre les deux runes.

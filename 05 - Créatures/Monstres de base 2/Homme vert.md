@@ -1,0 +1,18 @@
+---
+title: "Homme vert"
+title_en: "Green Man"
+type: creature
+source_id: "vpXcLtLPWNRGSQWA"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Homme vert
+Les hommes verts sont d'anciennes et énigmatiques divinités inférieures des forêts primordiales, incarnations vivantes de la nature et du végétal. Lorsqu'une forêt ou un autre terrain boisé génère suffisamment d'esprits de la nature, des êtres qui possèdent le même genre d'essence vitale qui s'incarne dans les léchis ou qui répondent à l'appel d'une communion avec la nature, ils fusionnent naturellement dans une forme d'apothéose pour former un homme vert. Les hommes verts ne s'intéressent pas aux multiples processus de la nature comme Gozreh ou beaucoup d'autres divinités de la nature. Au lieu de cela, ils concentrent presque toute leur attention aux plantes de leur habitat, ne s'intéressant aux animaux, aux minéraux et autres que dans la mesure où ils affectent ces plantes. Malgré leur nom, les hommes verts ne sont pas nécessairement des hommes ; en tant que créatures de pure puissance naturelle, pour beaucoup d'entre eux, le concept de genre n'a aucun sens et, pour ceux qui en ont un, ils peuvent être de n'importe quel genre.
+
+
+La plupart des hommes verts sont d'alignement neutre et ont tendance à ignorer les "animaux", ce qui, pour eux, inclut les créatures dotées de conscience tels les humanoïdes. Cependant, il existe des hommes verts bons et mauvais. Ces individus sont bien plus susceptibles de tenter de répandre leur influence à la ronde, que ce soit en bien ou en mal. Les bons hommes verts apportent leur aide à tous ceux qui entrent dans leur domaine et pas seulement aux plantes, en leur offrant la sagesse d'un parent nourricier. Les hommes verts maléfiques, en revanche, permettent aux plantes rares et dangereuses de prospérer dans leurs domaines en répandant la peur et la dévastation chez tous ceux qui pourraient menacer la vie végétale, bien qu'ils puissent garder quelques animaux autour d'eux pour les chasser pour le sport.

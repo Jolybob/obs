@@ -1,0 +1,36 @@
+---
+title: "Gemme de chair d'orateur de la terre"
+title_en: "Fleshgem (Earthspeaker)"
+type: item
+source_id: "equipment-08-bh3zC7WcVlM0qgYZ"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Gemme de chair d'orateur de la terre
+Développés à l'origine comme une modification corporelle par les oréades, les gemmes de chair sont des cristaux qui peuvent être implantés dans la peau d'une créature de n'importe quelle ascendance. Bien qu'une gemme de chair puisse être appliquée n'importe où sur le corps à des fins esthétiques, l'usage le plus courant chez les aventuriers est de les implanter à la base des doigts, pour être utilisés comme des poings américains.
+
+
+Vous siphonnez la puissance de votre gemme de chair et la terre autour de vous voit apparaître une éruption de stalagmites de cristal.
+
+
+
+
+
+**Activation** 1 à 2 (concentration)
+
+
+**Fréquence** Une fois par jour
+
+
+**Conditions** Vous vous tenez sur de la terre
+
+
+
+
+
+**Effet** La terre autour de vous voit apparaître des éclats de cristal hauts jusqu'au genoux qui restent pendant un round ou une minute si vous dépensez deux actions dans une @Template[burst|distance:10]{explosion de 3 mètres}. Pour toutes les créatures autres que vous, le terrain devient un terrain difficile et un terrain dangereux. Les créatures qui se déplacent à travers une case de la zone contenant des éclats de cristal subissent @Damage[2[piercing]]{2 dégâts perforants}.

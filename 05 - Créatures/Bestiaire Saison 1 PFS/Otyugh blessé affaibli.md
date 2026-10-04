@@ -1,0 +1,21 @@
+---
+title: "Otyugh blessé affaibli"
+title_en: "Injured Weak Otyugh"
+type: creature
+source_id: "vve98ekdPx8nJbF1"
+collection: "pfs-season-1-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-1-bestiary
+---
+
+# Otyugh blessé affaibli
+Seigneurs des égouts, des dépotoirs et des décharges, les otyughs sont des monstruosités crasseuses qui se déplacent lourdement sur trois pattes massives à la recherche de savoureux détritus et de délicieuses ordures. Utilisant deux tentacules barbelés pour saisir et déchirer leurs prises, guidés par un troisième membre avec une prolifération d'yeux à son extrémité, l'otyugh est parfaitement adapté à la vie dans son répugnant environnement exigu où il se sert de ses appendices pour voir dans les espaces étroits et capturer des proies cachées.
+
+
+On pense généralement, qu'à l'origine, les otyughs ont évolué dans les marais avant de se réfugier dans les égouts quand la civilisation a empiété sur leur habitat naturel. Que cela soit vrai ou non, ils comptent aujourd'hui parmi les plus grands prédateurs de ces environnements humides. Les otyughs sont territoriaux mais ils sont connus pour parfois constituer des sortes de collectivités allant même jusqu'à se donner des titres ronflants comme « roi des déchets » et « duchesse du limon » pour indiquer leur rang et leur statut dans le monde souterrain boueux qui s'étend sous les rues.
+
+
+Ceux qui croisent la route d'un otyugh peuvent être surpris de l'entendre parler, hurlant aux intrus de quitter son domaine putride ou exigeant un tribut sous forme de déchets ou d'autres présents d'une nature douteuse.

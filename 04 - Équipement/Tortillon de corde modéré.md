@@ -1,0 +1,27 @@
+---
+title: "Tortillon de corde modéré"
+title_en: "Twisting Twine (Moderate)"
+type: item
+source_id: "equipment-05-5QbocabfxRZjb3qn"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Tortillon de corde modéré
+Cette balle de chanvre entortillée résiste aux efforts pour la démêler à la main.
+
+
+**Activation - Démêler** 1 (manipulation)
+
+
+**Fréquence** Une fois par heure
+
+
+
+
+
+**Effet** Vous lancez cette balle de corde entremêlée dans une case située dans les 6 mètres. Les cordes se démêlent et s'animent et tentent de [[Désarmer]] ou de faire un [[Croc-en-jambe]] (selon votre choix) à une créature dans la case avec un total de +12 au test d'Athlétisme. À la fin de votre tour, les cordes s'enroulent pour former une balle qui revient dans votre main. Si vous ne disposez pas d'une main libre, elle revient simplement dans votre espace à la place.

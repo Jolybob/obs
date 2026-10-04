@@ -1,0 +1,23 @@
+---
+title: "Bison"
+type: creature
+source_id: "z2qSD3VrlRsXGHT5"
+collection: "pathfinder-monster-core-2"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pathfinder-monster-core-2
+---
+
+# Bison
+Les bisons sont de grands bovins au visage court, dotés de deux cornes ; ils pèsent pratiquement une tonne et mesurent jusqu'à 1,80 mètres au garrot. Les troupeaux de bisons grondent dans les plaines herbeuses de Golarion, faisant trembler la terre de leur masse réunie. On les voit souvent le long des Plaines sifflantes à l'est du Taldor et dans les vastes prairies de la nation de Karazh à Casmaron ; ils apparaissent aussi fréquemment dans les régions plus fraîches du nord-est de l'Avistan, dans les Royaumes fluviaux jusqu'en Numérie, ainsi que dans le Royaume des Seigneurs mammouths et l'ouest du Sarkoris.
+
+
+Communautaires par nature, les bisons se rassemblent en grand nombre pour la saison d'accouplement estivale avant que les mâles ne se séparent pour errer dans les prairies herbeuses. Les bisons se sont bien adaptés aux rudes hivers de la prairie, car leur fourrure hirsute, qui s'épaissit en hiver, les isole ; face aux blizzards, ils survivent en faisant résolument face aux vents hurlants et en se recroquevillant pour réduire leur exposition.
+
+
+La façon dont les bisons se vautrent dans la terre ou se frottent contre de grosses pierres pourrait laisser penser que leur nature docile n'est que de la passivité. Cependant, cette présomption a été la ruine de nombreuses parties de chasse. Leur viande abondante et leurs épaisses fourrures font des bisons une proie attrayante, mais avec le sol qui gronde sous eux, les bisons peuvent rapidement avoir raison des chasseurs inexpérimentés qui ne sont pas préparés à affronter un troupeau en furie. Ces groupes de chasseurs engagent parfois des aventuriers particulièrement audacieux, qui peuvent ajouter leurs sorts, leur acier et leur expertise pour assurer le succès de la chasse.
+
+
+Si les bisons des plaines sont les plus connus et les plus nombreux, ils ont des cousins aussi bien dans les épaisses forêts boréales que le long des grandes steppes ouvertes. Ces variantes de bisons sont plus grandes mais ne peuvent pas rivaliser avec la vitesse et l'agressivité de leurs parents des plaines, plus petits.

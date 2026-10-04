@@ -1,0 +1,15 @@
+---
+title: "Sac"
+title_en: "Sack"
+type: item
+source_id: "backpack-00-DujblC14ytJEZMaz"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Sac
+Un sac peut contenir des objets jusqu'à un Encombrement 8. Un sac contenant un Encombrement 2 ou moins peut être porté sur le corps, généralement noué à la ceinture. Vous pouvez porter un sac d'une seule main, mais vous devez utiliser les deux mains pour y transférer des objets ou les en retirer.

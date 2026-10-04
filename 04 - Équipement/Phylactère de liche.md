@@ -1,0 +1,18 @@
+---
+title: "Phylactère de liche"
+title_en: "Lich Soul Cage"
+type: item
+source_id: "equipment-12-NEbr7nKuiluJgBHT"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Phylactère de liche
+Cet objet est fabriqué par un lanceur de sorts qui souhaite devenir une liche. Quand une liche est détruite, son âme s'enfuit vers le phylactère. Le phylactère reconstruit alors le corps mort-vivant de la liche sur une période de [[/gmr 1d10 #jours]]{1d10 jours}. Ensuite, la liche se manifeste à côté du phylactère, entièrement guérie et dans un nouveau corps (elle est donc dépourvue de tout équipement qu'elle avait sur son ancien corps). Le phylactère d'une liche doit être détruit pour empêcher la liche de revenir.
+
+
+Le phylactère standard est une boîte métallique scellée contenant des bandes de parchemin sur lesquelles des phrases magiques sont inscrites. Cette boîte possède une Solidité de 9 et 36 PV, mais certaines liches conçoivent des phylactères plus durables ou difficiles à obtenir. Un phylactère peut également se présenter sous la forme d'une bague, d'une amulette ou d'un objet similaire ; les détails sont laissés à l'appréciation du créateur.

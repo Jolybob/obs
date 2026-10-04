@@ -1,0 +1,24 @@
+---
+title: "Voleur sans tête"
+title_en: "Headless Rustler"
+type: creature
+source_id: "hm6S6xdvn0pL2t3D"
+collection: "outlaws-of-alkenstar-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/outlaws-of-alkenstar-bestiary
+---
+
+# Voleur sans tête
+Chevauchant des chevaux aussi noirs que la nuit, le chasseur sans tête connu sous le nom de Dullahan traque ceux qu'il considère indignes de vivre avant de leur prendre leur tête. Avant d'achever sa proie, le dullahan murmure le nom de sa victime avant de collecter son trophée frappant de terreur tous ceux qui assistent à l'exécution.
+
+
+Un dullahan se manifeste quand un guerrier particulièrement violent est décapité et que son âme s'accroche à son existence matérielle (ou si on lui refuse le passage dans l'après-vie). La plupart des dullahans reviennent dans leur pays d'origine où ils peuvent se venger de tous ceux qui, selon eux, leur ont fait du tort (ou leurs descendants vivants). La notion de justice d'un dullahan est rapide et sans pitié et une fois qu'il a choisi une cible, rien ne peut le détourner de son but. Peut-être plus que de se venger des vivants, un dullahan veut récupérer sa propre tête pourrissante. Un individu possédant une de ces têtes est un être puissant car le dullahan le servira dans l'espoir de pouvoir la récupérer.
+
+
+De puissants fiélons comme les diables commandent des dullahans pour qu'ils récoltent des âmes ou commandent leurs armées tandis qu'un mortel peut utiliser ce guerrier mort-vivant pour accomplir ses propres vendettas. Quel que soit le statut ou la position de son maître, un dullahan n'hésitera pas à tuer son seigneur et à récupérer sa tête s'il en a l'occasion.
+
+
+La plupart des tanières des dullahans sont des ruines abandonnées envahies par la végétation ou d'autres lieux délabrés où des têtes coupées et d'autres trophées sont alignés sur les murs. Certains Dullahans, d'un autre côté, se contentent de commettre leurs exactions et laissent les restes de leurs victimes décapitées dans les rues, parmi des bosquets d'arbres morts ou abandonnés dans des tourbières.

@@ -1,0 +1,20 @@
+---
+title: "Ygracix"
+type: creature
+source_id: "xRwAQ93HjGe59RvO"
+collection: "pfs-season-2-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-2-bestiary
+---
+
+# Ygracix
+Les diablotins sont des infiltrés et des corrupteurs qui, malgré leur petite taille, sont plus que capables d'influencer subtilement des individus à la volonté faible pour qu'ils commettent des actes de plus en plus maléfiques. Un diablotin acceptera souvent de servir un mortel et se comportera docilement et loyalement dans l'optique à long terme de condamner l'âme de son maître aux Enfers. Les diablotins sont directement engendrés par les Enfers, et non pas les âmes des mortels, aussi ils servent en dehors de la hiérarchie diabolique habituelle ce qui leur octroie une grande latitude pour agir. Malgré une taille de 60 centimètres, ils peuvent être des combattants féroces, s'envolant hors de portée et devenant invisibles pour s'échapper si les choses tournent mal pour eux.
+
+
+
+
+
+Maîtres de la corruption et architectes des conquêtes, les diables cherchent aussi bien à tenter les mortels pour qu'ils se joignent à leur quête blasphématoire, qu'à répandre la tyrannie sur tous les mondes. Les tentations auxquelles ils peuvent soumettre les mortels vont de grands pouvoirs accordés en signant un contrat infernal à des faveurs perverses octroyées après un serment adressé dans un murmure à une entité diabolique, en passant par toutes sortes d'échanges plus subtils. Ceux qui succombent à ces tentations se retrouvent condamnés à une après-vie de tourments éternels dans les gouffres des Enfers dont ils ne peuvent s'échapper qu'en étant promus en devenant des diables au sein des légions infernales. Chaque diable a un rôle précis à jouer dans l'entretien de la machine bureaucratique sans scrupule que sont les Enfers, des soldats et des érudits aux inquisiteurs, avocats, juges et exécuteurs. Les diables de rang inférieur comme les lémures et les diablotins s'occupent de tâches subalternes pour des diables plus puissants et spécialisés, comme les diables des contrats et les érinyes, tandis que les plus grands d'entre eux les diantrefosses, commandent des armées infernales.

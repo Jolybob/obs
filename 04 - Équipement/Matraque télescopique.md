@@ -1,0 +1,15 @@
+---
+title: "Matraque télescopique"
+title_en: "Nightstick"
+type: item
+source_id: "weapon-00-80G0z7iFUCjHeYGf"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Matraque télescopique
+Ce bâton repliable est constitué de plusieurs barres de métal imbriquées qui peuvent être déployées par un simple mouvement du poignet qui compte comme une action gratuite. Une fois qu'il est déployé sur toute sa longueur (généralement autour de 60 cm), le bâton maintient cette forme jusqu'à ce que son utilisateur utilise une action Interagir - une matraque télescopique repliée mesure 20 cm et peut donc facilement être cachée. Plus légère et plus manœuvrable qu'un gourdin ou qu'une matraque ordinaire, les matraques télescopiques sont conçues pour maîtriser des adversaires sans causer de blessures permanentes. Une matraque télescopique est une arme de corps-à-corps simple peu courante.

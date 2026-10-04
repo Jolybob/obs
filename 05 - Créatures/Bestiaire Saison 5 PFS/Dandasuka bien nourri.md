@@ -1,0 +1,24 @@
+---
+title: "Dandasuka bien nourri"
+title_en: "Well-Fed Dandasuka"
+type: creature
+source_id: "vzVej5D1DNHNQwoZ"
+collection: "pfs-season-5-bestiary"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - creature
+  - source/pfs-season-5-bestiary
+---
+
+# Dandasuka bien nourri
+Surnommés les « mordeurs » au sein des castes plus puissantes de rakshasas, les dandasukas font généralement office d'espions et d'assassins pour les clans rakshasas ou sont au service de puissants incantateurs qui ont trouvé des méthodes pour asservir ces fiélons. Dotées d'un talent inné pour la manipulation et le meurtre, ces terreurs demi-portion prennent un malin plaisir à accomplir leur office et se délectent à la vue du sang. Que ce soit sous leur forme véritable ou déguisés en enfants humains, en marchands halfelins ou en tout ce qui leur permettra de se fondre dans la société de leur choix, ils portent généralement des habits extravagants aux couleurs ostentatoires et multiplient les parures élaborées.
+
+
+Un rakshasa dandasuka est constamment soumis aux affres d'une faim dévorante qui aiguillonne son corps hyperactif et il doit donc se nourrir régulièrement. Au combat, un dandasuka pourra ainsi s'arrêter brusquement, le temps de lécher une lame ensanglantée ou une flaque de sang répandue sur le sol. Si ces créatures peuvent se contenter d'un autre type de viande en cas de nécessité, elles n'apprécient rien tant que la chair des mortels humanoïdes. Il est possible de s'assurer de la loyauté d'un dandasuka en lui offrant de tels mets à intervalles réguliers. Cependant, ceux qui veulent garder un dandasuka à leur service doivent faire preuve de prudence. De nombreux bruits évoquent en effet l'excès de zèle de ces fiélons qui, souhaitant plaire à leur bienfaiteur, prennent parfois certaines remarques désinvoltes bien trop littéralement et rendent avec violence des services qui ne leur ont pas été demandés.
+
+
+
+
+
+Les rakshasas sont des esprits maléfiques qui prennent l'apparence de créatures humanoïdes afin de pouvoir se déplacer anonymement à côté de leurs proies. Ils incarnent les tabous de la plupart des sociétés et se gorgent des actes ignobles qu'ils accomplissent alors qu'ils arborent la forme des créatures mêmes qu'ils souillent. Il existe de nombreux types de rakshasas. Les sinistres dandasukas et les infâmes rajas sont les deux espèces de rakshasas les plus répandues.

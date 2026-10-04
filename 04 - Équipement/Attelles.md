@@ -1,0 +1,15 @@
+---
+title: "Attelles"
+title_en: "Splint"
+type: item
+source_id: "equipment-00-02luiB9xtE1yaKzo"
+collection: "equipment"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - item
+  - source/equipment
+---
+
+# Attelles
+Les orthèses peuvent être appliquées aux articulations suivantes : doigt, main, poignet, coude, genou et tibia. Elles sont attachées à la zone souhaitée mais leur structure est plus rigide que celle des bandages et des écharpes, avec des barres de métal ou de bois fermement fixées contre la structure osseuse pour fournir un soutien constant (les attelles annulaires ne s'attachent qu'à un seul doigt). Elles sont un peu moins flexibles, mais vous avez toujours l'usage complet de vos membres et de vos doigts lorsque vous en utilisez une. Vous avez toujours la pleine mobilité du membre lorsque vous ne la portez pas, mais le membre devient douloureux et est plus précaire sans le soutien supplémentaire dont il bénéficie normalement, ce qui pourrait amener à des symptômes physiques.

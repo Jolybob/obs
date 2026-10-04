@@ -1,0 +1,15 @@
+---
+title: "Protéger un allié"
+title_en: "Protect Ally"
+type: feat
+source_id: "class-08-ASWqQ6RB7cfCsUo0"
+collection: "feats"
+source: "PF2e FR"
+tags:
+  - pf2e
+  - feat
+  - source/feats
+---
+
+# Protéger un allié
+Vous vous interposez entre vos amis et vos ennemis, protégeant ainsi vos alliés contre les attaques. Vous choisissez un allié adjacent. Cet allié obtient un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour ou jusqu'à ce que cet allié ne soit plus adjacent à vous, selon la première éventualité. Vous ne pouvez protéger qu'un seul allié de cette façon. Si vous choisissez de protéger un autre allié, l'allié précédent perd son bonus à la CA.
