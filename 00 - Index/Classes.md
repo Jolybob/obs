@@ -34,14 +34,14 @@ Les **29 classes** présentes dans le corpus sont importées automatiquement.
 - [[Magicien]]
 - [[Magus]]
 - [[Moine]]
+- [[Nécromancien]]
 - [[Oracle]]
 - [[Prêtre]]
+- [[Psychiste]]
 - [[Roublard]]
+- [[Rôdeur]]
 - [[Sorcier]]
 - [[Thaumaturge]]
-- [[Voleur]]
-- [[Psychique]]
-- [[Investigateur]]
 
 > [!info] Mise à jour
-> Cette page est une porte d'entrée vers les classes du corpus. La liste est maintenue avec l'import automatique.
+> Cette liste correspond aux 29 fiches présentes dans `02 - Personnage/Classes/`. Elle est régénérée avec le corpus.
