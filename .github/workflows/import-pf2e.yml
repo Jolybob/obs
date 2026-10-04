@@ -1,0 +1,39 @@
+name: Build PF2e FR Obsidian corpus
+
+on:
+  push:
+    paths:
+      - "tools/import_pf2e_fr.py"
+      - ".github/workflows/import-pf2e.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    if: "!contains(github.event.head_commit.message, '[pf2e-import]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+
+      - name: Clone upstream French corpus
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse             https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git             ../foundryvtt-pathfinder2-fr
+          cd ../foundryvtt-pathfinder2-fr
+          git sparse-checkout set data scripts
+
+      - name: Generate Obsidian notes
+        run: |
+          python tools/import_pf2e_fr.py             --source ../foundryvtt-pathfinder2-fr             --output .
+
+      - name: Commit generated corpus
+        run: |
+          git config user.name "pf2e-import[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && exit 0
+          git commit -m "[pf2e-import] Update French PF2e corpus"
+          git push
